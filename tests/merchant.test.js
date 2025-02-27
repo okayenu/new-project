@@ -1,10 +1,10 @@
 /**
- * Unit tests: recommendation-quality core logic
- * Task: Write unit tests for recommendation quality core logic in `tests/merchant.test.j
+ * Unit tests: video-review-ecosystem core logic
+ * Task: Write unit tests for video review ecosystem core logic in `tests/merchant.test.j
  */
 'use strict';
 
-const { RecommendationQualityService } = require('../backend/services/recommendation-quality');
+const { VideoReviewEcosystemService } = require('../backend/services/video-review-ecosystem');
 
 const mockRepository = {
   findMany: jest.fn(),
@@ -19,14 +19,14 @@ const mockEventBus = { emit: jest.fn() };
 let service;
 beforeEach(() => {
   jest.clearAllMocks();
-  service = new RecommendationQualityService({
+  service = new VideoReviewEcosystemService({
     repository: mockRepository,
     logger: mockLogger,
     eventBus: mockEventBus,
   });
 });
 
-describe('RecommendationQualityService', () => {
+describe('VideoReviewEcosystemService', () => {
   describe('getAll', () => {
     it('returns items from repository', async () => {
       mockRepository.findMany.mockResolvedValue([{ id: '1' }]);
@@ -61,7 +61,7 @@ describe('RecommendationQualityService', () => {
       const payload = { status: 'active' };
       mockRepository.create.mockResolvedValue({ id: 'new', ...payload });
       const result = await service.create(payload);
-      expect(mockEventBus.emit).toHaveBeenCalledWith('recommendation-quality:created', result);
+      expect(mockEventBus.emit).toHaveBeenCalledWith('video-review-ecosystem:created', result);
     });
   });
 
@@ -69,7 +69,7 @@ describe('RecommendationQualityService', () => {
     it('deletes and emits event', async () => {
       mockRepository.delete.mockResolvedValue(1);
       await service.remove('123');
-      expect(mockEventBus.emit).toHaveBeenCalledWith('recommendation-quality:deleted', { id: '123' });
+      expect(mockEventBus.emit).toHaveBeenCalledWith('video-review-ecosystem:deleted', { id: '123' });
     });
   });
 
