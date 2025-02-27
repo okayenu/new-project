@@ -1,10 +1,10 @@
 /**
- * Service boundary: review-relevance
- * Task: Implement modular service boundary for review relevance in `backend/services/che
+ * Service boundary: checkout-orchestration
+ * Task: Implement modular service boundary for checkout orchestration in `backend/servic
  */
 'use strict';
 
-class ReviewRelevanceService {
+class CheckoutOrchestrationService {
   /**
    * @param {object} deps - Injected dependencies
    * @param {object} deps.repository - Data-access layer
@@ -18,34 +18,34 @@ class ReviewRelevanceService {
   }
 
   async getAll(filters = {}) {
-    this.logger.info('[ReviewRelevanceService] getAll', { filters });
+    this.logger.info('[CheckoutOrchestrationService] getAll', { filters });
     return this.repository.findMany(filters);
   }
 
   async getById(id) {
-    this.logger.info('[ReviewRelevanceService] getById', { id });
+    this.logger.info('[CheckoutOrchestrationService] getById', { id });
     return this.repository.findById(id);
   }
 
   async create(payload) {
-    this.logger.info('[ReviewRelevanceService] create', { payload });
+    this.logger.info('[CheckoutOrchestrationService] create', { payload });
     const record = await this.repository.create(payload);
-    this.eventBus.emit('review-relevance:created', record);
+    this.eventBus.emit('checkout-orchestration:created', record);
     return record;
   }
 
   async update(id, payload) {
-    this.logger.info('[ReviewRelevanceService] update', { id });
+    this.logger.info('[CheckoutOrchestrationService] update', { id });
     const record = await this.repository.update(id, payload);
-    this.eventBus.emit('review-relevance:updated', record);
+    this.eventBus.emit('checkout-orchestration:updated', record);
     return record;
   }
 
   async remove(id) {
-    this.logger.info('[ReviewRelevanceService] remove', { id });
+    this.logger.info('[CheckoutOrchestrationService] remove', { id });
     await this.repository.delete(id);
-    this.eventBus.emit('review-relevance:deleted', { id });
+    this.eventBus.emit('checkout-orchestration:deleted', { id });
   }
 }
 
-module.exports = { ReviewRelevanceService };
+module.exports = { CheckoutOrchestrationService };
