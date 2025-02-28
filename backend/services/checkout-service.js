@@ -1,10 +1,10 @@
 /**
- * Service boundary: checkout-orchestration
- * Task: Implement modular service boundary for checkout orchestration in `backend/servic
+ * Service boundary: personalization
+ * Task: Implement modular service boundary for personalization in `backend/services/chec
  */
 'use strict';
 
-class CheckoutOrchestrationService {
+class PersonalizationService {
   /**
    * @param {object} deps - Injected dependencies
    * @param {object} deps.repository - Data-access layer
@@ -18,34 +18,34 @@ class CheckoutOrchestrationService {
   }
 
   async getAll(filters = {}) {
-    this.logger.info('[CheckoutOrchestrationService] getAll', { filters });
+    this.logger.info('[PersonalizationService] getAll', { filters });
     return this.repository.findMany(filters);
   }
 
   async getById(id) {
-    this.logger.info('[CheckoutOrchestrationService] getById', { id });
+    this.logger.info('[PersonalizationService] getById', { id });
     return this.repository.findById(id);
   }
 
   async create(payload) {
-    this.logger.info('[CheckoutOrchestrationService] create', { payload });
+    this.logger.info('[PersonalizationService] create', { payload });
     const record = await this.repository.create(payload);
-    this.eventBus.emit('checkout-orchestration:created', record);
+    this.eventBus.emit('personalization:created', record);
     return record;
   }
 
   async update(id, payload) {
-    this.logger.info('[CheckoutOrchestrationService] update', { id });
+    this.logger.info('[PersonalizationService] update', { id });
     const record = await this.repository.update(id, payload);
-    this.eventBus.emit('checkout-orchestration:updated', record);
+    this.eventBus.emit('personalization:updated', record);
     return record;
   }
 
   async remove(id) {
-    this.logger.info('[CheckoutOrchestrationService] remove', { id });
+    this.logger.info('[PersonalizationService] remove', { id });
     await this.repository.delete(id);
-    this.eventBus.emit('checkout-orchestration:deleted', { id });
+    this.eventBus.emit('personalization:deleted', { id });
   }
 }
 
-module.exports = { CheckoutOrchestrationService };
+module.exports = { PersonalizationService };
