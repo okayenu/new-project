@@ -1,6 +1,6 @@
 /**
  * Analytics event instrumentation: personalization
- * Task: Instrument analytics for personalization interactions: upload success, shuffle s
+ * Task: Instrument analytics events for personalization interactions (view/click/submit)
  */
 'use strict';
 
