@@ -1,10 +1,10 @@
 /**
- * Unit tests: 3d-product-rendering core logic
- * Task: Write unit tests for 3D product rendering core logic in `tests/merchant.test.js`
+ * Unit tests: delivery-visibility core logic
+ * Task: Write unit tests for delivery visibility core logic in `tests/merchant.test.js`,
  */
 'use strict';
 
-const { 3dProductRenderingService } = require('../backend/services/3d-product-rendering');
+const { DeliveryVisibilityService } = require('../backend/services/delivery-visibility');
 
 const mockRepository = {
   findMany: jest.fn(),
@@ -19,14 +19,14 @@ const mockEventBus = { emit: jest.fn() };
 let service;
 beforeEach(() => {
   jest.clearAllMocks();
-  service = new 3dProductRenderingService({
+  service = new DeliveryVisibilityService({
     repository: mockRepository,
     logger: mockLogger,
     eventBus: mockEventBus,
   });
 });
 
-describe('3dProductRenderingService', () => {
+describe('DeliveryVisibilityService', () => {
   describe('getAll', () => {
     it('returns items from repository', async () => {
       mockRepository.findMany.mockResolvedValue([{ id: '1' }]);
@@ -61,7 +61,7 @@ describe('3dProductRenderingService', () => {
       const payload = { status: 'active' };
       mockRepository.create.mockResolvedValue({ id: 'new', ...payload });
       const result = await service.create(payload);
-      expect(mockEventBus.emit).toHaveBeenCalledWith('3d-product-rendering:created', result);
+      expect(mockEventBus.emit).toHaveBeenCalledWith('delivery-visibility:created', result);
     });
   });
 
@@ -69,7 +69,7 @@ describe('3dProductRenderingService', () => {
     it('deletes and emits event', async () => {
       mockRepository.delete.mockResolvedValue(1);
       await service.remove('123');
-      expect(mockEventBus.emit).toHaveBeenCalledWith('3d-product-rendering:deleted', { id: '123' });
+      expect(mockEventBus.emit).toHaveBeenCalledWith('delivery-visibility:deleted', { id: '123' });
     });
   });
 
