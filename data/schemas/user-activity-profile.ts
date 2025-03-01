@@ -1,6 +1,6 @@
 /**
  * Schema contracts for general
- * Generated task: Design and document catalog intelligence schema contracts for `user_activity_pro
+ * Generated task: Design and document shopping assistant schema contracts for `user_activity_profi
  *
  * Migration notes:
  *  - v1 -> v2: added optional fields; backward-compatible
