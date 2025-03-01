@@ -1286,3 +1286,59 @@ npx jest tests/review-relevance-integration
 ```
 
 ---
+
+## Search And Discovery
+
+> Task: Add developer docs for search and discovery setup, endpoint contracts, and local test commands in `d
+
+### Setup
+
+```bash
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
+```
+
+### Endpoint Contracts
+
+| Method | Path | Description |
+|--------|------|-------------|
+| GET | `/api/search-and-discovery` | List all search-and-discovery items |
+| GET | `/api/search-and-discovery/:id` | Get single item |
+| POST | `/api/search-and-discovery` | Create item |
+| PUT | `/api/search-and-discovery/:id` | Update item |
+| DELETE | `/api/search-and-discovery/:id` | Remove item |
+
+### Request / Response shapes
+
+**POST /api/search-and-discovery**
+```json
+{
+  "status": "active",
+  "metadata": {}
+}
+```
+
+**Response 201**
+```json
+{
+  "data": {
+    "id": "<uuid>",
+    "status": "active",
+    "createdAt": "<iso>",
+    "updatedAt": "<iso>",
+    "metadata": {}
+  }
+}
+```
+
+### Local test commands
+
+```bash
+npx jest tests/search-and-discovery
+npx jest tests/search-and-discovery-integration
+```
+
+---
