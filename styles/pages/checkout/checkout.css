@@ -82,7 +82,7 @@
      take up half the remaining space in the grid
      (they will divide up the remaining space evenly). */
   grid-template-columns: 100px 1fr 1fr;
-  column-gap: 25px;
+  column-gap: 24px;
 }
 
 @media (max-width: 1000px) {
