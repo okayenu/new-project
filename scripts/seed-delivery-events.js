@@ -1,8 +1,8 @@
 /**
- * Seed-data generator: community-experiences
- * Task: Create seed-data generator for community experiences scenarios in `scripts/seed-
+ * Seed-data generator: recommendation-quality
+ * Task: Create seed-data generator for recommendation quality scenarios in `scripts/seed
  *
- * Usage: node scripts/seed-community-experiences.js
+ * Usage: node scripts/seed-recommendation-quality.js
  */
 'use strict';
 
@@ -19,9 +19,9 @@ function generateItem(index) {
     createdAt: new Date(Date.now() - index * 86400000).toISOString(),
     updatedAt: new Date().toISOString(),
     metadata: {
-      source: 'community-experiences-seed',
+      source: 'recommendation-quality-seed',
       version: '1.0.0',
-      tags: ['community-experiences', `item-${index}`],
+      tags: ['recommendation-quality', `item-${index}`],
     },
   };
 }
@@ -42,5 +42,5 @@ function generateUserJourneyEvents(items) {
 const dataset = generateDataset();
 const events = generateUserJourneyEvents(dataset);
 
-console.log(`[seed:community-experiences] Generated ${dataset.length} items and ${events.length} events`);
+console.log(`[seed:recommendation-quality] Generated ${dataset.length} items and ${events.length} events`);
 module.exports = { dataset, events, generateItem, generateDataset };
