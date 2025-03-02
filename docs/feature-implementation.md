@@ -1342,3 +1342,59 @@ npx jest tests/search-and-discovery-integration
 ```
 
 ---
+
+## Merchant Operations
+
+> Task: Add developer docs for merchant operations setup, endpoint contracts, and local test commands in `do
+
+### Setup
+
+```bash
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
+```
+
+### Endpoint Contracts
+
+| Method | Path | Description |
+|--------|------|-------------|
+| GET | `/api/merchant-operations` | List all merchant-operations items |
+| GET | `/api/merchant-operations/:id` | Get single item |
+| POST | `/api/merchant-operations` | Create item |
+| PUT | `/api/merchant-operations/:id` | Update item |
+| DELETE | `/api/merchant-operations/:id` | Remove item |
+
+### Request / Response shapes
+
+**POST /api/merchant-operations**
+```json
+{
+  "status": "active",
+  "metadata": {}
+}
+```
+
+**Response 201**
+```json
+{
+  "data": {
+    "id": "<uuid>",
+    "status": "active",
+    "createdAt": "<iso>",
+    "updatedAt": "<iso>",
+    "metadata": {}
+  }
+}
+```
+
+### Local test commands
+
+```bash
+npx jest tests/merchant-operations
+npx jest tests/merchant-operations-integration
+```
+
+---
