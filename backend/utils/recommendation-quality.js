@@ -1,31 +1,56 @@
 /**
- * Recommendation Quality
- * Task: Build recommendation dialogue actions for recommendation quality: refine intent,
+ * Shared utilities: recommendation-quality
+ * Task: Run refactor pass: extract shared utilities for recommendation quality formattin
  */
 'use strict';
 
 /**
- * Core implementation for recommendation-quality.
- * Extend this module as requirements are clarified.
+ * Format a recommendation-quality item for API responses.
+ * Deduplicated from service and route layers.
  */
-
-const CONFIG = {
-  domain: 'recommendation-quality',
-  version: '1.0.0',
-  enabled: true,
-};
-
-function initialize(options = {}) {
-  return { ...CONFIG, ...options, initializedAt: new Date().toISOString() };
-}
-
-function process(input) {
-  if (!input) throw new Error('[recommendation-quality] Input is required');
+function formatItem(raw) {
+  if (!raw) return null;
   return {
-    domain: CONFIG.domain,
-    input,
-    processedAt: new Date().toISOString(),
+    id: raw.id,
+    status: raw.status,
+    createdAt: raw.createdAt,
+    updatedAt: raw.updatedAt,
+    metadata: raw.metadata || {},
   };
 }
 
-module.exports = { CONFIG, initialize, process };
+/** Format a list of items */
+function formatList(items = []) {
+  return items.map(formatItem).filter(Boolean);
+}
+
+/** Deduplicated constants */
+const STATUSES = Object.freeze(['active', 'inactive', 'pending']);
+const DEFAULT_LIMIT = 20;
+const DEFAULT_OFFSET = 0;
+
+/**
+ * Map raw DB row to API response shape.
+ * Used across service, repository, and route layers.
+ */
+function mapResponseShape(item) {
+  return {
+    ...formatItem(item),
+    _links: {
+      self: `/api/recommendation-quality/${item.id}`,
+      collection: `/api/recommendation-quality`,
+    },
+  };
+}
+
+/**
+ * Parse and validate pagination params from query string.
+ */
+function parsePagination(query = {}) {
+  return {
+    limit: Math.min(parseInt(query.limit, 10) || DEFAULT_LIMIT, 100),
+    offset: parseInt(query.offset, 10) || DEFAULT_OFFSET,
+  };
+}
+
+module.exports = { formatItem, formatList, mapResponseShape, parsePagination, STATUSES };
