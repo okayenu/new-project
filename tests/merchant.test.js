@@ -1,10 +1,10 @@
 /**
- * Unit tests: delivery-visibility core logic
- * Task: Write unit tests for delivery visibility core logic in `tests/merchant.test.js`,
+ * Unit tests: review-relevance core logic
+ * Task: Write unit tests for review relevance core logic in `tests/merchant.test.js`, in
  */
 'use strict';
 
-const { DeliveryVisibilityService } = require('../backend/services/delivery-visibility');
+const { ReviewRelevanceService } = require('../backend/services/review-relevance');
 
 const mockRepository = {
   findMany: jest.fn(),
@@ -19,14 +19,14 @@ const mockEventBus = { emit: jest.fn() };
 let service;
 beforeEach(() => {
   jest.clearAllMocks();
-  service = new DeliveryVisibilityService({
+  service = new ReviewRelevanceService({
     repository: mockRepository,
     logger: mockLogger,
     eventBus: mockEventBus,
   });
 });
 
-describe('DeliveryVisibilityService', () => {
+describe('ReviewRelevanceService', () => {
   describe('getAll', () => {
     it('returns items from repository', async () => {
       mockRepository.findMany.mockResolvedValue([{ id: '1' }]);
@@ -61,7 +61,7 @@ describe('DeliveryVisibilityService', () => {
       const payload = { status: 'active' };
       mockRepository.create.mockResolvedValue({ id: 'new', ...payload });
       const result = await service.create(payload);
-      expect(mockEventBus.emit).toHaveBeenCalledWith('delivery-visibility:created', result);
+      expect(mockEventBus.emit).toHaveBeenCalledWith('review-relevance:created', result);
     });
   });
 
@@ -69,7 +69,7 @@ describe('DeliveryVisibilityService', () => {
     it('deletes and emits event', async () => {
       mockRepository.delete.mockResolvedValue(1);
       await service.remove('123');
-      expect(mockEventBus.emit).toHaveBeenCalledWith('delivery-visibility:deleted', { id: '123' });
+      expect(mockEventBus.emit).toHaveBeenCalledWith('review-relevance:deleted', { id: '123' });
     });
   });
 
