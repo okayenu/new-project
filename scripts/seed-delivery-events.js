@@ -1,8 +1,8 @@
 /**
- * Seed-data generator: personalization
- * Task: Create seed-data generator for personalization scenarios in `scripts/seed-delive
+ * Seed-data generator: catalog-intelligence
+ * Task: Create seed-data generator for catalog intelligence scenarios in `scripts/seed-d
  *
- * Usage: node scripts/seed-personalization.js
+ * Usage: node scripts/seed-catalog-intelligence.js
  */
 'use strict';
 
@@ -19,9 +19,9 @@ function generateItem(index) {
     createdAt: new Date(Date.now() - index * 86400000).toISOString(),
     updatedAt: new Date().toISOString(),
     metadata: {
-      source: 'personalization-seed',
+      source: 'catalog-intelligence-seed',
       version: '1.0.0',
-      tags: ['personalization', `item-${index}`],
+      tags: ['catalog-intelligence', `item-${index}`],
     },
   };
 }
@@ -42,5 +42,5 @@ function generateUserJourneyEvents(items) {
 const dataset = generateDataset();
 const events = generateUserJourneyEvents(dataset);
 
-console.log(`[seed:personalization] Generated ${dataset.length} items and ${events.length} events`);
+console.log(`[seed:catalog-intelligence] Generated ${dataset.length} items and ${events.length} events`);
 module.exports = { dataset, events, generateItem, generateDataset };
