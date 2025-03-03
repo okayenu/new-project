@@ -1,6 +1,6 @@
 /**
  * Schema contracts for general
- * Generated task: Design and document video review ecosystem schema contracts for `user_activity_p
+ * Generated task: Design and document 3D product rendering schema contracts for `user_activity_pro
  *
  * Migration notes:
  *  - v1 -> v2: added optional fields; backward-compatible
