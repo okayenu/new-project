@@ -1454,3 +1454,59 @@ npx jest tests/community-experiences-integration
 ```
 
 ---
+
+## Recommendation Quality
+
+> Task: Add developer docs for recommendation quality setup, endpoint contracts, and local test commands in 
+
+### Setup
+
+```bash
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
+```
+
+### Endpoint Contracts
+
+| Method | Path | Description |
+|--------|------|-------------|
+| GET | `/api/recommendation-quality` | List all recommendation-quality items |
+| GET | `/api/recommendation-quality/:id` | Get single item |
+| POST | `/api/recommendation-quality` | Create item |
+| PUT | `/api/recommendation-quality/:id` | Update item |
+| DELETE | `/api/recommendation-quality/:id` | Remove item |
+
+### Request / Response shapes
+
+**POST /api/recommendation-quality**
+```json
+{
+  "status": "active",
+  "metadata": {}
+}
+```
+
+**Response 201**
+```json
+{
+  "data": {
+    "id": "<uuid>",
+    "status": "active",
+    "createdAt": "<iso>",
+    "updatedAt": "<iso>",
+    "metadata": {}
+  }
+}
+```
+
+### Local test commands
+
+```bash
+npx jest tests/recommendation-quality
+npx jest tests/recommendation-quality-integration
+```
+
+---
