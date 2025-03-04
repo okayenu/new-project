@@ -1,10 +1,10 @@
 /**
- * Service boundary: shopping-assistant
- * Task: Implement modular service boundary for shopping assistant in `backend/services/s
+ * Service boundary: video-review-ecosystem
+ * Task: Implement modular service boundary for video review ecosystem in `backend/servic
  */
 'use strict';
 
-class ShoppingAssistantService {
+class VideoReviewEcosystemService {
   /**
    * @param {object} deps - Injected dependencies
    * @param {object} deps.repository - Data-access layer
@@ -18,34 +18,34 @@ class ShoppingAssistantService {
   }
 
   async getAll(filters = {}) {
-    this.logger.info('[ShoppingAssistantService] getAll', { filters });
+    this.logger.info('[VideoReviewEcosystemService] getAll', { filters });
     return this.repository.findMany(filters);
   }
 
   async getById(id) {
-    this.logger.info('[ShoppingAssistantService] getById', { id });
+    this.logger.info('[VideoReviewEcosystemService] getById', { id });
     return this.repository.findById(id);
   }
 
   async create(payload) {
-    this.logger.info('[ShoppingAssistantService] create', { payload });
+    this.logger.info('[VideoReviewEcosystemService] create', { payload });
     const record = await this.repository.create(payload);
-    this.eventBus.emit('shopping-assistant:created', record);
+    this.eventBus.emit('video-review-ecosystem:created', record);
     return record;
   }
 
   async update(id, payload) {
-    this.logger.info('[ShoppingAssistantService] update', { id });
+    this.logger.info('[VideoReviewEcosystemService] update', { id });
     const record = await this.repository.update(id, payload);
-    this.eventBus.emit('shopping-assistant:updated', record);
+    this.eventBus.emit('video-review-ecosystem:updated', record);
     return record;
   }
 
   async remove(id) {
-    this.logger.info('[ShoppingAssistantService] remove', { id });
+    this.logger.info('[VideoReviewEcosystemService] remove', { id });
     await this.repository.delete(id);
-    this.eventBus.emit('shopping-assistant:deleted', { id });
+    this.eventBus.emit('video-review-ecosystem:deleted', { id });
   }
 }
 
-module.exports = { ShoppingAssistantService };
+module.exports = { VideoReviewEcosystemService };
