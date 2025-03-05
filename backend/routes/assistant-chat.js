@@ -1,6 +1,6 @@
 /**
- * API routes: personalization
- * Task: Create API route stubs for personalization in `backend/routes/assistant-chat.js`
+ * API routes: shopping-assistant
+ * Task: Create API route stubs for shopping assistant in `backend/routes/assistant-chat.
  */
 'use strict';
 
@@ -15,7 +15,7 @@ function validateBody(schema) {
   };
 }
 
-/** GET /api/personalization */
+/** GET /api/shopping-assistant */
 router.get('/', async (req, res) => {
   try {
     const items = await req.services.assistant-chat.getAll(req.query);
@@ -25,7 +25,7 @@ router.get('/', async (req, res) => {
   }
 });
 
-/** GET /api/personalization/:id */
+/** GET /api/shopping-assistant/:id */
 router.get('/:id', async (req, res) => {
   try {
     const item = await req.services.assistant-chat.getById(req.params.id);
@@ -36,7 +36,7 @@ router.get('/:id', async (req, res) => {
   }
 });
 
-/** POST /api/personalization */
+/** POST /api/shopping-assistant */
 router.post('/', async (req, res) => {
   try {
     const item = await req.services.assistant-chat.create(req.body);
@@ -46,7 +46,7 @@ router.post('/', async (req, res) => {
   }
 });
 
-/** PUT /api/personalization/:id */
+/** PUT /api/shopping-assistant/:id */
 router.put('/:id', async (req, res) => {
   try {
     const item = await req.services.assistant-chat.update(req.params.id, req.body);
@@ -57,7 +57,7 @@ router.put('/:id', async (req, res) => {
   }
 });
 
-/** DELETE /api/personalization/:id */
+/** DELETE /api/shopping-assistant/:id */
 router.delete('/:id', async (req, res) => {
   try {
     await req.services.assistant-chat.remove(req.params.id);
