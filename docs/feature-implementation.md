@@ -1510,3 +1510,59 @@ npx jest tests/recommendation-quality-integration
 ```
 
 ---
+
+## Checkout Orchestration
+
+> Task: Add developer docs for checkout orchestration setup, endpoint contracts, and local test commands in 
+
+### Setup
+
+```bash
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
+```
+
+### Endpoint Contracts
+
+| Method | Path | Description |
+|--------|------|-------------|
+| GET | `/api/checkout-orchestration` | List all checkout-orchestration items |
+| GET | `/api/checkout-orchestration/:id` | Get single item |
+| POST | `/api/checkout-orchestration` | Create item |
+| PUT | `/api/checkout-orchestration/:id` | Update item |
+| DELETE | `/api/checkout-orchestration/:id` | Remove item |
+
+### Request / Response shapes
+
+**POST /api/checkout-orchestration**
+```json
+{
+  "status": "active",
+  "metadata": {}
+}
+```
+
+**Response 201**
+```json
+{
+  "data": {
+    "id": "<uuid>",
+    "status": "active",
+    "createdAt": "<iso>",
+    "updatedAt": "<iso>",
+    "metadata": {}
+  }
+}
+```
+
+### Local test commands
+
+```bash
+npx jest tests/checkout-orchestration
+npx jest tests/checkout-orchestration-integration
+```
+
+---
