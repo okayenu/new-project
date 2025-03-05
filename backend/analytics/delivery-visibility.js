@@ -1,6 +1,6 @@
 /**
  * Analytics event instrumentation: delivery-visibility
- * Task: Instrument analytics for delivery visibility interactions: upload success, shuff
+ * Task: Instrument analytics events for delivery visibility interactions (view/click/sub
  */
 'use strict';
 
