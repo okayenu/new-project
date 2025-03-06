@@ -1,6 +1,6 @@
 /**
  * Analytics event instrumentation: review-relevance
- * Task: Instrument analytics for review relevance interactions: upload success, shuffle 
+ * Task: Instrument analytics events for review relevance interactions (view/click/submit
  */
 'use strict';
 
