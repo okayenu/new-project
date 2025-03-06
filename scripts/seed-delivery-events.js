@@ -1,8 +1,8 @@
 /**
- * Seed-data generator: video-review-ecosystem
- * Task: Create seed-data generator for video review ecosystem scenarios in `scripts/seed
+ * Seed-data generator: 3d-product-rendering
+ * Task: Create seed-data generator for 3D product rendering scenarios in `scripts/seed-d
  *
- * Usage: node scripts/seed-video-review-ecosystem.js
+ * Usage: node scripts/seed-3d-product-rendering.js
  */
 'use strict';
 
@@ -19,9 +19,9 @@ function generateItem(index) {
     createdAt: new Date(Date.now() - index * 86400000).toISOString(),
     updatedAt: new Date().toISOString(),
     metadata: {
-      source: 'video-review-ecosystem-seed',
+      source: '3d-product-rendering-seed',
       version: '1.0.0',
-      tags: ['video-review-ecosystem', `item-${index}`],
+      tags: ['3d-product-rendering', `item-${index}`],
     },
   };
 }
@@ -42,5 +42,5 @@ function generateUserJourneyEvents(items) {
 const dataset = generateDataset();
 const events = generateUserJourneyEvents(dataset);
 
-console.log(`[seed:video-review-ecosystem] Generated ${dataset.length} items and ${events.length} events`);
+console.log(`[seed:3d-product-rendering] Generated ${dataset.length} items and ${events.length} events`);
 module.exports = { dataset, events, generateItem, generateDataset };
