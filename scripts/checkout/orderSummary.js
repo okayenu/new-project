@@ -131,15 +131,11 @@ export function renderOrderSummary()
         {
           const {productId} = link.dataset;
           removeFromCart(productId);
-          
+
           const container = document.querySelector(`.js-item-container-${productId}`);
-    
           container.remove();
-    
-          console.log(cart);
 
           renderPaymentSummary();
-          //renderOrderSummary(); //maybe delete if it fucks up
 
           
         })
