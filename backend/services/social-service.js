@@ -1,10 +1,10 @@
 /**
- * Service boundary: delivery-visibility
- * Task: Implement modular service boundary for delivery visibility in `backend/services/
+ * Service boundary: review-relevance
+ * Task: Implement modular service boundary for review relevance in `backend/services/soc
  */
 'use strict';
 
-class DeliveryVisibilityService {
+class ReviewRelevanceService {
   /**
    * @param {object} deps - Injected dependencies
    * @param {object} deps.repository - Data-access layer
@@ -18,34 +18,34 @@ class DeliveryVisibilityService {
   }
 
   async getAll(filters = {}) {
-    this.logger.info('[DeliveryVisibilityService] getAll', { filters });
+    this.logger.info('[ReviewRelevanceService] getAll', { filters });
     return this.repository.findMany(filters);
   }
 
   async getById(id) {
-    this.logger.info('[DeliveryVisibilityService] getById', { id });
+    this.logger.info('[ReviewRelevanceService] getById', { id });
     return this.repository.findById(id);
   }
 
   async create(payload) {
-    this.logger.info('[DeliveryVisibilityService] create', { payload });
+    this.logger.info('[ReviewRelevanceService] create', { payload });
     const record = await this.repository.create(payload);
-    this.eventBus.emit('delivery-visibility:created', record);
+    this.eventBus.emit('review-relevance:created', record);
     return record;
   }
 
   async update(id, payload) {
-    this.logger.info('[DeliveryVisibilityService] update', { id });
+    this.logger.info('[ReviewRelevanceService] update', { id });
     const record = await this.repository.update(id, payload);
-    this.eventBus.emit('delivery-visibility:updated', record);
+    this.eventBus.emit('review-relevance:updated', record);
     return record;
   }
 
   async remove(id) {
-    this.logger.info('[DeliveryVisibilityService] remove', { id });
+    this.logger.info('[ReviewRelevanceService] remove', { id });
     await this.repository.delete(id);
-    this.eventBus.emit('delivery-visibility:deleted', { id });
+    this.eventBus.emit('review-relevance:deleted', { id });
   }
 }
 
-module.exports = { DeliveryVisibilityService };
+module.exports = { ReviewRelevanceService };
