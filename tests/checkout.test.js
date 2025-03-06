@@ -1,10 +1,10 @@
 /**
- * Unit tests: merchant-operations core logic
- * Task: Write unit tests for merchant operations core logic in `tests/checkout.test.js`,
+ * Unit tests: community-experiences core logic
+ * Task: Write unit tests for community experiences core logic in `tests/checkout.test.js
  */
 'use strict';
 
-const { MerchantOperationsService } = require('../backend/services/merchant-operations');
+const { CommunityExperiencesService } = require('../backend/services/community-experiences');
 
 const mockRepository = {
   findMany: jest.fn(),
@@ -19,14 +19,14 @@ const mockEventBus = { emit: jest.fn() };
 let service;
 beforeEach(() => {
   jest.clearAllMocks();
-  service = new MerchantOperationsService({
+  service = new CommunityExperiencesService({
     repository: mockRepository,
     logger: mockLogger,
     eventBus: mockEventBus,
   });
 });
 
-describe('MerchantOperationsService', () => {
+describe('CommunityExperiencesService', () => {
   describe('getAll', () => {
     it('returns items from repository', async () => {
       mockRepository.findMany.mockResolvedValue([{ id: '1' }]);
@@ -61,7 +61,7 @@ describe('MerchantOperationsService', () => {
       const payload = { status: 'active' };
       mockRepository.create.mockResolvedValue({ id: 'new', ...payload });
       const result = await service.create(payload);
-      expect(mockEventBus.emit).toHaveBeenCalledWith('merchant-operations:created', result);
+      expect(mockEventBus.emit).toHaveBeenCalledWith('community-experiences:created', result);
     });
   });
 
@@ -69,7 +69,7 @@ describe('MerchantOperationsService', () => {
     it('deletes and emits event', async () => {
       mockRepository.delete.mockResolvedValue(1);
       await service.remove('123');
-      expect(mockEventBus.emit).toHaveBeenCalledWith('merchant-operations:deleted', { id: '123' });
+      expect(mockEventBus.emit).toHaveBeenCalledWith('community-experiences:deleted', { id: '123' });
     });
   });
 
