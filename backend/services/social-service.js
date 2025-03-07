@@ -1,10 +1,10 @@
 /**
- * Service boundary: review-relevance
- * Task: Implement modular service boundary for review relevance in `backend/services/soc
+ * Service boundary: search-and-discovery
+ * Task: Implement modular service boundary for search and discovery in `backend/services
  */
 'use strict';
 
-class ReviewRelevanceService {
+class SearchAndDiscoveryService {
   /**
    * @param {object} deps - Injected dependencies
    * @param {object} deps.repository - Data-access layer
@@ -18,34 +18,34 @@ class ReviewRelevanceService {
   }
 
   async getAll(filters = {}) {
-    this.logger.info('[ReviewRelevanceService] getAll', { filters });
+    this.logger.info('[SearchAndDiscoveryService] getAll', { filters });
     return this.repository.findMany(filters);
   }
 
   async getById(id) {
-    this.logger.info('[ReviewRelevanceService] getById', { id });
+    this.logger.info('[SearchAndDiscoveryService] getById', { id });
     return this.repository.findById(id);
   }
 
   async create(payload) {
-    this.logger.info('[ReviewRelevanceService] create', { payload });
+    this.logger.info('[SearchAndDiscoveryService] create', { payload });
     const record = await this.repository.create(payload);
-    this.eventBus.emit('review-relevance:created', record);
+    this.eventBus.emit('search-and-discovery:created', record);
     return record;
   }
 
   async update(id, payload) {
-    this.logger.info('[ReviewRelevanceService] update', { id });
+    this.logger.info('[SearchAndDiscoveryService] update', { id });
     const record = await this.repository.update(id, payload);
-    this.eventBus.emit('review-relevance:updated', record);
+    this.eventBus.emit('search-and-discovery:updated', record);
     return record;
   }
 
   async remove(id) {
-    this.logger.info('[ReviewRelevanceService] remove', { id });
+    this.logger.info('[SearchAndDiscoveryService] remove', { id });
     await this.repository.delete(id);
-    this.eventBus.emit('review-relevance:deleted', { id });
+    this.eventBus.emit('search-and-discovery:deleted', { id });
   }
 }
 
-module.exports = { ReviewRelevanceService };
+module.exports = { SearchAndDiscoveryService };
