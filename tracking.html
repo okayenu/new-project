@@ -845,3 +845,28 @@
   <!-- Content -->
   <div class="catalog_intelligence__content"></div>
 </section>
+<!-- ============================================================
+     UI Shell: shopping-assistant
+     Task: Build UI shell for shopping assistant in `tracking.html` with loading, empty, an
+     ============================================================ -->
+<section id="shopping-assistant-shell" class="feature-shell" aria-labelledby="shopping-assistant-title">
+  <h2 id="shopping-assistant-title">Shopping Assistant</h2>
+
+  <!-- Loading state -->
+  <div class="shopping_assistant__loading" aria-live="polite" aria-busy="true" hidden>
+    <span class="spinner" role="status">Loading&hellip;</span>
+  </div>
+
+  <!-- Empty state -->
+  <div class="shopping_assistant__empty" hidden>
+    <p>No items found. Try adjusting your filters.</p>
+  </div>
+
+  <!-- Error / failure state -->
+  <div class="shopping_assistant__error" role="alert" hidden>
+    <p>Something went wrong. <button type="button" class="retry-btn">Retry</button></p>
+  </div>
+
+  <!-- Content -->
+  <div class="shopping_assistant__content"></div>
+</section>
