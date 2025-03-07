@@ -1622,3 +1622,59 @@ npx jest tests/personalization-integration
 ```
 
 ---
+
+## Catalog Intelligence
+
+> Task: Add developer docs for catalog intelligence setup, endpoint contracts, and local test commands in `d
+
+### Setup
+
+```bash
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
+```
+
+### Endpoint Contracts
+
+| Method | Path | Description |
+|--------|------|-------------|
+| GET | `/api/catalog-intelligence` | List all catalog-intelligence items |
+| GET | `/api/catalog-intelligence/:id` | Get single item |
+| POST | `/api/catalog-intelligence` | Create item |
+| PUT | `/api/catalog-intelligence/:id` | Update item |
+| DELETE | `/api/catalog-intelligence/:id` | Remove item |
+
+### Request / Response shapes
+
+**POST /api/catalog-intelligence**
+```json
+{
+  "status": "active",
+  "metadata": {}
+}
+```
+
+**Response 201**
+```json
+{
+  "data": {
+    "id": "<uuid>",
+    "status": "active",
+    "createdAt": "<iso>",
+    "updatedAt": "<iso>",
+    "metadata": {}
+  }
+}
+```
+
+### Local test commands
+
+```bash
+npx jest tests/catalog-intelligence
+npx jest tests/catalog-intelligence-integration
+```
+
+---
