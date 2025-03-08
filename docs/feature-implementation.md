@@ -1678,3 +1678,59 @@ npx jest tests/catalog-intelligence-integration
 ```
 
 ---
+
+## Shopping Assistant
+
+> Task: Add developer docs for shopping assistant setup, endpoint contracts, and local test commands in `doc
+
+### Setup
+
+```bash
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
+```
+
+### Endpoint Contracts
+
+| Method | Path | Description |
+|--------|------|-------------|
+| GET | `/api/shopping-assistant` | List all shopping-assistant items |
+| GET | `/api/shopping-assistant/:id` | Get single item |
+| POST | `/api/shopping-assistant` | Create item |
+| PUT | `/api/shopping-assistant/:id` | Update item |
+| DELETE | `/api/shopping-assistant/:id` | Remove item |
+
+### Request / Response shapes
+
+**POST /api/shopping-assistant**
+```json
+{
+  "status": "active",
+  "metadata": {}
+}
+```
+
+**Response 201**
+```json
+{
+  "data": {
+    "id": "<uuid>",
+    "status": "active",
+    "createdAt": "<iso>",
+    "updatedAt": "<iso>",
+    "metadata": {}
+  }
+}
+```
+
+### Local test commands
+
+```bash
+npx jest tests/shopping-assistant
+npx jest tests/shopping-assistant-integration
+```
+
+---
