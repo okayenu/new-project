@@ -1,10 +1,10 @@
 /**
- * Service boundary: search-and-discovery
- * Task: Implement modular service boundary for search and discovery in `backend/services
+ * Service boundary: merchant-operations
+ * Task: Implement modular service boundary for merchant operations in `backend/services/
  */
 'use strict';
 
-class SearchAndDiscoveryService {
+class MerchantOperationsService {
   /**
    * @param {object} deps - Injected dependencies
    * @param {object} deps.repository - Data-access layer
@@ -18,34 +18,34 @@ class SearchAndDiscoveryService {
   }
 
   async getAll(filters = {}) {
-    this.logger.info('[SearchAndDiscoveryService] getAll', { filters });
+    this.logger.info('[MerchantOperationsService] getAll', { filters });
     return this.repository.findMany(filters);
   }
 
   async getById(id) {
-    this.logger.info('[SearchAndDiscoveryService] getById', { id });
+    this.logger.info('[MerchantOperationsService] getById', { id });
     return this.repository.findById(id);
   }
 
   async create(payload) {
-    this.logger.info('[SearchAndDiscoveryService] create', { payload });
+    this.logger.info('[MerchantOperationsService] create', { payload });
     const record = await this.repository.create(payload);
-    this.eventBus.emit('search-and-discovery:created', record);
+    this.eventBus.emit('merchant-operations:created', record);
     return record;
   }
 
   async update(id, payload) {
-    this.logger.info('[SearchAndDiscoveryService] update', { id });
+    this.logger.info('[MerchantOperationsService] update', { id });
     const record = await this.repository.update(id, payload);
-    this.eventBus.emit('search-and-discovery:updated', record);
+    this.eventBus.emit('merchant-operations:updated', record);
     return record;
   }
 
   async remove(id) {
-    this.logger.info('[SearchAndDiscoveryService] remove', { id });
+    this.logger.info('[MerchantOperationsService] remove', { id });
     await this.repository.delete(id);
-    this.eventBus.emit('search-and-discovery:deleted', { id });
+    this.eventBus.emit('merchant-operations:deleted', { id });
   }
 }
 
-module.exports = { SearchAndDiscoveryService };
+module.exports = { MerchantOperationsService };
