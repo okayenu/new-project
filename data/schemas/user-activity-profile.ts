@@ -1,6 +1,6 @@
 /**
  * Schema contracts for general
- * Generated task: Design and document community experiences schema contracts for `user_activity_pr
+ * Generated task: Design and document recommendation quality schema contracts for `user_activity_p
  *
  * Migration notes:
  *  - v1 -> v2: added optional fields; backward-compatible
