@@ -1,6 +1,6 @@
 /**
- * API routes: delivery-visibility
- * Task: Create API route stubs for delivery visibility in `backend/routes/assistant-chat
+ * API routes: review-relevance
+ * Task: Create API route stubs for review relevance in `backend/routes/assistant-chat.js
  */
 'use strict';
 
@@ -15,7 +15,7 @@ function validateBody(schema) {
   };
 }
 
-/** GET /api/delivery-visibility */
+/** GET /api/review-relevance */
 router.get('/', async (req, res) => {
   try {
     const items = await req.services.assistant-chat.getAll(req.query);
@@ -25,7 +25,7 @@ router.get('/', async (req, res) => {
   }
 });
 
-/** GET /api/delivery-visibility/:id */
+/** GET /api/review-relevance/:id */
 router.get('/:id', async (req, res) => {
   try {
     const item = await req.services.assistant-chat.getById(req.params.id);
@@ -36,7 +36,7 @@ router.get('/:id', async (req, res) => {
   }
 });
 
-/** POST /api/delivery-visibility */
+/** POST /api/review-relevance */
 router.post('/', async (req, res) => {
   try {
     const item = await req.services.assistant-chat.create(req.body);
@@ -46,7 +46,7 @@ router.post('/', async (req, res) => {
   }
 });
 
-/** PUT /api/delivery-visibility/:id */
+/** PUT /api/review-relevance/:id */
 router.put('/:id', async (req, res) => {
   try {
     const item = await req.services.assistant-chat.update(req.params.id, req.body);
@@ -57,7 +57,7 @@ router.put('/:id', async (req, res) => {
   }
 });
 
-/** DELETE /api/delivery-visibility/:id */
+/** DELETE /api/review-relevance/:id */
 router.delete('/:id', async (req, res) => {
   try {
     await req.services.assistant-chat.remove(req.params.id);
