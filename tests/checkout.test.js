@@ -1,10 +1,10 @@
 /**
- * Unit tests: checkout-orchestration core logic
- * Task: Write unit tests for checkout orchestration core logic in `tests/checkout.test.j
+ * Unit tests: personalization core logic
+ * Task: Write unit tests for personalization core logic in `tests/checkout.test.js`, inc
  */
 'use strict';
 
-const { CheckoutOrchestrationService } = require('../backend/services/checkout-orchestration');
+const { PersonalizationService } = require('../backend/services/personalization');
 
 const mockRepository = {
   findMany: jest.fn(),
@@ -19,14 +19,14 @@ const mockEventBus = { emit: jest.fn() };
 let service;
 beforeEach(() => {
   jest.clearAllMocks();
-  service = new CheckoutOrchestrationService({
+  service = new PersonalizationService({
     repository: mockRepository,
     logger: mockLogger,
     eventBus: mockEventBus,
   });
 });
 
-describe('CheckoutOrchestrationService', () => {
+describe('PersonalizationService', () => {
   describe('getAll', () => {
     it('returns items from repository', async () => {
       mockRepository.findMany.mockResolvedValue([{ id: '1' }]);
@@ -61,7 +61,7 @@ describe('CheckoutOrchestrationService', () => {
       const payload = { status: 'active' };
       mockRepository.create.mockResolvedValue({ id: 'new', ...payload });
       const result = await service.create(payload);
-      expect(mockEventBus.emit).toHaveBeenCalledWith('checkout-orchestration:created', result);
+      expect(mockEventBus.emit).toHaveBeenCalledWith('personalization:created', result);
     });
   });
 
@@ -69,7 +69,7 @@ describe('CheckoutOrchestrationService', () => {
     it('deletes and emits event', async () => {
       mockRepository.delete.mockResolvedValue(1);
       await service.remove('123');
-      expect(mockEventBus.emit).toHaveBeenCalledWith('checkout-orchestration:deleted', { id: '123' });
+      expect(mockEventBus.emit).toHaveBeenCalledWith('personalization:deleted', { id: '123' });
     });
   });
 
