@@ -1734,3 +1734,59 @@ npx jest tests/shopping-assistant-integration
 ```
 
 ---
+
+## Video Review Ecosystem
+
+> Task: Add developer docs for video review ecosystem setup, endpoint contracts, and local test commands in 
+
+### Setup
+
+```bash
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
+```
+
+### Endpoint Contracts
+
+| Method | Path | Description |
+|--------|------|-------------|
+| GET | `/api/video-review-ecosystem` | List all video-review-ecosystem items |
+| GET | `/api/video-review-ecosystem/:id` | Get single item |
+| POST | `/api/video-review-ecosystem` | Create item |
+| PUT | `/api/video-review-ecosystem/:id` | Update item |
+| DELETE | `/api/video-review-ecosystem/:id` | Remove item |
+
+### Request / Response shapes
+
+**POST /api/video-review-ecosystem**
+```json
+{
+  "status": "active",
+  "metadata": {}
+}
+```
+
+**Response 201**
+```json
+{
+  "data": {
+    "id": "<uuid>",
+    "status": "active",
+    "createdAt": "<iso>",
+    "updatedAt": "<iso>",
+    "metadata": {}
+  }
+}
+```
+
+### Local test commands
+
+```bash
+npx jest tests/video-review-ecosystem
+npx jest tests/video-review-ecosystem-integration
+```
+
+---
