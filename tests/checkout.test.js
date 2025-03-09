@@ -1,10 +1,10 @@
 /**
- * Unit tests: personalization core logic
- * Task: Write unit tests for personalization core logic in `tests/checkout.test.js`, inc
+ * Unit tests: catalog-intelligence core logic
+ * Task: Write unit tests for catalog intelligence core logic in `tests/checkout.test.js`
  */
 'use strict';
 
-const { PersonalizationService } = require('../backend/services/personalization');
+const { CatalogIntelligenceService } = require('../backend/services/catalog-intelligence');
 
 const mockRepository = {
   findMany: jest.fn(),
@@ -19,14 +19,14 @@ const mockEventBus = { emit: jest.fn() };
 let service;
 beforeEach(() => {
   jest.clearAllMocks();
-  service = new PersonalizationService({
+  service = new CatalogIntelligenceService({
     repository: mockRepository,
     logger: mockLogger,
     eventBus: mockEventBus,
   });
 });
 
-describe('PersonalizationService', () => {
+describe('CatalogIntelligenceService', () => {
   describe('getAll', () => {
     it('returns items from repository', async () => {
       mockRepository.findMany.mockResolvedValue([{ id: '1' }]);
@@ -61,7 +61,7 @@ describe('PersonalizationService', () => {
       const payload = { status: 'active' };
       mockRepository.create.mockResolvedValue({ id: 'new', ...payload });
       const result = await service.create(payload);
-      expect(mockEventBus.emit).toHaveBeenCalledWith('personalization:created', result);
+      expect(mockEventBus.emit).toHaveBeenCalledWith('catalog-intelligence:created', result);
     });
   });
 
@@ -69,7 +69,7 @@ describe('PersonalizationService', () => {
     it('deletes and emits event', async () => {
       mockRepository.delete.mockResolvedValue(1);
       await service.remove('123');
-      expect(mockEventBus.emit).toHaveBeenCalledWith('personalization:deleted', { id: '123' });
+      expect(mockEventBus.emit).toHaveBeenCalledWith('catalog-intelligence:deleted', { id: '123' });
     });
   });
 
