@@ -1,10 +1,10 @@
 /**
- * Service boundary: merchant-operations
- * Task: Implement modular service boundary for merchant operations in `backend/services/
+ * Service boundary: community-experiences
+ * Task: Implement modular service boundary for community experiences in `backend/service
  */
 'use strict';
 
-class MerchantOperationsService {
+class CommunityExperiencesService {
   /**
    * @param {object} deps - Injected dependencies
    * @param {object} deps.repository - Data-access layer
@@ -18,34 +18,34 @@ class MerchantOperationsService {
   }
 
   async getAll(filters = {}) {
-    this.logger.info('[MerchantOperationsService] getAll', { filters });
+    this.logger.info('[CommunityExperiencesService] getAll', { filters });
     return this.repository.findMany(filters);
   }
 
   async getById(id) {
-    this.logger.info('[MerchantOperationsService] getById', { id });
+    this.logger.info('[CommunityExperiencesService] getById', { id });
     return this.repository.findById(id);
   }
 
   async create(payload) {
-    this.logger.info('[MerchantOperationsService] create', { payload });
+    this.logger.info('[CommunityExperiencesService] create', { payload });
     const record = await this.repository.create(payload);
-    this.eventBus.emit('merchant-operations:created', record);
+    this.eventBus.emit('community-experiences:created', record);
     return record;
   }
 
   async update(id, payload) {
-    this.logger.info('[MerchantOperationsService] update', { id });
+    this.logger.info('[CommunityExperiencesService] update', { id });
     const record = await this.repository.update(id, payload);
-    this.eventBus.emit('merchant-operations:updated', record);
+    this.eventBus.emit('community-experiences:updated', record);
     return record;
   }
 
   async remove(id) {
-    this.logger.info('[MerchantOperationsService] remove', { id });
+    this.logger.info('[CommunityExperiencesService] remove', { id });
     await this.repository.delete(id);
-    this.eventBus.emit('merchant-operations:deleted', { id });
+    this.eventBus.emit('community-experiences:deleted', { id });
   }
 }
 
-module.exports = { MerchantOperationsService };
+module.exports = { CommunityExperiencesService };
