@@ -920,3 +920,28 @@
   <!-- Content -->
   <div class="3d_product_rendering__content"></div>
 </section>
+<!-- ============================================================
+     UI Shell: delivery-visibility
+     Task: Build UI shell for delivery visibility in `tracking.html` with loading, empty, a
+     ============================================================ -->
+<section id="delivery-visibility-shell" class="feature-shell" aria-labelledby="delivery-visibility-title">
+  <h2 id="delivery-visibility-title">Delivery Visibility</h2>
+
+  <!-- Loading state -->
+  <div class="delivery_visibility__loading" aria-live="polite" aria-busy="true" hidden>
+    <span class="spinner" role="status">Loading&hellip;</span>
+  </div>
+
+  <!-- Empty state -->
+  <div class="delivery_visibility__empty" hidden>
+    <p>No items found. Try adjusting your filters.</p>
+  </div>
+
+  <!-- Error / failure state -->
+  <div class="delivery_visibility__error" role="alert" hidden>
+    <p>Something went wrong. <button type="button" class="retry-btn">Retry</button></p>
+  </div>
+
+  <!-- Content -->
+  <div class="delivery_visibility__content"></div>
+</section>
