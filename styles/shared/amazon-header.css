@@ -32,6 +32,7 @@
   cursor: pointer;
   text-decoration: none;
   border: 1px solid rgba(0, 0, 0, 0);
+  transition: border-color 0.15s ease;
 }
 
 .header-link:hover {
@@ -88,6 +89,11 @@
   border-top-right-radius: 6px;
   border-bottom-right-radius: 6px;
   flex-shrink: 0;
+  transition: background-color 0.15s ease;
+}
+
+.search-button:hover {
+  background-color: rgb(240, 170, 80);
 }
 
 .search-icon {
