@@ -1,6 +1,6 @@
 /**
- * API routes: search-and-discovery
- * Task: Create API route stubs for search and discovery in `backend/routes/assistant-cha
+ * API routes: merchant-operations
+ * Task: Create API route stubs for merchant operations in `backend/routes/assistant-chat
  */
 'use strict';
 
@@ -15,7 +15,7 @@ function validateBody(schema) {
   };
 }
 
-/** GET /api/search-and-discovery */
+/** GET /api/merchant-operations */
 router.get('/', async (req, res) => {
   try {
     const items = await req.services.assistant-chat.getAll(req.query);
@@ -25,7 +25,7 @@ router.get('/', async (req, res) => {
   }
 });
 
-/** GET /api/search-and-discovery/:id */
+/** GET /api/merchant-operations/:id */
 router.get('/:id', async (req, res) => {
   try {
     const item = await req.services.assistant-chat.getById(req.params.id);
@@ -36,7 +36,7 @@ router.get('/:id', async (req, res) => {
   }
 });
 
-/** POST /api/search-and-discovery */
+/** POST /api/merchant-operations */
 router.post('/', async (req, res) => {
   try {
     const item = await req.services.assistant-chat.create(req.body);
@@ -46,7 +46,7 @@ router.post('/', async (req, res) => {
   }
 });
 
-/** PUT /api/search-and-discovery/:id */
+/** PUT /api/merchant-operations/:id */
 router.put('/:id', async (req, res) => {
   try {
     const item = await req.services.assistant-chat.update(req.params.id, req.body);
@@ -57,7 +57,7 @@ router.put('/:id', async (req, res) => {
   }
 });
 
-/** DELETE /api/search-and-discovery/:id */
+/** DELETE /api/merchant-operations/:id */
 router.delete('/:id', async (req, res) => {
   try {
     await req.services.assistant-chat.remove(req.params.id);
