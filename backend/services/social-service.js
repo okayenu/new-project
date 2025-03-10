@@ -1,10 +1,10 @@
 /**
- * Service boundary: community-experiences
- * Task: Implement modular service boundary for community experiences in `backend/service
+ * Service boundary: recommendation-quality
+ * Task: Implement modular service boundary for recommendation quality in `backend/servic
  */
 'use strict';
 
-class CommunityExperiencesService {
+class RecommendationQualityService {
   /**
    * @param {object} deps - Injected dependencies
    * @param {object} deps.repository - Data-access layer
@@ -18,34 +18,34 @@ class CommunityExperiencesService {
   }
 
   async getAll(filters = {}) {
-    this.logger.info('[CommunityExperiencesService] getAll', { filters });
+    this.logger.info('[RecommendationQualityService] getAll', { filters });
     return this.repository.findMany(filters);
   }
 
   async getById(id) {
-    this.logger.info('[CommunityExperiencesService] getById', { id });
+    this.logger.info('[RecommendationQualityService] getById', { id });
     return this.repository.findById(id);
   }
 
   async create(payload) {
-    this.logger.info('[CommunityExperiencesService] create', { payload });
+    this.logger.info('[RecommendationQualityService] create', { payload });
     const record = await this.repository.create(payload);
-    this.eventBus.emit('community-experiences:created', record);
+    this.eventBus.emit('recommendation-quality:created', record);
     return record;
   }
 
   async update(id, payload) {
-    this.logger.info('[CommunityExperiencesService] update', { id });
+    this.logger.info('[RecommendationQualityService] update', { id });
     const record = await this.repository.update(id, payload);
-    this.eventBus.emit('community-experiences:updated', record);
+    this.eventBus.emit('recommendation-quality:updated', record);
     return record;
   }
 
   async remove(id) {
-    this.logger.info('[CommunityExperiencesService] remove', { id });
+    this.logger.info('[RecommendationQualityService] remove', { id });
     await this.repository.delete(id);
-    this.eventBus.emit('community-experiences:deleted', { id });
+    this.eventBus.emit('recommendation-quality:deleted', { id });
   }
 }
 
-module.exports = { CommunityExperiencesService };
+module.exports = { RecommendationQualityService };
