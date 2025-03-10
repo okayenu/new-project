@@ -1,10 +1,10 @@
 /**
- * Unit tests: catalog-intelligence core logic
- * Task: Write unit tests for catalog intelligence core logic in `tests/checkout.test.js`
+ * Unit tests: shopping-assistant core logic
+ * Task: Write unit tests for shopping assistant core logic in `tests/checkout.test.js`, 
  */
 'use strict';
 
-const { CatalogIntelligenceService } = require('../backend/services/catalog-intelligence');
+const { ShoppingAssistantService } = require('../backend/services/shopping-assistant');
 
 const mockRepository = {
   findMany: jest.fn(),
@@ -19,14 +19,14 @@ const mockEventBus = { emit: jest.fn() };
 let service;
 beforeEach(() => {
   jest.clearAllMocks();
-  service = new CatalogIntelligenceService({
+  service = new ShoppingAssistantService({
     repository: mockRepository,
     logger: mockLogger,
     eventBus: mockEventBus,
   });
 });
 
-describe('CatalogIntelligenceService', () => {
+describe('ShoppingAssistantService', () => {
   describe('getAll', () => {
     it('returns items from repository', async () => {
       mockRepository.findMany.mockResolvedValue([{ id: '1' }]);
@@ -61,7 +61,7 @@ describe('CatalogIntelligenceService', () => {
       const payload = { status: 'active' };
       mockRepository.create.mockResolvedValue({ id: 'new', ...payload });
       const result = await service.create(payload);
-      expect(mockEventBus.emit).toHaveBeenCalledWith('catalog-intelligence:created', result);
+      expect(mockEventBus.emit).toHaveBeenCalledWith('shopping-assistant:created', result);
     });
   });
 
@@ -69,7 +69,7 @@ describe('CatalogIntelligenceService', () => {
     it('deletes and emits event', async () => {
       mockRepository.delete.mockResolvedValue(1);
       await service.remove('123');
-      expect(mockEventBus.emit).toHaveBeenCalledWith('catalog-intelligence:deleted', { id: '123' });
+      expect(mockEventBus.emit).toHaveBeenCalledWith('shopping-assistant:deleted', { id: '123' });
     });
   });
 
