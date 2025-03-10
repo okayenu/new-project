@@ -1,6 +1,6 @@
 /**
  * Schema contracts for general
- * Generated task: Design and document checkout orchestration schema contracts for `user_activity_p
+ * Generated task: Design and document personalization schema contracts for `user_activity_profile`
  *
  * Migration notes:
  *  - v1 -> v2: added optional fields; backward-compatible
