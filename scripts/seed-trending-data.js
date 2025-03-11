@@ -1,8 +1,8 @@
 /**
- * Seed-data generator: merchant-operations
- * Task: Create seed-data generator for merchant operations scenarios in `scripts/seed-tr
+ * Seed-data generator: community-experiences
+ * Task: Create seed-data generator for community experiences scenarios in `scripts/seed-
  *
- * Usage: node scripts/seed-merchant-operations.js
+ * Usage: node scripts/seed-community-experiences.js
  */
 'use strict';
 
@@ -19,9 +19,9 @@ function generateItem(index) {
     createdAt: new Date(Date.now() - index * 86400000).toISOString(),
     updatedAt: new Date().toISOString(),
     metadata: {
-      source: 'merchant-operations-seed',
+      source: 'community-experiences-seed',
       version: '1.0.0',
-      tags: ['merchant-operations', `item-${index}`],
+      tags: ['community-experiences', `item-${index}`],
     },
   };
 }
@@ -42,5 +42,5 @@ function generateUserJourneyEvents(items) {
 const dataset = generateDataset();
 const events = generateUserJourneyEvents(dataset);
 
-console.log(`[seed:merchant-operations] Generated ${dataset.length} items and ${events.length} events`);
+console.log(`[seed:community-experiences] Generated ${dataset.length} items and ${events.length} events`);
 module.exports = { dataset, events, generateItem, generateDataset };
