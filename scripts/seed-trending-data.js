@@ -1,8 +1,8 @@
 /**
- * Seed-data generator: search-and-discovery
- * Task: Create seed-data generator for search and discovery scenarios in `scripts/seed-t
+ * Seed-data generator: merchant-operations
+ * Task: Create seed-data generator for merchant operations scenarios in `scripts/seed-tr
  *
- * Usage: node scripts/seed-search-and-discovery.js
+ * Usage: node scripts/seed-merchant-operations.js
  */
 'use strict';
 
@@ -19,9 +19,9 @@ function generateItem(index) {
     createdAt: new Date(Date.now() - index * 86400000).toISOString(),
     updatedAt: new Date().toISOString(),
     metadata: {
-      source: 'search-and-discovery-seed',
+      source: 'merchant-operations-seed',
       version: '1.0.0',
-      tags: ['search-and-discovery', `item-${index}`],
+      tags: ['merchant-operations', `item-${index}`],
     },
   };
 }
@@ -42,5 +42,5 @@ function generateUserJourneyEvents(items) {
 const dataset = generateDataset();
 const events = generateUserJourneyEvents(dataset);
 
-console.log(`[seed:search-and-discovery] Generated ${dataset.length} items and ${events.length} events`);
+console.log(`[seed:merchant-operations] Generated ${dataset.length} items and ${events.length} events`);
 module.exports = { dataset, events, generateItem, generateDataset };
