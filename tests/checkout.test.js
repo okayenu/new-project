@@ -1,10 +1,10 @@
 /**
- * Unit tests: shopping-assistant core logic
- * Task: Write unit tests for shopping assistant core logic in `tests/checkout.test.js`, 
+ * Unit tests: video-review-ecosystem core logic
+ * Task: Write unit tests for video review ecosystem core logic in `tests/checkout.test.j
  */
 'use strict';
 
-const { ShoppingAssistantService } = require('../backend/services/shopping-assistant');
+const { VideoReviewEcosystemService } = require('../backend/services/video-review-ecosystem');
 
 const mockRepository = {
   findMany: jest.fn(),
@@ -19,14 +19,14 @@ const mockEventBus = { emit: jest.fn() };
 let service;
 beforeEach(() => {
   jest.clearAllMocks();
-  service = new ShoppingAssistantService({
+  service = new VideoReviewEcosystemService({
     repository: mockRepository,
     logger: mockLogger,
     eventBus: mockEventBus,
   });
 });
 
-describe('ShoppingAssistantService', () => {
+describe('VideoReviewEcosystemService', () => {
   describe('getAll', () => {
     it('returns items from repository', async () => {
       mockRepository.findMany.mockResolvedValue([{ id: '1' }]);
@@ -61,7 +61,7 @@ describe('ShoppingAssistantService', () => {
       const payload = { status: 'active' };
       mockRepository.create.mockResolvedValue({ id: 'new', ...payload });
       const result = await service.create(payload);
-      expect(mockEventBus.emit).toHaveBeenCalledWith('shopping-assistant:created', result);
+      expect(mockEventBus.emit).toHaveBeenCalledWith('video-review-ecosystem:created', result);
     });
   });
 
@@ -69,7 +69,7 @@ describe('ShoppingAssistantService', () => {
     it('deletes and emits event', async () => {
       mockRepository.delete.mockResolvedValue(1);
       await service.remove('123');
-      expect(mockEventBus.emit).toHaveBeenCalledWith('shopping-assistant:deleted', { id: '123' });
+      expect(mockEventBus.emit).toHaveBeenCalledWith('video-review-ecosystem:deleted', { id: '123' });
     });
   });
 
