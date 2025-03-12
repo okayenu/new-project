@@ -1,6 +1,6 @@
 /**
- * API routes: community-experiences
- * Task: Create API route stubs for community experiences in `backend/routes/assistant-ch
+ * API routes: recommendation-quality
+ * Task: Create API route stubs for recommendation quality in `backend/routes/assistant-c
  */
 'use strict';
 
@@ -15,7 +15,7 @@ function validateBody(schema) {
   };
 }
 
-/** GET /api/community-experiences */
+/** GET /api/recommendation-quality */
 router.get('/', async (req, res) => {
   try {
     const items = await req.services.assistant-chat.getAll(req.query);
@@ -25,7 +25,7 @@ router.get('/', async (req, res) => {
   }
 });
 
-/** GET /api/community-experiences/:id */
+/** GET /api/recommendation-quality/:id */
 router.get('/:id', async (req, res) => {
   try {
     const item = await req.services.assistant-chat.getById(req.params.id);
@@ -36,7 +36,7 @@ router.get('/:id', async (req, res) => {
   }
 });
 
-/** POST /api/community-experiences */
+/** POST /api/recommendation-quality */
 router.post('/', async (req, res) => {
   try {
     const item = await req.services.assistant-chat.create(req.body);
@@ -46,7 +46,7 @@ router.post('/', async (req, res) => {
   }
 });
 
-/** PUT /api/community-experiences/:id */
+/** PUT /api/recommendation-quality/:id */
 router.put('/:id', async (req, res) => {
   try {
     const item = await req.services.assistant-chat.update(req.params.id, req.body);
@@ -57,7 +57,7 @@ router.put('/:id', async (req, res) => {
   }
 });
 
-/** DELETE /api/community-experiences/:id */
+/** DELETE /api/recommendation-quality/:id */
 router.delete('/:id', async (req, res) => {
   try {
     await req.services.assistant-chat.remove(req.params.id);
