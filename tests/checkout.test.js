@@ -1,10 +1,10 @@
 /**
- * Unit tests: video-review-ecosystem core logic
- * Task: Write unit tests for video review ecosystem core logic in `tests/checkout.test.j
+ * Unit tests: 3d-product-rendering core logic
+ * Task: Write unit tests for 3D product rendering core logic in `tests/checkout.test.js`
  */
 'use strict';
 
-const { VideoReviewEcosystemService } = require('../backend/services/video-review-ecosystem');
+const { 3dProductRenderingService } = require('../backend/services/3d-product-rendering');
 
 const mockRepository = {
   findMany: jest.fn(),
@@ -19,14 +19,14 @@ const mockEventBus = { emit: jest.fn() };
 let service;
 beforeEach(() => {
   jest.clearAllMocks();
-  service = new VideoReviewEcosystemService({
+  service = new 3dProductRenderingService({
     repository: mockRepository,
     logger: mockLogger,
     eventBus: mockEventBus,
   });
 });
 
-describe('VideoReviewEcosystemService', () => {
+describe('3dProductRenderingService', () => {
   describe('getAll', () => {
     it('returns items from repository', async () => {
       mockRepository.findMany.mockResolvedValue([{ id: '1' }]);
@@ -61,7 +61,7 @@ describe('VideoReviewEcosystemService', () => {
       const payload = { status: 'active' };
       mockRepository.create.mockResolvedValue({ id: 'new', ...payload });
       const result = await service.create(payload);
-      expect(mockEventBus.emit).toHaveBeenCalledWith('video-review-ecosystem:created', result);
+      expect(mockEventBus.emit).toHaveBeenCalledWith('3d-product-rendering:created', result);
     });
   });
 
@@ -69,7 +69,7 @@ describe('VideoReviewEcosystemService', () => {
     it('deletes and emits event', async () => {
       mockRepository.delete.mockResolvedValue(1);
       await service.remove('123');
-      expect(mockEventBus.emit).toHaveBeenCalledWith('video-review-ecosystem:deleted', { id: '123' });
+      expect(mockEventBus.emit).toHaveBeenCalledWith('3d-product-rendering:deleted', { id: '123' });
     });
   });
 
