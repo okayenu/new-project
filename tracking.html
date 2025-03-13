@@ -1020,3 +1020,28 @@
   <!-- Content -->
   <div class="merchant_operations__content"></div>
 </section>
+<!-- ============================================================
+     UI Shell: community-experiences
+     Task: Build UI shell for community experiences in `tracking.html` with loading, empty,
+     ============================================================ -->
+<section id="community-experiences-shell" class="feature-shell" aria-labelledby="community-experiences-title">
+  <h2 id="community-experiences-title">Community Experiences</h2>
+
+  <!-- Loading state -->
+  <div class="community_experiences__loading" aria-live="polite" aria-busy="true" hidden>
+    <span class="spinner" role="status">Loading&hellip;</span>
+  </div>
+
+  <!-- Empty state -->
+  <div class="community_experiences__empty" hidden>
+    <p>No items found. Try adjusting your filters.</p>
+  </div>
+
+  <!-- Error / failure state -->
+  <div class="community_experiences__error" role="alert" hidden>
+    <p>Something went wrong. <button type="button" class="retry-btn">Retry</button></p>
+  </div>
+
+  <!-- Content -->
+  <div class="community_experiences__content"></div>
+</section>
