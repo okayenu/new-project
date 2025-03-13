@@ -1,8 +1,8 @@
 /**
- * Seed-data generator: recommendation-quality
- * Task: Create seed-data generator for recommendation quality scenarios in `scripts/seed
+ * Seed-data generator: checkout-orchestration
+ * Task: Create seed-data generator for checkout orchestration scenarios in `scripts/seed
  *
- * Usage: node scripts/seed-recommendation-quality.js
+ * Usage: node scripts/seed-checkout-orchestration.js
  */
 'use strict';
 
@@ -19,9 +19,9 @@ function generateItem(index) {
     createdAt: new Date(Date.now() - index * 86400000).toISOString(),
     updatedAt: new Date().toISOString(),
     metadata: {
-      source: 'recommendation-quality-seed',
+      source: 'checkout-orchestration-seed',
       version: '1.0.0',
-      tags: ['recommendation-quality', `item-${index}`],
+      tags: ['checkout-orchestration', `item-${index}`],
     },
   };
 }
@@ -42,5 +42,5 @@ function generateUserJourneyEvents(items) {
 const dataset = generateDataset();
 const events = generateUserJourneyEvents(dataset);
 
-console.log(`[seed:recommendation-quality] Generated ${dataset.length} items and ${events.length} events`);
+console.log(`[seed:checkout-orchestration] Generated ${dataset.length} items and ${events.length} events`);
 module.exports = { dataset, events, generateItem, generateDataset };
