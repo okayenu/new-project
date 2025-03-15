@@ -1,10 +1,10 @@
 /**
- * Unit tests: review-relevance core logic
- * Task: Write unit tests for review relevance core logic in `tests/checkout.test.js`, in
+ * Unit tests: search-and-discovery core logic
+ * Task: Write unit tests for search and discovery core logic in `tests/checkout.test.js`
  */
 'use strict';
 
-const { ReviewRelevanceService } = require('../backend/services/review-relevance');
+const { SearchAndDiscoveryService } = require('../backend/services/search-and-discovery');
 
 const mockRepository = {
   findMany: jest.fn(),
@@ -19,14 +19,14 @@ const mockEventBus = { emit: jest.fn() };
 let service;
 beforeEach(() => {
   jest.clearAllMocks();
-  service = new ReviewRelevanceService({
+  service = new SearchAndDiscoveryService({
     repository: mockRepository,
     logger: mockLogger,
     eventBus: mockEventBus,
   });
 });
 
-describe('ReviewRelevanceService', () => {
+describe('SearchAndDiscoveryService', () => {
   describe('getAll', () => {
     it('returns items from repository', async () => {
       mockRepository.findMany.mockResolvedValue([{ id: '1' }]);
@@ -61,7 +61,7 @@ describe('ReviewRelevanceService', () => {
       const payload = { status: 'active' };
       mockRepository.create.mockResolvedValue({ id: 'new', ...payload });
       const result = await service.create(payload);
-      expect(mockEventBus.emit).toHaveBeenCalledWith('review-relevance:created', result);
+      expect(mockEventBus.emit).toHaveBeenCalledWith('search-and-discovery:created', result);
     });
   });
 
@@ -69,7 +69,7 @@ describe('ReviewRelevanceService', () => {
     it('deletes and emits event', async () => {
       mockRepository.delete.mockResolvedValue(1);
       await service.remove('123');
-      expect(mockEventBus.emit).toHaveBeenCalledWith('review-relevance:deleted', { id: '123' });
+      expect(mockEventBus.emit).toHaveBeenCalledWith('search-and-discovery:deleted', { id: '123' });
     });
   });
 
