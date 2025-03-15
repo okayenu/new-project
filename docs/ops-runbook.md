@@ -670,3 +670,59 @@ npx jest tests/merchant-operations-integration
 ```
 
 ---
+
+## Community Experiences
+
+> Task: Add developer docs for community experiences setup, endpoint contracts, and local test commands in `
+
+### Setup
+
+```bash
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
+```
+
+### Endpoint Contracts
+
+| Method | Path | Description |
+|--------|------|-------------|
+| GET | `/api/community-experiences` | List all community-experiences items |
+| GET | `/api/community-experiences/:id` | Get single item |
+| POST | `/api/community-experiences` | Create item |
+| PUT | `/api/community-experiences/:id` | Update item |
+| DELETE | `/api/community-experiences/:id` | Remove item |
+
+### Request / Response shapes
+
+**POST /api/community-experiences**
+```json
+{
+  "status": "active",
+  "metadata": {}
+}
+```
+
+**Response 201**
+```json
+{
+  "data": {
+    "id": "<uuid>",
+    "status": "active",
+    "createdAt": "<iso>",
+    "updatedAt": "<iso>",
+    "metadata": {}
+  }
+}
+```
+
+### Local test commands
+
+```bash
+npx jest tests/community-experiences
+npx jest tests/community-experiences-integration
+```
+
+---
