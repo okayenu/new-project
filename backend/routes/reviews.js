@@ -1,6 +1,6 @@
 /**
- * API routes: checkout-orchestration
- * Task: Create API route stubs for checkout orchestration in `backend/routes/reviews.js`
+ * API routes: personalization
+ * Task: Create API route stubs for personalization in `backend/routes/reviews.js`, inclu
  */
 'use strict';
 
@@ -15,7 +15,7 @@ function validateBody(schema) {
   };
 }
 
-/** GET /api/checkout-orchestration */
+/** GET /api/personalization */
 router.get('/', async (req, res) => {
   try {
     const items = await req.services.reviews.getAll(req.query);
@@ -25,7 +25,7 @@ router.get('/', async (req, res) => {
   }
 });
 
-/** GET /api/checkout-orchestration/:id */
+/** GET /api/personalization/:id */
 router.get('/:id', async (req, res) => {
   try {
     const item = await req.services.reviews.getById(req.params.id);
@@ -36,7 +36,7 @@ router.get('/:id', async (req, res) => {
   }
 });
 
-/** POST /api/checkout-orchestration */
+/** POST /api/personalization */
 router.post('/', async (req, res) => {
   try {
     const item = await req.services.reviews.create(req.body);
@@ -46,7 +46,7 @@ router.post('/', async (req, res) => {
   }
 });
 
-/** PUT /api/checkout-orchestration/:id */
+/** PUT /api/personalization/:id */
 router.put('/:id', async (req, res) => {
   try {
     const item = await req.services.reviews.update(req.params.id, req.body);
@@ -57,7 +57,7 @@ router.put('/:id', async (req, res) => {
   }
 });
 
-/** DELETE /api/checkout-orchestration/:id */
+/** DELETE /api/personalization/:id */
 router.delete('/:id', async (req, res) => {
   try {
     await req.services.reviews.remove(req.params.id);
