@@ -1,6 +1,6 @@
 /**
  * Schema contracts for general
- * Generated task: Design and document 3D product rendering schema contracts for `user_activity_pro
+ * Generated task: Design and document delivery visibility schema contracts for `user_activity_prof
  *
  * Migration notes:
  *  - v1 -> v2: added optional fields; backward-compatible
