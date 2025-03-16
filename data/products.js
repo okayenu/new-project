@@ -19,6 +19,9 @@ export function loadProductsFetch()
     })
 
     console.log('laod products');
+  }).catch(()=>
+  {
+    console.log('Try again Later:)');
   });
 
   return promise;
@@ -144,6 +147,12 @@ logThis.call('hello');
      
   
   });
+
+  xhr.addEventListener('error',(error)=>
+  { 
+    console.log('Try again later');
+    console.log(error);
+  })
 
   xhr.open('GET', 'https://supersimplebackend.dev/products');
 
