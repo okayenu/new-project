@@ -1,8 +1,8 @@
 /**
- * Seed-data generator: catalog-intelligence
- * Task: Create seed-data generator for catalog intelligence scenarios in `scripts/seed-t
+ * Seed-data generator: shopping-assistant
+ * Task: Create seed-data generator for shopping assistant scenarios in `scripts/seed-tre
  *
- * Usage: node scripts/seed-catalog-intelligence.js
+ * Usage: node scripts/seed-shopping-assistant.js
  */
 'use strict';
 
@@ -19,9 +19,9 @@ function generateItem(index) {
     createdAt: new Date(Date.now() - index * 86400000).toISOString(),
     updatedAt: new Date().toISOString(),
     metadata: {
-      source: 'catalog-intelligence-seed',
+      source: 'shopping-assistant-seed',
       version: '1.0.0',
-      tags: ['catalog-intelligence', `item-${index}`],
+      tags: ['shopping-assistant', `item-${index}`],
     },
   };
 }
@@ -42,5 +42,5 @@ function generateUserJourneyEvents(items) {
 const dataset = generateDataset();
 const events = generateUserJourneyEvents(dataset);
 
-console.log(`[seed:catalog-intelligence] Generated ${dataset.length} items and ${events.length} events`);
+console.log(`[seed:shopping-assistant] Generated ${dataset.length} items and ${events.length} events`);
 module.exports = { dataset, events, generateItem, generateDataset };
