@@ -1,6 +1,6 @@
 /**
- * API routes: catalog-intelligence
- * Task: Create API route stubs for catalog intelligence in `backend/routes/reviews.js`, 
+ * API routes: shopping-assistant
+ * Task: Create API route stubs for shopping assistant in `backend/routes/reviews.js`, in
  */
 'use strict';
 
@@ -15,7 +15,7 @@ function validateBody(schema) {
   };
 }
 
-/** GET /api/catalog-intelligence */
+/** GET /api/shopping-assistant */
 router.get('/', async (req, res) => {
   try {
     const items = await req.services.reviews.getAll(req.query);
@@ -25,7 +25,7 @@ router.get('/', async (req, res) => {
   }
 });
 
-/** GET /api/catalog-intelligence/:id */
+/** GET /api/shopping-assistant/:id */
 router.get('/:id', async (req, res) => {
   try {
     const item = await req.services.reviews.getById(req.params.id);
@@ -36,7 +36,7 @@ router.get('/:id', async (req, res) => {
   }
 });
 
-/** POST /api/catalog-intelligence */
+/** POST /api/shopping-assistant */
 router.post('/', async (req, res) => {
   try {
     const item = await req.services.reviews.create(req.body);
@@ -46,7 +46,7 @@ router.post('/', async (req, res) => {
   }
 });
 
-/** PUT /api/catalog-intelligence/:id */
+/** PUT /api/shopping-assistant/:id */
 router.put('/:id', async (req, res) => {
   try {
     const item = await req.services.reviews.update(req.params.id, req.body);
@@ -57,7 +57,7 @@ router.put('/:id', async (req, res) => {
   }
 });
 
-/** DELETE /api/catalog-intelligence/:id */
+/** DELETE /api/shopping-assistant/:id */
 router.delete('/:id', async (req, res) => {
   try {
     await req.services.reviews.remove(req.params.id);
