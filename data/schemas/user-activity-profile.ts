@@ -1,6 +1,6 @@
 /**
  * Schema contracts for general
- * Generated task: Design and document review relevance schema contracts for `user_activity_profile
+ * Generated task: Design and document search and discovery schema contracts for `user_activity_pro
  *
  * Migration notes:
  *  - v1 -> v2: added optional fields; backward-compatible
