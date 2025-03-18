@@ -1,10 +1,10 @@
 /**
- * Service boundary: 3d-product-rendering
- * Task: Implement modular service boundary for 3D product rendering in `backend/services
+ * Service boundary: delivery-visibility
+ * Task: Implement modular service boundary for delivery visibility in `backend/services/
  */
 'use strict';
 
-class 3dProductRenderingService {
+class DeliveryVisibilityService {
   /**
    * @param {object} deps - Injected dependencies
    * @param {object} deps.repository - Data-access layer
@@ -18,34 +18,34 @@ class 3dProductRenderingService {
   }
 
   async getAll(filters = {}) {
-    this.logger.info('[3dProductRenderingService] getAll', { filters });
+    this.logger.info('[DeliveryVisibilityService] getAll', { filters });
     return this.repository.findMany(filters);
   }
 
   async getById(id) {
-    this.logger.info('[3dProductRenderingService] getById', { id });
+    this.logger.info('[DeliveryVisibilityService] getById', { id });
     return this.repository.findById(id);
   }
 
   async create(payload) {
-    this.logger.info('[3dProductRenderingService] create', { payload });
+    this.logger.info('[DeliveryVisibilityService] create', { payload });
     const record = await this.repository.create(payload);
-    this.eventBus.emit('3d-product-rendering:created', record);
+    this.eventBus.emit('delivery-visibility:created', record);
     return record;
   }
 
   async update(id, payload) {
-    this.logger.info('[3dProductRenderingService] update', { id });
+    this.logger.info('[DeliveryVisibilityService] update', { id });
     const record = await this.repository.update(id, payload);
-    this.eventBus.emit('3d-product-rendering:updated', record);
+    this.eventBus.emit('delivery-visibility:updated', record);
     return record;
   }
 
   async remove(id) {
-    this.logger.info('[3dProductRenderingService] remove', { id });
+    this.logger.info('[DeliveryVisibilityService] remove', { id });
     await this.repository.delete(id);
-    this.eventBus.emit('3d-product-rendering:deleted', { id });
+    this.eventBus.emit('delivery-visibility:deleted', { id });
   }
 }
 
-module.exports = { 3dProductRenderingService };
+module.exports = { DeliveryVisibilityService };
