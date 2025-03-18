@@ -838,3 +838,59 @@ npx jest tests/checkout-orchestration-integration
 ```
 
 ---
+
+## Personalization
+
+> Task: Add developer docs for personalization setup, endpoint contracts, and local test commands in `docs/o
+
+### Setup
+
+```bash
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
+```
+
+### Endpoint Contracts
+
+| Method | Path | Description |
+|--------|------|-------------|
+| GET | `/api/personalization` | List all personalization items |
+| GET | `/api/personalization/:id` | Get single item |
+| POST | `/api/personalization` | Create item |
+| PUT | `/api/personalization/:id` | Update item |
+| DELETE | `/api/personalization/:id` | Remove item |
+
+### Request / Response shapes
+
+**POST /api/personalization**
+```json
+{
+  "status": "active",
+  "metadata": {}
+}
+```
+
+**Response 201**
+```json
+{
+  "data": {
+    "id": "<uuid>",
+    "status": "active",
+    "createdAt": "<iso>",
+    "updatedAt": "<iso>",
+    "metadata": {}
+  }
+}
+```
+
+### Local test commands
+
+```bash
+npx jest tests/personalization
+npx jest tests/personalization-integration
+```
+
+---
