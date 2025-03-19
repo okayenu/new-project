@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create admin controls for search and discovery community governance, escalation 
+ * Task: Add admin diagnostics page for video review ecosystem to inspect scores, source 
  */
 'use strict';
 
