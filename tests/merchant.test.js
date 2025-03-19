@@ -1,10 +1,10 @@
 /**
- * Unit tests: merchant-operations core logic
- * Task: Write unit tests for merchant operations core logic in `tests/merchant.test.js`,
+ * Unit tests: recommendation-quality core logic
+ * Task: Write unit tests for recommendation quality core logic in `tests/merchant.test.j
  */
 'use strict';
 
-const { MerchantOperationsService } = require('../backend/services/merchant-operations');
+const { RecommendationQualityService } = require('../backend/services/recommendation-quality');
 
 const mockRepository = {
   findMany: jest.fn(),
@@ -19,14 +19,14 @@ const mockEventBus = { emit: jest.fn() };
 let service;
 beforeEach(() => {
   jest.clearAllMocks();
-  service = new MerchantOperationsService({
+  service = new RecommendationQualityService({
     repository: mockRepository,
     logger: mockLogger,
     eventBus: mockEventBus,
   });
 });
 
-describe('MerchantOperationsService', () => {
+describe('RecommendationQualityService', () => {
   describe('getAll', () => {
     it('returns items from repository', async () => {
       mockRepository.findMany.mockResolvedValue([{ id: '1' }]);
@@ -61,7 +61,7 @@ describe('MerchantOperationsService', () => {
       const payload = { status: 'active' };
       mockRepository.create.mockResolvedValue({ id: 'new', ...payload });
       const result = await service.create(payload);
-      expect(mockEventBus.emit).toHaveBeenCalledWith('merchant-operations:created', result);
+      expect(mockEventBus.emit).toHaveBeenCalledWith('recommendation-quality:created', result);
     });
   });
 
@@ -69,7 +69,7 @@ describe('MerchantOperationsService', () => {
     it('deletes and emits event', async () => {
       mockRepository.delete.mockResolvedValue(1);
       await service.remove('123');
-      expect(mockEventBus.emit).toHaveBeenCalledWith('merchant-operations:deleted', { id: '123' });
+      expect(mockEventBus.emit).toHaveBeenCalledWith('recommendation-quality:deleted', { id: '123' });
     });
   });
 
