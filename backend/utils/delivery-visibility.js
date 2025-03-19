@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Document model operations for delivery visibility: prompt/version rollout, evalu
+ * Task: Build scheduled aggregation job for delivery visibility in `scripts/seed-reviews
  */
 'use strict';
 
