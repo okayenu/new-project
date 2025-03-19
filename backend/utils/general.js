@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement trending-score calculator for search and discovery using weighted rece
+ * Task: Develop API endpoint to fetch video review ecosystem feed with pagination, curso
  */
 'use strict';
 
