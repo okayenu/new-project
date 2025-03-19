@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Perform performance pass on catalog intelligence queries and render path; captur
+ * Task: Implement trending-score calculator for search and discovery using weighted rece
  */
 'use strict';
 
