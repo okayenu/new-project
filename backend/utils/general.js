@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Perform performance pass on shopping assistant queries and render path; capture 
+ * Task: Implement trending-score calculator for merchant operations using weighted recen
  */
 'use strict';
 
