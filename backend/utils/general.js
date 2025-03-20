@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add admin diagnostics page for 3D product rendering to inspect scores, source si
+ * Task: Perform performance pass on shopping assistant queries and render path; capture 
  */
 'use strict';
 
