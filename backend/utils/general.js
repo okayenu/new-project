@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add caching strategy for community experiences responses (cache key design, TTL 
+ * Task: Write tests for ranking regressions in search and discovery; include fixtures fo
  */
 'use strict';
 
