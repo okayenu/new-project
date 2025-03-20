@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Implement group chat service for review relevance with moderation filters, rate 
+ * Task: Build scheduled aggregation job for review relevance in `scripts/seed-reviews-da
  */
 'use strict';
 
