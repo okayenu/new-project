@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build UI cards for shopping assistant including thumbnail fallback, provider ico
+ * Task: Add caching strategy for recommendation quality responses (cache key design, TTL
  */
 'use strict';
 
