@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement trending-score calculator for community experiences using weighted rec
+ * Task: Develop API endpoint to fetch delivery visibility feed with pagination, cursor t
  */
 'use strict';
 
