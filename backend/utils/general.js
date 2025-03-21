@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add caching strategy for recommendation quality responses (cache key design, TTL
+ * Task: Write tests for ranking regressions in merchant operations; include fixtures for
  */
 'use strict';
 
