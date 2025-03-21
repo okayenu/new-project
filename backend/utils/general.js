@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for ranking regressions in merchant operations; include fixtures for
+ * Task: Perform performance pass on video review ecosystem queries and render path; capt
  */
 'use strict';
 
