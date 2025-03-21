@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Develop API endpoint to fetch delivery visibility feed with pagination, cursor t
+ * Task: Build UI cards for video review ecosystem including thumbnail fallback, provider
  */
 'use strict';
 
