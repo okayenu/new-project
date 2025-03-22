@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build UI cards for 3D product rendering including thumbnail fallback, provider i
+ * Task: Add caching strategy for personalization responses (cache key design, TTL tuning
  */
 'use strict';
 
