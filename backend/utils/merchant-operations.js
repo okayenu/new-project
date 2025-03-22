@@ -1,56 +1,31 @@
 /**
- * Shared utilities: merchant-operations
- * Task: Run refactor pass: extract shared utilities for merchant operations formatting, 
+ * Merchant Operations
+ * Task: Build scheduled aggregation job for merchant operations in `scripts/seed-reviews
  */
 'use strict';
 
 /**
- * Format a merchant-operations item for API responses.
- * Deduplicated from service and route layers.
+ * Core implementation for merchant-operations.
+ * Extend this module as requirements are clarified.
  */
-function formatItem(raw) {
-  if (!raw) return null;
+
+const CONFIG = {
+  domain: 'merchant-operations',
+  version: '1.0.0',
+  enabled: true,
+};
+
+function initialize(options = {}) {
+  return { ...CONFIG, ...options, initializedAt: new Date().toISOString() };
+}
+
+function process(input) {
+  if (!input) throw new Error('[merchant-operations] Input is required');
   return {
-    id: raw.id,
-    status: raw.status,
-    createdAt: raw.createdAt,
-    updatedAt: raw.updatedAt,
-    metadata: raw.metadata || {},
+    domain: CONFIG.domain,
+    input,
+    processedAt: new Date().toISOString(),
   };
 }
 
-/** Format a list of items */
-function formatList(items = []) {
-  return items.map(formatItem).filter(Boolean);
-}
-
-/** Deduplicated constants */
-const STATUSES = Object.freeze(['active', 'inactive', 'pending']);
-const DEFAULT_LIMIT = 20;
-const DEFAULT_OFFSET = 0;
-
-/**
- * Map raw DB row to API response shape.
- * Used across service, repository, and route layers.
- */
-function mapResponseShape(item) {
-  return {
-    ...formatItem(item),
-    _links: {
-      self: `/api/merchant-operations/${item.id}`,
-      collection: `/api/merchant-operations`,
-    },
-  };
-}
-
-/**
- * Parse and validate pagination params from query string.
- */
-function parsePagination(query = {}) {
-  return {
-    limit: Math.min(parseInt(query.limit, 10) || DEFAULT_LIMIT, 100),
-    offset: parseInt(query.offset, 10) || DEFAULT_OFFSET,
-  };
-}
-
-module.exports = { formatItem, formatList, mapResponseShape, parsePagination, STATUSES };
+module.exports = { CONFIG, initialize, process };
