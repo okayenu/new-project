@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for ranking regressions in community experiences; include fixtures f
+ * Task: Add admin diagnostics page for delivery visibility to inspect scores, source sig
  */
 'use strict';
 
