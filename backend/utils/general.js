@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add admin diagnostics page for delivery visibility to inspect scores, source sig
+ * Task: Perform performance pass on video review ecosystem queries and render path; capt
  */
 'use strict';
 
