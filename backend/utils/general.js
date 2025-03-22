@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Develop API endpoint to fetch review relevance feed with pagination, cursor toke
+ * Task: Build UI cards for 3D product rendering including thumbnail fallback, provider i
  */
 'use strict';
 
