@@ -1,6 +1,6 @@
 /**
  * Analytics event instrumentation: general
- * Task: Instrument analytics for merchant operations impressions, CTR, watch-clicks, and
+ * Task: Instrument analytics for community experiences impressions, CTR, watch-clicks, a
  */
 'use strict';
 
