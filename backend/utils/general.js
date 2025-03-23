@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement trending-score calculator for checkout orchestration using weighted re
+ * Task: Develop API endpoint to fetch search and discovery feed with pagination, cursor 
  */
 'use strict';
 
