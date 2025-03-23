@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Create product-to-video metadata model for community experiences with provider-s
+ * Task: Build scheduled aggregation job for community experiences in `scripts/seed-revie
  */
 'use strict';
 
