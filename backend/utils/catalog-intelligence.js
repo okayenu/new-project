@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Document rollout checklist for catalog intelligence: feature flag, monitoring al
+ * Task: Create product-to-video metadata model for catalog intelligence with provider-sa
  */
 'use strict';
 
