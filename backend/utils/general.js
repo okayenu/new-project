@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add caching strategy for personalization responses (cache key design, TTL tuning
+ * Task: Write tests for ranking regressions in recommendation quality; include fixtures 
  */
 'use strict';
 
