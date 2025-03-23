@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Develop API endpoint to fetch search and discovery feed with pagination, cursor 
+ * Task: Build UI cards for delivery visibility including thumbnail fallback, provider ic
  */
 'use strict';
 
