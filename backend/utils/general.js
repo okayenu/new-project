@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add admin diagnostics page for review relevance to inspect scores, source signal
+ * Task: Implement trending-score calculator for checkout orchestration using weighted re
  */
 'use strict';
 
