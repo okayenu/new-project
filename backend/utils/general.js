@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement trending-score calculator for personalization using weighted recency, 
+ * Task: Develop API endpoint to fetch merchant operations feed with pagination, cursor t
  */
 'use strict';
 
