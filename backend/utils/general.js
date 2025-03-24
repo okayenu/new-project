@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add caching strategy for shopping assistant responses (cache key design, TTL tun
+ * Task: Write tests for ranking regressions in personalization; include fixtures for lau
  */
 'use strict';
 
