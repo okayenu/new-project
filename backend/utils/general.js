@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add admin diagnostics page for search and discovery to inspect scores, source si
+ * Task: Perform performance pass on delivery visibility queries and render path; capture
  */
 'use strict';
 
