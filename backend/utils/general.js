@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Perform performance pass on delivery visibility queries and render path; capture
+ * Task: Implement trending-score calculator for personalization using weighted recency, 
  */
 'use strict';
 
