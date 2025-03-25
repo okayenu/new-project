@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for ranking regressions in personalization; include fixtures for lau
+ * Task: Add admin diagnostics page for merchant operations to inspect scores, source sig
  */
 'use strict';
 
