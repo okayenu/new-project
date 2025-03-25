@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Perform performance pass on review relevance queries and render path; capture be
+ * Task: Develop API endpoint to fetch community experiences feed with pagination, cursor
  */
 'use strict';
 
