@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for ranking regressions in catalog intelligence; include fixtures fo
+ * Task: Add admin diagnostics page for community experiences to inspect scores, source s
  */
 'use strict';
 
