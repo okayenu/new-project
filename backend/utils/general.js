@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add admin diagnostics page for recommendation quality to inspect scores, source 
+ * Task: Perform performance pass on merchant operations queries and render path; capture
  */
 'use strict';
 
