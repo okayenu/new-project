@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Document rollout checklist for 3D product rendering: feature flag, monitoring al
+ * Task: Create product-to-video metadata model for 3D product rendering with provider-sa
  */
 'use strict';
 
