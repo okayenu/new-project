@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build UI cards for merchant operations including thumbnail fallback, provider ic
+ * Task: Add caching strategy for 3D product rendering responses (cache key design, TTL t
  */
 'use strict';
 
