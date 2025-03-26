@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for ranking regressions in shopping assistant; include fixtures for 
+ * Task: Add admin diagnostics page for recommendation quality to inspect scores, source 
  */
 'use strict';
 
