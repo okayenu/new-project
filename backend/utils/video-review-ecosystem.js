@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Document rollout checklist for video review ecosystem: feature flag, monitoring 
+ * Task: Create product-to-video metadata model for video review ecosystem with provider-
  */
 'use strict';
 
