@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Build scheduled aggregation job for review relevance in `scripts/seed-reviews-da
+ * Task: Document rollout checklist for review relevance: feature flag, monitoring alert 
  */
 'use strict';
 
