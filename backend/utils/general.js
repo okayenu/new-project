@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement trending-score calculator for shopping assistant using weighted recenc
+ * Task: Develop API endpoint to fetch recommendation quality feed with pagination, curso
  */
 'use strict';
 
