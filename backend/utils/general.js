@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for ranking regressions in video review ecosystem; include fixtures 
+ * Task: Add admin diagnostics page for checkout orchestration to inspect scores, source 
  */
 'use strict';
 
