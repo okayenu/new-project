@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Perform performance pass on community experiences queries and render path; captu
+ * Task: Implement trending-score calculator for video review ecosystem using weighted re
  */
 'use strict';
 
