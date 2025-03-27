@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Create product-to-video metadata model for personalization with provider-safe UR
+ * Task: Build scheduled aggregation job for personalization in `scripts/seed-delivery-ev
  */
 'use strict';
 
