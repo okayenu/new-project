@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Document rollout checklist for delivery visibility: feature flag, monitoring ale
+ * Task: Create product-to-video metadata model for delivery visibility with provider-saf
  */
 'use strict';
 
