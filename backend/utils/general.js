@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build UI cards for community experiences including thumbnail fallback, provider 
+ * Task: Add caching strategy for delivery visibility responses (cache key design, TTL tu
  */
 'use strict';
 
