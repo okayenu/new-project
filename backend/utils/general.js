@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add caching strategy for delivery visibility responses (cache key design, TTL tu
+ * Task: Write tests for ranking regressions in video review ecosystem; include fixtures 
  */
 'use strict';
 
