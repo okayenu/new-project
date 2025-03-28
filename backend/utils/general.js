@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for ranking regressions in 3D product rendering; include fixtures fo
+ * Task: Add admin diagnostics page for personalization to inspect scores, source signals
  */
 'use strict';
 
