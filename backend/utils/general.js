@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement trending-score calculator for video review ecosystem using weighted re
+ * Task: Add caching strategy for review relevance responses (cache key design, TTL tunin
  */
 'use strict';
 
