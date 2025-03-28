@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add admin diagnostics page for personalization to inspect scores, source signals
+ * Task: Perform performance pass on recommendation quality queries and render path; capt
  */
 'use strict';
 
