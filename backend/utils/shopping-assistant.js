@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Document rollout checklist for shopping assistant: feature flag, monitoring aler
+ * Task: Build scheduled aggregation job for shopping assistant in `scripts/seed-delivery
  */
 'use strict';
 
