@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement trending-score calculator for 3D product rendering using weighted rece
+ * Task: Add caching strategy for search and discovery responses (cache key design, TTL t
  */
 'use strict';
 
