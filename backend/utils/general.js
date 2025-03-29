@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Perform performance pass on checkout orchestration queries and render path; capt
+ * Task: Implement trending-score calculator for delivery visibility using weighted recen
  */
 'use strict';
 
