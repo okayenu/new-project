@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for ranking regressions in delivery visibility; include fixtures for
+ * Task: Add admin diagnostics page for catalog intelligence to inspect scores, source si
  */
 'use strict';
 
