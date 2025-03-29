@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Develop API endpoint to fetch catalog intelligence feed with pagination, cursor 
+ * Task: Build UI cards for checkout orchestration including thumbnail fallback, provider
  */
 'use strict';
 
