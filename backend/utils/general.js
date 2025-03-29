@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Perform performance pass on recommendation quality queries and render path; capt
+ * Task: Implement trending-score calculator for 3D product rendering using weighted rece
  */
 'use strict';
 
