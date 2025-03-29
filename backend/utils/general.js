@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add caching strategy for search and discovery responses (cache key design, TTL t
+ * Task: Write tests for ranking regressions in delivery visibility; include fixtures for
  */
 'use strict';
 
