@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Document rollout checklist for merchant operations: feature flag, monitoring ale
+ * Task: Create product-to-video metadata model for merchant operations with provider-saf
  */
 'use strict';
 
