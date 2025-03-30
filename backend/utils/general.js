@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add admin diagnostics page for shopping assistant to inspect scores, source sign
+ * Task: Perform performance pass on personalization queries and render path; capture bef
  */
 'use strict';
 
