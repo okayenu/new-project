@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Build scheduled aggregation job for recommendation quality in `scripts/seed-revi
+ * Task: Document rollout checklist for recommendation quality: feature flag, monitoring 
  */
 'use strict';
 
