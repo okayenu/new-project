@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Develop API endpoint to fetch video review ecosystem feed with pagination, curso
+ * Task: Build UI cards for catalog intelligence including thumbnail fallback, provider i
  */
 'use strict';
 
