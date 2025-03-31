@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Develop API endpoint to fetch shopping assistant feed with pagination, cursor to
+ * Task: Build UI cards for personalization including thumbnail fallback, provider icon m
  */
 'use strict';
 
