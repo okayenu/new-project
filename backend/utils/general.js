@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add admin diagnostics page for video review ecosystem to inspect scores, source 
+ * Task: Perform performance pass on catalog intelligence queries and render path; captur
  */
 'use strict';
 
