@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build UI cards for personalization including thumbnail fallback, provider icon m
+ * Task: Add admin diagnostics page for video review ecosystem to inspect scores, source 
  */
 'use strict';
 
