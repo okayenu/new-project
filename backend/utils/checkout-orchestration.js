@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Build scheduled aggregation job for checkout orchestration in `scripts/seed-revi
+ * Task: Document rollout checklist for checkout orchestration: feature flag, monitoring 
  */
 'use strict';
 
