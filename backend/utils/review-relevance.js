@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Create product-to-video metadata model for review relevance with provider-safe U
+ * Task: Build scheduled aggregation job for review relevance in `scripts/seed-delivery-e
  */
 'use strict';
 
