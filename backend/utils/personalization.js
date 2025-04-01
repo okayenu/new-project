@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Build scheduled aggregation job for personalization in `scripts/seed-delivery-ev
+ * Task: Document rollout checklist for personalization: feature flag, monitoring alert t
  */
 'use strict';
 
