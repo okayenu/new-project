@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Develop API endpoint to fetch 3D product rendering feed with pagination, cursor 
+ * Task: Build UI cards for shopping assistant including thumbnail fallback, provider ico
  */
 'use strict';
 
