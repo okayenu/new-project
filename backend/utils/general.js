@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build UI cards for catalog intelligence including thumbnail fallback, provider i
+ * Task: Add caching strategy for community experiences responses (cache key design, TTL 
  */
 'use strict';
 
