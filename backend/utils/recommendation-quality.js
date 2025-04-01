@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Document rollout checklist for recommendation quality: feature flag, monitoring 
+ * Task: Create product-to-video metadata model for recommendation quality with provider-
  */
 'use strict';
 
