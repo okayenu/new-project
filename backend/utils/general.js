@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build UI cards for video review ecosystem including thumbnail fallback, provider
+ * Task: Add caching strategy for checkout orchestration responses (cache key design, TTL
  */
 'use strict';
 
