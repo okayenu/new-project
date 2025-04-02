@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Document rollout checklist for checkout orchestration: feature flag, monitoring 
+ * Task: Create product-to-video metadata model for checkout orchestration with provider-
  */
 'use strict';
 
