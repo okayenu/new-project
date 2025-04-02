@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add caching strategy for recommendation quality responses (cache key design, TTL
+ * Task: Perform performance pass on video review ecosystem queries and render path; capt
  */
 'use strict';
 
