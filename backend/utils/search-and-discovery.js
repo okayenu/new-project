@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Create product-to-video metadata model for search and discovery with provider-sa
+ * Task: Build scheduled aggregation job for search and discovery in `scripts/seed-delive
  */
 'use strict';
 
