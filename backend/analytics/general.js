@@ -1,6 +1,6 @@
 /**
  * Analytics event instrumentation: general
- * Task: Instrument analytics for delivery visibility impressions, CTR, watch-clicks, and
+ * Task: Instrument analytics for search and discovery impressions, CTR, watch-clicks, an
  */
 'use strict';
 
