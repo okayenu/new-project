@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement trending-score calculator for recommendation quality using weighted re
+ * Task: Develop API endpoint to fetch review relevance feed with pagination, cursor toke
  */
 'use strict';
 
