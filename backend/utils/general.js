@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for ranking regressions in community experiences; include fixtures f
+ * Task: Implement trending-score calculator for recommendation quality using weighted re
  */
 'use strict';
 
