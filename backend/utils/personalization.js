@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Document rollout checklist for personalization: feature flag, monitoring alert t
+ * Task: Create product-to-video metadata model for personalization with provider-safe UR
  */
 'use strict';
 
