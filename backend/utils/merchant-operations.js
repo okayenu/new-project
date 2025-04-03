@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Create product-to-video metadata model for merchant operations with provider-saf
+ * Task: Build scheduled aggregation job for merchant operations in `scripts/seed-deliver
  */
 'use strict';
 
