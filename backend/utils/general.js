@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build UI cards for delivery visibility including thumbnail fallback, provider ic
+ * Task: Add caching strategy for catalog intelligence responses (cache key design, TTL t
  */
 'use strict';
 
