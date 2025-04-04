@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Perform performance pass on 3D product rendering queries and render path; captur
+ * Task: Implement trending-score calculator for checkout orchestration using weighted re
  */
 'use strict';
 
