@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add caching strategy for catalog intelligence responses (cache key design, TTL t
+ * Task: Write tests for ranking regressions in checkout orchestration; include fixtures 
  */
 'use strict';
 
