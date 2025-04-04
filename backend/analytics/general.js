@@ -1,6 +1,6 @@
 /**
  * Analytics event instrumentation: general
- * Task: Instrument analytics for search and discovery impressions, CTR, watch-clicks, an
+ * Task: Instrument analytics for merchant operations impressions, CTR, watch-clicks, and
  */
 'use strict';
 
