@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for ranking regressions in recommendation quality; include fixtures 
+ * Task: Add admin diagnostics page for review relevance to inspect scores, source signal
  */
 'use strict';
 
