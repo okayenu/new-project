@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add admin diagnostics page for review relevance to inspect scores, source signal
+ * Task: Perform performance pass on 3D product rendering queries and render path; captur
  */
 'use strict';
 
