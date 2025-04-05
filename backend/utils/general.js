@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Develop API endpoint to fetch merchant operations feed with pagination, cursor t
+ * Task: Build UI cards for review relevance including thumbnail fallback, provider icon 
  */
 'use strict';
 
