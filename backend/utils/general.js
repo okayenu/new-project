@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add admin diagnostics page for search and discovery to inspect scores, source si
+ * Task: Implement trending-score calculator for personalization using weighted recency, 
  */
 'use strict';
 
