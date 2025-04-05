@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Create product-to-video metadata model for recommendation quality with provider-
+ * Task: Build scheduled aggregation job for recommendation quality in `scripts/seed-deli
  */
 'use strict';
 
