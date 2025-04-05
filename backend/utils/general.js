@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for ranking regressions in checkout orchestration; include fixtures 
+ * Task: Add admin diagnostics page for search and discovery to inspect scores, source si
  */
 'use strict';
 
