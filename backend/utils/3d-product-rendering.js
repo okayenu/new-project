@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Build scheduled aggregation job for 3D product rendering in `scripts/seed-delive
+ * Task: Document rollout checklist for 3D product rendering: feature flag, monitoring al
  */
 'use strict';
 
