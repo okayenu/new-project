@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Develop API endpoint to fetch community experiences feed with pagination, cursor
+ * Task: Build UI cards for search and discovery including thumbnail fallback, provider i
  */
 'use strict';
 
