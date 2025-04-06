@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Create product-to-video metadata model for checkout orchestration with provider-
+ * Task: Build scheduled aggregation job for checkout orchestration in `scripts/seed-deli
  */
 'use strict';
 
