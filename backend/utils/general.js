@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add admin diagnostics page for community experiences to inspect scores, source s
+ * Task: Perform performance pass on search and discovery queries and render path; captur
  */
 'use strict';
 
