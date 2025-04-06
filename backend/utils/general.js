@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build UI cards for search and discovery including thumbnail fallback, provider i
+ * Task: Add caching strategy for video review ecosystem responses (cache key design, TTL
  */
 'use strict';
 
