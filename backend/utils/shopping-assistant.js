@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Document rollout checklist for shopping assistant: feature flag, monitoring aler
+ * Task: Create product-to-video metadata model for shopping assistant with provider-safe
  */
 'use strict';
 
