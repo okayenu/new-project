@@ -1,6 +1,6 @@
 /**
  * Analytics event instrumentation: general
- * Task: Instrument analytics for recommendation quality impressions, CTR, watch-clicks, 
+ * Task: Instrument analytics for checkout orchestration impressions, CTR, watch-clicks, 
  */
 'use strict';
 
