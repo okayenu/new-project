@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add caching strategy for 3D product rendering responses (cache key design, TTL t
+ * Task: Write tests for ranking regressions in shopping assistant; include fixtures for 
  */
 'use strict';
 
