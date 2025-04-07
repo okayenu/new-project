@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Develop API endpoint to fetch recommendation quality feed with pagination, curso
+ * Task: Build UI cards for merchant operations including thumbnail fallback, provider ic
  */
 'use strict';
 
