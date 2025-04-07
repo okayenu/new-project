@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Perform performance pass on search and discovery queries and render path; captur
+ * Task: Develop API endpoint to fetch recommendation quality feed with pagination, curso
  */
 'use strict';
 
