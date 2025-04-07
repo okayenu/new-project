@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Build scheduled aggregation job for video review ecosystem in `scripts/seed-deli
+ * Task: Create product-to-video metadata model for video review ecosystem with provider-
  */
 'use strict';
 
