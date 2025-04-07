@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Build scheduled aggregation job for delivery visibility in `scripts/seed-deliver
+ * Task: Document rollout checklist for delivery visibility: feature flag, monitoring ale
  */
 'use strict';
 
