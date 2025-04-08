@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Perform performance pass on merchant operations queries and render path; capture
+ * Task: Build UI cards for community experiences including thumbnail fallback, provider 
  */
 'use strict';
 
