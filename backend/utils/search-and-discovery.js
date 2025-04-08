@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Build scheduled aggregation job for search and discovery in `scripts/seed-delive
+ * Task: Document rollout checklist for search and discovery: feature flag, monitoring al
  */
 'use strict';
 
