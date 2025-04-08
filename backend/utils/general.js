@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add admin diagnostics page for checkout orchestration to inspect scores, source 
+ * Task: Perform performance pass on community experiences queries and render path; captu
  */
 'use strict';
 
