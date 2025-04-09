@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Develop API endpoint to fetch checkout orchestration feed with pagination, curso
+ * Task: Add caching strategy for review relevance responses (cache key design, TTL tunin
  */
 'use strict';
 
