@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Create product-to-video metadata model for shopping assistant with provider-safe
+ * Task: Build scheduled aggregation job for shopping assistant in `scripts/seed-trending
  */
 'use strict';
 
