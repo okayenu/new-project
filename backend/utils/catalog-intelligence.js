@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Create product-to-video metadata model for catalog intelligence with provider-sa
+ * Task: Build scheduled aggregation job for catalog intelligence in `scripts/seed-trendi
  */
 'use strict';
 
