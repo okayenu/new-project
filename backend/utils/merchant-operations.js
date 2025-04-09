@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Build scheduled aggregation job for merchant operations in `scripts/seed-deliver
+ * Task: Document rollout checklist for merchant operations: feature flag, monitoring ale
  */
 'use strict';
 
