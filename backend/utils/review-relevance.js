@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Document rollout checklist for review relevance: feature flag, monitoring alert 
+ * Task: Create product-to-video metadata model for review relevance with provider-safe U
  */
 'use strict';
 
