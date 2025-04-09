@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add caching strategy for review relevance responses (cache key design, TTL tunin
+ * Task: Write tests for ranking regressions in 3D product rendering; include fixtures fo
  */
 'use strict';
 
