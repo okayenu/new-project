@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement trending-score calculator for video review ecosystem using weighted re
+ * Task: Develop API endpoint to fetch checkout orchestration feed with pagination, curso
  */
 'use strict';
 
