@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Develop API endpoint to fetch personalization feed with pagination, cursor token
+ * Task: Build UI cards for recommendation quality including thumbnail fallback, provider
  */
 'use strict';
 
