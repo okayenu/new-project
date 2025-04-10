@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Document rollout checklist for search and discovery: feature flag, monitoring al
+ * Task: Create product-to-video metadata model for search and discovery with provider-sa
  */
 'use strict';
 
