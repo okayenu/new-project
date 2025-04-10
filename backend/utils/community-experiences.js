@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Build scheduled aggregation job for community experiences in `scripts/seed-deliv
+ * Task: Document rollout checklist for community experiences: feature flag, monitoring a
  */
 'use strict';
 
