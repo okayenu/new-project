@@ -1,6 +1,6 @@
 /**
  * Analytics event instrumentation: general
- * Task: Instrument analytics for shopping assistant impressions, CTR, watch-clicks, and 
+ * Task: Instrument analytics for video review ecosystem impressions, CTR, watch-clicks, 
  */
 'use strict';
 
