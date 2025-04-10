@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement trending-score calculator for 3D product rendering using weighted rece
+ * Task: Develop API endpoint to fetch personalization feed with pagination, cursor token
  */
 'use strict';
 
