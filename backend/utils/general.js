@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add admin diagnostics page for catalog intelligence to inspect scores, source si
+ * Task: Perform performance pass on checkout orchestration queries and render path; capt
  */
 'use strict';
 
