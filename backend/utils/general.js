@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build UI cards for recommendation quality including thumbnail fallback, provider
+ * Task: Add caching strategy for search and discovery responses (cache key design, TTL t
  */
 'use strict';
 
