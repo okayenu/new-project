@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Create product-to-video metadata model for 3D product rendering with provider-sa
+ * Task: Build scheduled aggregation job for 3D product rendering in `scripts/seed-trendi
  */
 'use strict';
 
