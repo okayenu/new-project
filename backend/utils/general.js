@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for ranking regressions in review relevance; include fixtures for la
+ * Task: Add admin diagnostics page for shopping assistant to inspect scores, source sign
  */
 'use strict';
 
