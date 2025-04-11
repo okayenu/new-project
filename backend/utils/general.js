@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement trending-score calculator for delivery visibility using weighted recen
+ * Task: Develop API endpoint to fetch catalog intelligence feed with pagination, cursor 
  */
 'use strict';
 
