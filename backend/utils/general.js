@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Develop API endpoint to fetch catalog intelligence feed with pagination, cursor 
+ * Task: Write tests for ranking regressions in review relevance; include fixtures for la
  */
 'use strict';
 
