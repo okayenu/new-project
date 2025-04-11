@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Perform performance pass on personalization queries and render path; capture bef
+ * Task: Implement trending-score calculator for review relevance using weighted recency,
  */
 'use strict';
 
