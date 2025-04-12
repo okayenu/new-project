@@ -1,6 +1,6 @@
 /**
  * Analytics event instrumentation: general
- * Task: Instrument analytics for 3D product rendering impressions, CTR, watch-clicks, an
+ * Task: Instrument analytics for delivery visibility impressions, CTR, watch-clicks, and
  */
 'use strict';
 
