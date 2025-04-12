@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build UI cards for personalization including thumbnail fallback, provider icon m
+ * Task: Add caching strategy for merchant operations responses (cache key design, TTL tu
  */
 'use strict';
 
