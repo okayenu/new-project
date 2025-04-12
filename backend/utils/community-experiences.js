@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Document rollout checklist for community experiences: feature flag, monitoring a
+ * Task: Create product-to-video metadata model for community experiences with provider-s
  */
 'use strict';
 
