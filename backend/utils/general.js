@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build UI cards for catalog intelligence including thumbnail fallback, provider i
+ * Task: Optimize recommendation latency for 3D product rendering using memoized candidat
  */
 'use strict';
 
