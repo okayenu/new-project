@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Create product-to-video metadata model for delivery visibility with provider-saf
+ * Task: Build scheduled aggregation job for delivery visibility in `scripts/seed-trendin
  */
 'use strict';
 
