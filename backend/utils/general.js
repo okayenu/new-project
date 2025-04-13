@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Define recommendation feature vectors for recommendation quality (category affin
+ * Task: Create recommendation candidate generator for review relevance combining collabo
  */
 'use strict';
 
