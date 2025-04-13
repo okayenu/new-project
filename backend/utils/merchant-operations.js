@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Create product-to-video metadata model for merchant operations with provider-saf
+ * Task: Implement event ingestion pipeline for merchant operations interactions with ide
  */
 'use strict';
 
