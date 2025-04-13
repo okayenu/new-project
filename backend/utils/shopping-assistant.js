@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Build scheduled aggregation job for shopping assistant in `scripts/seed-trending
+ * Task: Build recommendation explanation UI for shopping assistant: 'why this item' pane
  */
 'use strict';
 
