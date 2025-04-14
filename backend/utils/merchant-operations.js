@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Implement event ingestion pipeline for merchant operations interactions with ide
+ * Task: Develop A/B experiment hooks for merchant operations with assignment persistence
  */
 'use strict';
 
