@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Build scheduled aggregation job for video review ecosystem in `scripts/seed-tren
+ * Task: Build recommendation explanation UI for video review ecosystem: 'why this item' 
  */
 'use strict';
 
