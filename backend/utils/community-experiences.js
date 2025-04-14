@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Create product-to-video metadata model for community experiences with provider-s
+ * Task: Implement event ingestion pipeline for community experiences interactions with i
  */
 'use strict';
 
