@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document data retention and privacy boundaries for catalog intelligence analytic
+ * Task: Define recommendation feature vectors for checkout orchestration (category affin
  */
 'use strict';
 
