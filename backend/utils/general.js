@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create evaluation harness for recommendation quality quality metrics (precision@
+ * Task: Document data retention and privacy boundaries for catalog intelligence analytic
  */
 'use strict';
 
