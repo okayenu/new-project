@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add fallback heuristics for cold-start users in catalog intelligence: popular-in
+ * Task: Create evaluation harness for checkout orchestration quality metrics (precision@
  */
 'use strict';
 
