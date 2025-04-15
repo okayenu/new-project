@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create evaluation harness for checkout orchestration quality metrics (precision@
+ * Task: Document data retention and privacy boundaries for shopping assistant analytics 
  */
 'use strict';
 
