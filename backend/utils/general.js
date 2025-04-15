@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Define recommendation feature vectors for personalization (category affinity, pr
+ * Task: Create recommendation candidate generator for merchant operations combining coll
  */
 'use strict';
 
