@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Build scheduled aggregation job for 3D product rendering in `scripts/seed-trendi
+ * Task: Integrate smart-cart insertion logic for 3D product rendering with user controls
  */
 'use strict';
 
