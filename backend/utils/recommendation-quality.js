@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Document rollout checklist for recommendation quality: feature flag, monitoring 
+ * Task: Implement event ingestion pipeline for recommendation quality interactions with 
  */
 'use strict';
 
