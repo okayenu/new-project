@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Build scheduled aggregation job for delivery visibility in `scripts/seed-trendin
+ * Task: Integrate smart-cart insertion logic for delivery visibility with user controls 
  */
 'use strict';
 
