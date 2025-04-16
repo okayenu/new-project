@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create recommendation candidate generator for community experiences combining co
+ * Task: Add fallback heuristics for cold-start users in video review ecosystem: popular-
  */
 'use strict';
 
