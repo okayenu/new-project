@@ -1,6 +1,6 @@
 /**
  * Seed-data generator: general
- * Task: Write tests for recommendation determinism in review relevance given fixed seed 
+ * Task: Write tests for recommendation determinism in merchant operations given fixed se
  *
  * Usage: node scripts/seed-general.js
  */
