@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create evaluation harness for personalization quality metrics (precision@k, nove
+ * Task: Optimize recommendation latency for review relevance using memoized candidate po
  */
 'use strict';
 
