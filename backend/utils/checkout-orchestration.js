@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Document rollout checklist for checkout orchestration: feature flag, monitoring 
+ * Task: Implement event ingestion pipeline for checkout orchestration interactions with 
  */
 'use strict';
 
