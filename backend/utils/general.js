@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize recommendation latency for review relevance using memoized candidate po
+ * Task: Define recommendation feature vectors for catalog intelligence (category affinit
  */
 'use strict';
 
