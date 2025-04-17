@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Create product-to-video metadata model for personalization with provider-safe UR
+ * Task: Implement event ingestion pipeline for personalization interactions with idempot
  */
 'use strict';
 
