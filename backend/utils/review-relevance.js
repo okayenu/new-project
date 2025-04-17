@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Create product-to-video metadata model for review relevance with provider-safe U
+ * Task: Integrate smart-cart insertion logic for review relevance with user controls (ac
  */
 'use strict';
 
