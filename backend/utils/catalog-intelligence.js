@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Build scheduled aggregation job for catalog intelligence in `scripts/seed-trendi
+ * Task: Develop A/B experiment hooks for catalog intelligence with assignment persistenc
  */
 'use strict';
 
