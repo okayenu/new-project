@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create evaluation harness for shopping assistant quality metrics (precision@k, n
+ * Task: Optimize recommendation latency for merchant operations using memoized candidate
  */
 'use strict';
 
