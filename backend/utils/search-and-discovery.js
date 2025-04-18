@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Create product-to-video metadata model for search and discovery with provider-sa
+ * Task: Integrate smart-cart insertion logic for search and discovery with user controls
  */
 'use strict';
 
