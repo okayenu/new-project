@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document data retention and privacy boundaries for delivery visibility analytics
+ * Task: Define recommendation feature vectors for video review ecosystem (category affin
  */
 'use strict';
 
