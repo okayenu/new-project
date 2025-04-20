@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document data retention and privacy boundaries for search and discovery analytic
+ * Task: Define recommendation feature vectors for delivery visibility (category affinity
  */
 'use strict';
 
