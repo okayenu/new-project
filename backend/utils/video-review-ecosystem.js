@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Integrate smart-cart insertion logic for video review ecosystem with user contro
+ * Task: Develop A/B experiment hooks for video review ecosystem with assignment persiste
  */
 'use strict';
 
