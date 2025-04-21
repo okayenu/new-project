@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Develop A/B experiment hooks for recommendation quality with assignment persiste
+ * Task: Build recommendation explanation UI for recommendation quality: 'why this item' 
  */
 'use strict';
 
