@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create recommendation candidate generator for catalog intelligence combining col
+ * Task: Add fallback heuristics for cold-start users in merchant operations: popular-in-
  */
 'use strict';
 
