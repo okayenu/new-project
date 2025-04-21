@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Integrate smart-cart insertion logic for 3D product rendering with user controls
+ * Task: Develop A/B experiment hooks for 3D product rendering with assignment persistenc
  */
 'use strict';
 
