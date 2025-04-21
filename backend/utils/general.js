@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Define recommendation feature vectors for delivery visibility (category affinity
+ * Task: Create recommendation candidate generator for catalog intelligence combining col
  */
 'use strict';
 
