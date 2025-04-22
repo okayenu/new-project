@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Build recommendation explanation UI for recommendation quality: 'why this item' 
+ * Task: Integrate smart-cart insertion logic for recommendation quality with user contro
  */
 'use strict';
 
