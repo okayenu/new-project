@@ -1,6 +1,6 @@
 /**
  * Seed-data generator: general
- * Task: Write tests for recommendation determinism in shopping assistant given fixed see
+ * Task: Write tests for recommendation determinism in video review ecosystem given fixed
  *
  * Usage: node scripts/seed-general.js
  */
