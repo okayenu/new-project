@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Develop A/B experiment hooks for checkout orchestration with assignment persiste
+ * Task: Build recommendation explanation UI for checkout orchestration: 'why this item' 
  */
 'use strict';
 
