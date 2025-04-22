@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Develop A/B experiment hooks for delivery visibility with assignment persistence
+ * Task: Implement event ingestion pipeline for delivery visibility interactions with ide
  */
 'use strict';
 
