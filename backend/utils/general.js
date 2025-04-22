@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize recommendation latency for catalog intelligence using memoized candidat
+ * Task: Document data retention and privacy boundaries for community experiences analyti
  */
 'use strict';
 
