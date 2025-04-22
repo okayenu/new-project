@@ -16,8 +16,8 @@
 
 .page-title {
   font-weight: 700;
-  font-size: 22px;
-  margin-bottom: 18px;
+  font-size: 24px;
+  margin-bottom: 20px;
 }
 
 .checkout-grid {
@@ -45,7 +45,7 @@
 .cart-item-container,
 .payment-summary {
   border: 1px solid rgb(222, 222, 222);
-  border-radius: 4px;
+  border-radius: 8px;
   padding: 18px;
 }
 
