@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Build recommendation explanation UI for personalization: 'why this item' panel w
+ * Task: Integrate smart-cart insertion logic for personalization with user controls (acc
  */
 'use strict';
 
