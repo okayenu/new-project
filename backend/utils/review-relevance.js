@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Implement event ingestion pipeline for review relevance interactions with idempo
+ * Task: Develop A/B experiment hooks for review relevance with assignment persistence an
  */
 'use strict';
 
