@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Build recommendation explanation UI for shopping assistant: 'why this item' pane
+ * Task: Integrate smart-cart insertion logic for shopping assistant with user controls (
  */
 'use strict';
 
