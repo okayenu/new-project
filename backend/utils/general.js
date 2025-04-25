@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add fallback heuristics for cold-start users in checkout orchestration: popular-
+ * Task: Create evaluation harness for community experiences quality metrics (precision@k
  */
 'use strict';
 
