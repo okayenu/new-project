@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document data retention and privacy boundaries for personalization analytics and
+ * Task: Define recommendation feature vectors for recommendation quality (category affin
  */
 'use strict';
 
