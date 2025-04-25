@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Implement event ingestion pipeline for search and discovery interactions with id
+ * Task: Develop A/B experiment hooks for search and discovery with assignment persistenc
  */
 'use strict';
 
