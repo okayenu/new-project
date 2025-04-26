@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Implement event ingestion pipeline for video review ecosystem interactions with 
+ * Task: Build recommendation explanation UI for video review ecosystem: 'why this item' 
  */
 'use strict';
 
