@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create recommendation candidate generator for merchant operations combining coll
+ * Task: Add fallback heuristics for cold-start users in shopping assistant: popular-in-s
  */
 'use strict';
 
