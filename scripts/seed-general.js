@@ -1,6 +1,6 @@
 /**
  * Seed-data generator: general
- * Task: Write tests for recommendation determinism in delivery visibility given fixed se
+ * Task: Write tests for recommendation determinism in merchant operations given fixed se
  *
  * Usage: node scripts/seed-general.js
  */
