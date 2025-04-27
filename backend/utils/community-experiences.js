@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Implement event ingestion pipeline for community experiences interactions with i
+ * Task: Develop A/B experiment hooks for community experiences with assignment persisten
  */
 'use strict';
 
