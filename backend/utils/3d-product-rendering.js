@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Implement event ingestion pipeline for 3D product rendering interactions with id
+ * Task: Integrate smart-cart insertion logic for 3D product rendering with user controls
  */
 'use strict';
 
