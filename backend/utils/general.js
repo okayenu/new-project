@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Define recommendation feature vectors for catalog intelligence (category affinit
+ * Task: Create recommendation candidate generator for community experiences combining co
  */
 'use strict';
 
