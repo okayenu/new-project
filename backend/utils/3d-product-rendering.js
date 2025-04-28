@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Integrate smart-cart insertion logic for 3D product rendering with user controls
+ * Task: Build recommendation explanation UI for 3D product rendering: 'why this item' pa
  */
 'use strict';
 
