@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Build recommendation explanation UI for checkout orchestration: 'why this item' 
+ * Task: Implement event ingestion pipeline for checkout orchestration interactions with 
  */
 'use strict';
 
