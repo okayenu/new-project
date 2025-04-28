@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Implement event ingestion pipeline for delivery visibility interactions with ide
+ * Task: Integrate smart-cart insertion logic for delivery visibility with user controls 
  */
 'use strict';
 
