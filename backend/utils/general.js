@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document data retention and privacy boundaries for shopping assistant analytics 
+ * Task: Define recommendation feature vectors for personalization (category affinity, pr
  */
 'use strict';
 
