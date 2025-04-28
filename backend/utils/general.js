@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add fallback heuristics for cold-start users in video review ecosystem: popular-
+ * Task: Create evaluation harness for catalog intelligence quality metrics (precision@k,
  */
 'use strict';
 
