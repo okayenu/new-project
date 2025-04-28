@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Define recommendation feature vectors for personalization (category affinity, pr
+ * Task: Define recommendation feature vectors for catalog intelligence (category affinit
  */
 'use strict';
 
