@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Integrate smart-cart insertion logic for delivery visibility with user controls 
+ * Task: Build recommendation explanation UI for delivery visibility: 'why this item' pan
  */
 'use strict';
 
