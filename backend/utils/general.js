@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add fallback heuristics for cold-start users in 3D product rendering: popular-in
+ * Task: Create evaluation harness for shopping assistant quality metrics (precision@k, n
  */
 'use strict';
 
