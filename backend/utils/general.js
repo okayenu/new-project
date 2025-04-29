@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize recommendation latency for search and discovery using memoized candidat
+ * Task: Create recommendation candidate generator for recommendation quality combining c
  */
 'use strict';
 
