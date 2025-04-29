@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Integrate smart-cart insertion logic for personalization with user controls (acc
+ * Task: Implement event ingestion pipeline for personalization interactions with idempot
  */
 'use strict';
 
