@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Develop A/B experiment hooks for review relevance with assignment persistence an
+ * Task: Integrate smart-cart insertion logic for review relevance with user controls (ac
  */
 'use strict';
 
