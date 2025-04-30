@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create evaluation harness for video review ecosystem quality metrics (precision@
+ * Task: Optimize recommendation latency for community experiences using memoized candida
  */
 'use strict';
 
