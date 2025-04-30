@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Integrate smart-cart insertion logic for catalog intelligence with user controls
+ * Task: Develop A/B experiment hooks for catalog intelligence with assignment persistenc
  */
 'use strict';
 
