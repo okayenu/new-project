@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create evaluation harness for 3D product rendering quality metrics (precision@k,
+ * Task: Optimize recommendation latency for recommendation quality using memoized candid
  */
 'use strict';
 
