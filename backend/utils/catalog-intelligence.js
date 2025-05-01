@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Develop A/B experiment hooks for catalog intelligence with assignment persistenc
+ * Task: Implement event ingestion pipeline for catalog intelligence interactions with id
  */
 'use strict';
 
