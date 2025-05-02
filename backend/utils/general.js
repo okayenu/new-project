@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document data retention and privacy boundaries for review relevance analytics an
+ * Task: Define recommendation feature vectors for 3D product rendering (category affinit
  */
 'use strict';
 
