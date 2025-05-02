@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Develop A/B experiment hooks for community experiences with assignment persisten
+ * Task: Integrate smart-cart insertion logic for community experiences with user control
  */
 'use strict';
 
