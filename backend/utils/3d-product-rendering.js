@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Build recommendation explanation UI for 3D product rendering: 'why this item' pa
+ * Task: Develop A/B experiment hooks for 3D product rendering with assignment persistenc
  */
 'use strict';
 
