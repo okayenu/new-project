@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Develop A/B experiment hooks for video review ecosystem with assignment persiste
+ * Task: Implement event ingestion pipeline for video review ecosystem interactions with 
  */
 'use strict';
 
