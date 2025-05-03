@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Develop A/B experiment hooks for 3D product rendering with assignment persistenc
+ * Task: Implement event ingestion pipeline for 3D product rendering interactions with id
  */
 'use strict';
 
