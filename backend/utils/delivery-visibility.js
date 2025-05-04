@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Build recommendation explanation UI for delivery visibility: 'why this item' pan
+ * Task: Develop A/B experiment hooks for delivery visibility with assignment persistence
  */
 'use strict';
 
