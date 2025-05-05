@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Build recommendation explanation UI for checkout orchestration: 'why this item' 
+ * Task: Integrate smart-cart insertion logic for checkout orchestration with user contro
  */
 'use strict';
 
