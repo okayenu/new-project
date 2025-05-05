@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize recommendation latency for shopping assistant using memoized candidate 
+ * Task: Document data retention and privacy boundaries for recommendation quality analyt
  */
 'use strict';
 
