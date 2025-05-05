@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create recommendation candidate generator for video review ecosystem combining c
+ * Task: Optimize recommendation latency for shopping assistant using memoized candidate 
  */
 'use strict';
 
