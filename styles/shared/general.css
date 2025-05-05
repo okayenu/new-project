@@ -75,12 +75,12 @@ input, select, button {
 }
 
 .link-primary {
-  color: rgb(1, 124, 182);
+  color: rgb(0, 113, 133);
   cursor: pointer;
 }
 
 .link-primary:hover {
-  color: rgb(196, 80, 0);
+  color: rgb(180, 70, 0);
 }
 
 /* Styles for dropdown selectors. */
@@ -97,5 +97,5 @@ select {
 
 select:focus,
 input:focus {
-  outline: 2px solid rgb(255, 153, 0);
+  outline: 2px solid rgb(255, 165, 0);
 }
