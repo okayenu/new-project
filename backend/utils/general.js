@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add fallback heuristics for cold-start users in recommendation quality: popular-
+ * Task: Create evaluation harness for merchant operations quality metrics (precision@k, 
  */
 'use strict';
 
