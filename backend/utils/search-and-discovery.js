@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Build recommendation explanation UI for search and discovery: 'why this item' pa
+ * Task: Implement event ingestion pipeline for search and discovery interactions with id
  */
 'use strict';
 
