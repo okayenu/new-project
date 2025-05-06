@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Implement event ingestion pipeline for catalog intelligence interactions with id
+ * Task: Build recommendation explanation UI for catalog intelligence: 'why this item' pa
  */
 'use strict';
 
