@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Define recommendation feature vectors for community experiences (category affini
+ * Task: Create recommendation candidate generator for delivery visibility combining coll
  */
 'use strict';
 
