@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize recommendation latency for video review ecosystem using memoized candid
+ * Task: Document data retention and privacy boundaries for checkout orchestration analyt
  */
 'use strict';
 
