@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize recommendation latency for 3D product rendering using memoized candidat
+ * Task: Document data retention and privacy boundaries for personalization analytics and
  */
 'use strict';
 
