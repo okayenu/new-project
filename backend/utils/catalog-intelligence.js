@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Build recommendation explanation UI for catalog intelligence: 'why this item' pa
+ * Task: Integrate smart-cart insertion logic for catalog intelligence with user controls
  */
 'use strict';
 
