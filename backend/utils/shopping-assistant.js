@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Develop A/B experiment hooks for shopping assistant with assignment persistence 
+ * Task: Build recommendation explanation UI for shopping assistant: 'why this item' pane
  */
 'use strict';
 
