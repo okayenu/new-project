@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Define recommendation feature vectors for checkout orchestration (category affin
+ * Task: Create recommendation candidate generator for search and discovery combining col
  */
 'use strict';
 
