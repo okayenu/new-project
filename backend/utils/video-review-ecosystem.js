@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Build recommendation explanation UI for video review ecosystem: 'why this item' 
+ * Task: Integrate smart-cart insertion logic for video review ecosystem with user contro
  */
 'use strict';
 
