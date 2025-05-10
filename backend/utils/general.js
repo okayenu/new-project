@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add fallback heuristics for cold-start users in shopping assistant: popular-in-s
+ * Task: Create evaluation harness for personalization quality metrics (precision@k, nove
  */
 'use strict';
 
