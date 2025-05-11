@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create evaluation harness for catalog intelligence quality metrics (precision@k,
+ * Task: Optimize recommendation latency for search and discovery using memoized candidat
  */
 'use strict';
 
