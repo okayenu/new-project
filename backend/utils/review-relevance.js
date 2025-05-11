@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Implement event ingestion pipeline for review relevance interactions with idempo
+ * Task: Integrate smart-cart insertion logic for review relevance with user controls (ac
  */
 'use strict';
 
