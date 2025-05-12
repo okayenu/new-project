@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Implement event ingestion pipeline for personalization interactions with idempot
+ * Task: Develop A/B experiment hooks for personalization with assignment persistence and
  */
 'use strict';
 
