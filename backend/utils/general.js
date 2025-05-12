@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create recommendation candidate generator for checkout orchestration combining c
+ * Task: Add fallback heuristics for cold-start users in delivery visibility: popular-in-
  */
 'use strict';
 
