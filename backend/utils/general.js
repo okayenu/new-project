@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize recommendation latency for merchant operations using memoized candidate
+ * Task: Create recommendation candidate generator for checkout orchestration combining c
  */
 'use strict';
 
