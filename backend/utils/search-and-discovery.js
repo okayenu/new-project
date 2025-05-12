@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Implement event ingestion pipeline for search and discovery interactions with id
+ * Task: Integrate smart-cart insertion logic for search and discovery with user controls
  */
 'use strict';
 
