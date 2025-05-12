@@ -1,6 +1,6 @@
 /**
  * Seed-data generator: general
- * Task: Write tests for recommendation determinism in recommendation quality given fixed
+ * Task: Write tests for recommendation determinism in checkout orchestration given fixed
  *
  * Usage: node scripts/seed-general.js
  */
