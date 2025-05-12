@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add fallback heuristics for cold-start users in delivery visibility: popular-in-
+ * Task: Create evaluation harness for video review ecosystem quality metrics (precision@
  */
 'use strict';
 
