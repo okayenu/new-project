@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Develop A/B experiment hooks for merchant operations with assignment persistence
+ * Task: Integrate smart-cart insertion logic for merchant operations with user controls 
  */
 'use strict';
 
