@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Define recommendation feature vectors for video review ecosystem (category affin
+ * Task: Add fallback heuristics for cold-start users in review relevance: popular-in-seg
  */
 'use strict';
 
