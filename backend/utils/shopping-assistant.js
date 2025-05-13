@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Integrate smart-cart insertion logic for shopping assistant with user controls (
+ * Task: Develop A/B experiment hooks for shopping assistant with assignment persistence 
  */
 'use strict';
 
