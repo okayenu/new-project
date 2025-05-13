@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add fallback heuristics for cold-start users in review relevance: popular-in-seg
+ * Task: Create evaluation harness for 3D product rendering quality metrics (precision@k,
  */
 'use strict';
 
