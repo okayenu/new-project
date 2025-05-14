@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add fallback heuristics for cold-start users in search and discovery: popular-in
+ * Task: Create evaluation harness for delivery visibility quality metrics (precision@k, 
  */
 'use strict';
 
