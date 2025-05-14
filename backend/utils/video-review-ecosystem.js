@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Build recommendation explanation UI for video review ecosystem: 'why this item' 
+ * Task: Develop A/B experiment hooks for video review ecosystem with assignment persiste
  */
 'use strict';
 
