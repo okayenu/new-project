@@ -1,6 +1,6 @@
 /**
  * Seed-data generator: general
- * Task: Write tests for recommendation determinism in personalization given fixed seed d
+ * Task: Write tests for recommendation determinism in catalog intelligence given fixed s
  *
  * Usage: node scripts/seed-general.js
  */
