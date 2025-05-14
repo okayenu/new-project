@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create evaluation harness for delivery visibility quality metrics (precision@k, 
+ * Task: Optimize recommendation latency for checkout orchestration using memoized candid
  */
 'use strict';
 
