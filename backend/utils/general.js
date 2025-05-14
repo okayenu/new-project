@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize recommendation latency for recommendation quality using memoized candid
+ * Task: Document data retention and privacy boundaries for review relevance analytics an
  */
 'use strict';
 
