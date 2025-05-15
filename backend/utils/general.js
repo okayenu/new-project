@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize recommendation latency for personalization using memoized candidate poo
+ * Task: Document data retention and privacy boundaries for merchant operations analytics
  */
 'use strict';
 
