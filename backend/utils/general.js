@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add fallback heuristics for cold-start users in merchant operations: popular-in-
+ * Task: Create evaluation harness for review relevance quality metrics (precision@k, nov
  */
 'use strict';
 
