@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Define recommendation feature vectors for delivery visibility (category affinity
+ * Task: Add fallback heuristics for cold-start users in merchant operations: popular-in-
  */
 'use strict';
 
