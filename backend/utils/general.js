@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize recommendation latency for checkout orchestration using memoized candid
+ * Task: Document data retention and privacy boundaries for search and discovery analytic
  */
 'use strict';
 
