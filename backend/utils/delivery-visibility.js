@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Integrate smart-cart insertion logic for delivery visibility with user controls 
+ * Task: Develop A/B experiment hooks for delivery visibility with assignment persistence
  */
 'use strict';
 
