@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document data retention and privacy boundaries for community experiences analyti
+ * Task: Define recommendation feature vectors for search and discovery (category affinit
  */
 'use strict';
 
