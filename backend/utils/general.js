@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Define recommendation feature vectors for search and discovery (category affinit
+ * Task: Create recommendation candidate generator for video review ecosystem combining c
  */
 'use strict';
 
