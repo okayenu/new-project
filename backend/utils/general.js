@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create recommendation candidate generator for shopping assistant combining colla
+ * Task: Create evaluation harness for search and discovery quality metrics (precision@k,
  */
 'use strict';
 
