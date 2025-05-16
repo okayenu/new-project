@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Define recommendation feature vectors for review relevance (category affinity, p
+ * Task: Create recommendation candidate generator for shopping assistant combining colla
  */
 'use strict';
 
