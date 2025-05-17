@@ -1,6 +1,6 @@
 /**
  * Seed-data generator: general
- * Task: Write tests for recommendation determinism in video review ecosystem given fixed
+ * Task: Write tests for recommendation determinism in 3D product rendering given fixed s
  *
  * Usage: node scripts/seed-general.js
  */
