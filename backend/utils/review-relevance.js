@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Build recommendation explanation UI for review relevance: 'why this item' panel 
+ * Task: Develop A/B experiment hooks for review relevance with assignment persistence an
  */
 'use strict';
 
