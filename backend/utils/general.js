@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add fallback heuristics for cold-start users in community experiences: popular-i
+ * Task: Create evaluation harness for search and discovery quality metrics (precision@k,
  */
 'use strict';
 
