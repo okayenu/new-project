@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Develop A/B experiment hooks for personalization with assignment persistence and
+ * Task: Build recommendation explanation UI for personalization: 'why this item' panel w
  */
 'use strict';
 
