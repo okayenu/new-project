@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create recommendation candidate generator for 3D product rendering combining col
+ * Task: Optimize recommendation latency for video review ecosystem using memoized candid
  */
 'use strict';
 
