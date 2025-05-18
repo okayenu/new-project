@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document data retention and privacy boundaries for checkout orchestration analyt
+ * Task: Define recommendation feature vectors for community experiences (category affini
  */
 'use strict';
 
