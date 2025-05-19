@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Build recommendation explanation UI for merchant operations: 'why this item' pan
+ * Task: Implement event ingestion pipeline for merchant operations interactions with ide
  */
 'use strict';
 
