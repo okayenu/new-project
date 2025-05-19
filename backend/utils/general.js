@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create evaluation harness for community experiences quality metrics (precision@k
+ * Task: Optimize recommendation latency for video review ecosystem using memoized candid
  */
 'use strict';
 
