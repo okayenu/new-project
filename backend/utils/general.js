@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize recommendation latency for video review ecosystem using memoized candid
+ * Task: Optimize recommendation latency for 3D product rendering using memoized candidat
  */
 'use strict';
 
