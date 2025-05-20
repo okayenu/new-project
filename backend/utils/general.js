@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create recommendation candidate generator for review relevance combining collabo
+ * Task: Add fallback heuristics for cold-start users in personalization: popular-in-segm
  */
 'use strict';
 
