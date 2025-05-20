@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add fallback heuristics for cold-start users in personalization: popular-in-segm
+ * Task: Create evaluation harness for recommendation quality quality metrics (precision@
  */
 'use strict';
 
