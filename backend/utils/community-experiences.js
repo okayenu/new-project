@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Build recommendation explanation UI for community experiences: 'why this item' p
+ * Task: Implement event ingestion pipeline for community experiences interactions with i
  */
 'use strict';
 
