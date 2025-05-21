@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create evaluation harness for checkout orchestration quality metrics (precision@
+ * Task: Optimize recommendation latency for delivery visibility using memoized candidate
  */
 'use strict';
 
