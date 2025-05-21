@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Build recommendation explanation UI for recommendation quality: 'why this item' 
+ * Task: Implement event ingestion pipeline for recommendation quality interactions with 
  */
 'use strict';
 
