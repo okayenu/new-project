@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Implement event ingestion pipeline for checkout orchestration interactions with 
+ * Task: Develop A/B experiment hooks for checkout orchestration with assignment persiste
  */
 'use strict';
 
