@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Implement event ingestion pipeline for recommendation quality interactions with 
+ * Task: Develop A/B experiment hooks for recommendation quality with assignment persiste
  */
 'use strict';
 
