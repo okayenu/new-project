@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create evaluation harness for personalization quality metrics (precision@k, nove
+ * Task: Define recommendation feature vectors for catalog intelligence (category affinit
  */
 'use strict';
 
