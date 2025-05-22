@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Integrate smart-cart insertion logic for checkout orchestration with user contro
+ * Task: Implement event ingestion pipeline for checkout orchestration interactions with 
  */
 'use strict';
 
