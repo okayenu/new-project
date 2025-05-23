@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize recommendation latency for search and discovery using memoized candidat
+ * Task: Document data retention and privacy boundaries for video review ecosystem analyt
  */
 'use strict';
 
