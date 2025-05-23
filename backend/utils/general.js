@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document data retention and privacy boundaries for video review ecosystem analyt
+ * Task: Create recommendation candidate generator for recommendation quality combining c
  */
 'use strict';
 
