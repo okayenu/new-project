@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Integrate smart-cart insertion logic for review relevance with user controls (ac
+ * Task: Build recommendation explanation UI for review relevance: 'why this item' panel 
  */
 'use strict';
 
