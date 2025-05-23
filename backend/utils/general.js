@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create recommendation candidate generator for recommendation quality combining c
+ * Task: Add fallback heuristics for cold-start users in 3D product rendering: popular-in
  */
 'use strict';
 
