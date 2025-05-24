@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document data retention and privacy boundaries for 3D product rendering analytic
+ * Task: Create recommendation candidate generator for checkout orchestration combining c
  */
 'use strict';
 
