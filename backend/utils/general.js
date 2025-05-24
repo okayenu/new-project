@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize recommendation latency for merchant operations using memoized candidate
+ * Task: Document data retention and privacy boundaries for 3D product rendering analytic
  */
 'use strict';
 
