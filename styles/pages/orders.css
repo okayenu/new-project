@@ -17,6 +17,8 @@
   font-weight: 700;
   font-size: 26px;
   margin-bottom: 25px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid rgb(230, 230, 230);
 }
 
 .orders-grid {
