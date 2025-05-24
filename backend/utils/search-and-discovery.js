@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Develop A/B experiment hooks for search and discovery with assignment persistenc
+ * Task: Integrate smart-cart insertion logic for search and discovery with user controls
  */
 'use strict';
 
