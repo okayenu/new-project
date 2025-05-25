@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Develop A/B experiment hooks for shopping assistant with assignment persistence 
+ * Task: Implement event ingestion pipeline for shopping assistant interactions with idem
  */
 'use strict';
 
