@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Integrate smart-cart insertion logic for merchant operations with user controls 
+ * Task: Build recommendation explanation UI for merchant operations: 'why this item' pan
  */
 'use strict';
 
