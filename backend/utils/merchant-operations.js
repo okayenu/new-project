@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Implement event ingestion pipeline for merchant operations interactions with ide
+ * Task: Integrate smart-cart insertion logic for merchant operations with user controls 
  */
 'use strict';
 
