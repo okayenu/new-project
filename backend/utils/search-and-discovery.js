@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Integrate smart-cart insertion logic for search and discovery with user controls
+ * Task: Build recommendation explanation UI for search and discovery: 'why this item' pa
  */
 'use strict';
 
