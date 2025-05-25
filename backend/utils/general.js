@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document data retention and privacy boundaries for delivery visibility analytics
+ * Task: Add fallback heuristics for cold-start users in review relevance: popular-in-seg
  */
 'use strict';
 
