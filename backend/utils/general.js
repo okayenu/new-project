@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize recommendation latency for community experiences using memoized candida
+ * Task: Document data retention and privacy boundaries for delivery visibility analytics
  */
 'use strict';
 
