@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Define recommendation feature vectors for 3D product rendering (category affinit
+ * Task: Add fallback heuristics for cold-start users in search and discovery: popular-in
  */
 'use strict';
 
