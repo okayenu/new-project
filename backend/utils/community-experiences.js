@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Integrate smart-cart insertion logic for community experiences with user control
+ * Task: Build recommendation explanation UI for community experiences: 'why this item' p
  */
 'use strict';
 
