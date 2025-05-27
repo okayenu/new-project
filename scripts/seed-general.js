@@ -1,6 +1,6 @@
 /**
  * Seed-data generator: general
- * Task: Write tests for recommendation determinism in catalog intelligence given fixed s
+ * Task: Write tests for recommendation determinism in shopping assistant given fixed see
  *
  * Usage: node scripts/seed-general.js
  */
