@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Build recommendation explanation UI for delivery visibility: 'why this item' pan
+ * Task: Create moderation dashboard widgets for delivery visibility: flagged reviews, di
  */
 'use strict';
 
