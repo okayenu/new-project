@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement review-matching engine for delivery visibility that ranks review relev
+ * Task: Create bias-audit toolkit for video review ecosystem ranking outputs, including 
  */
 'use strict';
 
