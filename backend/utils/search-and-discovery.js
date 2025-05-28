@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Build recommendation explanation UI for search and discovery: 'why this item' pa
+ * Task: Design demographic preference profile model for search and discovery with explic
  */
 'use strict';
 
