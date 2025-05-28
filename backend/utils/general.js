@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document data retention and privacy boundaries for merchant operations analytics
+ * Task: Define recommendation feature vectors for review relevance (category affinity, p
  */
 'use strict';
 
