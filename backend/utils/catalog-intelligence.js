@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Develop A/B experiment hooks for catalog intelligence with assignment persistenc
+ * Task: Build review submission flow upgrades for catalog intelligence: structured field
  */
 'use strict';
 
