@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile query performance for catalog intelligence feed under peak load and opti
+ * Task: Implement anonymization pipeline for checkout orchestration analytics exports to
  */
 'use strict';
 
