@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create recommendation candidate generator for shopping assistant combining colla
+ * Task: Write abuse prevention rules for search and discovery demographic fields (spoof 
  */
 'use strict';
 
