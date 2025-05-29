@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Build recommendation explanation UI for merchant operations: 'why this item' pan
+ * Task: Design demographic preference profile model for merchant operations with explici
  */
 'use strict';
 
