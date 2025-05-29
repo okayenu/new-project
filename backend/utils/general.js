@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add API for demographic-aware review feed in checkout orchestration with tunable
+ * Task: Add tests for 3D product rendering ranking correctness across synthetic personas
  */
 'use strict';
 
