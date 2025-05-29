@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Build recommendation explanation UI for review relevance: 'why this item' panel 
+ * Task: Create moderation dashboard widgets for review relevance: flagged reviews, dispu
  */
 'use strict';
 
