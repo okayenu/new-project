@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document ethical guardrails and fail-safe defaults for recommendation quality pe
+ * Task: Implement review-matching engine for review relevance that ranks review relevanc
  */
 'use strict';
 
