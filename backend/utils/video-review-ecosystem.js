@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Implement event ingestion pipeline for video review ecosystem interactions with 
+ * Task: Build review submission flow upgrades for video review ecosystem: structured fie
  */
 'use strict';
 
