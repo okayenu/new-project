@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Implement event ingestion pipeline for shopping assistant interactions with idem
+ * Task: Build review submission flow upgrades for shopping assistant: structured fields,
  */
 'use strict';
 
