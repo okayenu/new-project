@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Build recommendation explanation UI for community experiences: 'why this item' p
+ * Task: Design demographic preference profile model for community experiences with expli
  */
 'use strict';
 
