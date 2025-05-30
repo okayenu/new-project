@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile query performance for video review ecosystem feed under peak load and op
+ * Task: Implement anonymization pipeline for catalog intelligence analytics exports to p
  */
 'use strict';
 
