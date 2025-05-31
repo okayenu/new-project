@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add API for demographic-aware review feed in catalog intelligence with tunable s
+ * Task: Implement transparency panel for checkout orchestration showing why reviews were
  */
 'use strict';
 
