@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Implement event ingestion pipeline for 3D product rendering interactions with id
+ * Task: Build review submission flow upgrades for 3D product rendering: structured field
  */
 'use strict';
 
