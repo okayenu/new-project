@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Build recommendation explanation UI for recommendation quality: 'why this item' 
+ * Task: Design demographic preference profile model for recommendation quality with expl
  */
 'use strict';
 
