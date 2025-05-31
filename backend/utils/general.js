@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create bias-audit toolkit for review relevance ranking outputs, including fairne
+ * Task: Add API for demographic-aware review feed in shopping assistant with tunable str
  */
 'use strict';
 
