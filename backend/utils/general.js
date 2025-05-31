@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile query performance for 3D product rendering feed under peak load and opti
+ * Task: Implement anonymization pipeline for shopping assistant analytics exports to pro
  */
 'use strict';
 
