@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write abuse prevention rules for recommendation quality demographic fields (spoo
+ * Task: Implement anonymization pipeline for video review ecosystem analytics exports to
  */
 'use strict';
 
