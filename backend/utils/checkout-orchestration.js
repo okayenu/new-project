@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Develop A/B experiment hooks for checkout orchestration with assignment persiste
+ * Task: Design demographic preference profile model for checkout orchestration with expl
  */
 'use strict';
 
