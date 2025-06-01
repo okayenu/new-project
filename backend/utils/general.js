@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement transparency panel for catalog intelligence showing why reviews were p
+ * Task: Write abuse prevention rules for checkout orchestration demographic fields (spoo
  */
 'use strict';
 
