@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add API for demographic-aware review feed in video review ecosystem with tunable
+ * Task: Implement transparency panel for catalog intelligence showing why reviews were p
  */
 'use strict';
 
