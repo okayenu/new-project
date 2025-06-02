@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write abuse prevention rules for checkout orchestration demographic fields (spoo
+ * Task: Document ethical guardrails and fail-safe defaults for shopping assistant person
  */
 'use strict';
 
