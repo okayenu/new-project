@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Develop A/B experiment hooks for personalization with assignment persistence and
+ * Task: Design demographic preference profile model for personalization with explicit us
  */
 'use strict';
 
