@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add tests for merchant operations ranking correctness across synthetic personas 
+ * Task: Implement review-matching engine for checkout orchestration that ranks review re
  */
 'use strict';
 
