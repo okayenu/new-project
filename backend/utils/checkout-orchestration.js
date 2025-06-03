@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Design demographic preference profile model for checkout orchestration with expl
+ * Task: Create moderation dashboard widgets for checkout orchestration: flagged reviews,
  */
 'use strict';
 
