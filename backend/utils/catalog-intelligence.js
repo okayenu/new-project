@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Build review submission flow upgrades for catalog intelligence: structured field
+ * Task: Design demographic preference profile model for catalog intelligence with explic
  */
 'use strict';
 
