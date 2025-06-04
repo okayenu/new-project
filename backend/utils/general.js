@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement anonymization pipeline for delivery visibility analytics exports to pr
+ * Task: Implement review-matching engine for personalization that ranks review relevance
  */
 'use strict';
 
