@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create bias-audit toolkit for recommendation quality ranking outputs, including 
+ * Task: Add API for demographic-aware review feed in review relevance with tunable stric
  */
 'use strict';
 
