@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Design demographic preference profile model for merchant operations with explici
+ * Task: Build review submission flow upgrades for merchant operations: structured fields
  */
 'use strict';
 
