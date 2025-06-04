@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement transparency panel for 3D product rendering showing why reviews were p
+ * Task: Write abuse prevention rules for shopping assistant demographic fields (spoof de
  */
 'use strict';
 
