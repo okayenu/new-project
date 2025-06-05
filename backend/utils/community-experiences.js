@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Create moderation dashboard widgets for community experiences: flagged reviews, 
+ * Task: Build review submission flow upgrades for community experiences: structured fiel
  */
 'use strict';
 
