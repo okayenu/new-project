@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile query performance for community experiences feed under peak load and opt
+ * Task: Implement anonymization pipeline for search and discovery analytics exports to p
  */
 'use strict';
 
