@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement review-matching engine for personalization that ranks review relevance
+ * Task: Create bias-audit toolkit for checkout orchestration ranking outputs, including 
  */
 'use strict';
 
