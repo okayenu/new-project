@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement transparency panel for delivery visibility showing why reviews were pr
+ * Task: Write abuse prevention rules for video review ecosystem demographic fields (spoo
  */
 'use strict';
 
