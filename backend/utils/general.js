@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write abuse prevention rules for video review ecosystem demographic fields (spoo
+ * Task: Add tests for checkout orchestration ranking correctness across synthetic person
  */
 'use strict';
 
