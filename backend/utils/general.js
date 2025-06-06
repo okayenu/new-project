@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement transparency panel for review relevance showing why reviews were prior
+ * Task: Write abuse prevention rules for 3D product rendering demographic fields (spoof 
  */
 'use strict';
 
