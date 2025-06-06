@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add tests for personalization ranking correctness across synthetic personas and 
+ * Task: Profile query performance for recommendation quality feed under peak load and op
  */
 'use strict';
 
