@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement anonymization pipeline for community experiences analytics exports to 
+ * Task: Document ethical guardrails and fail-safe defaults for search and discovery pers
  */
 'use strict';
 
