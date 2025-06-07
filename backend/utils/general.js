@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document ethical guardrails and fail-safe defaults for review relevance personal
+ * Task: Implement review-matching engine for shopping assistant that ranks review releva
  */
 'use strict';
 
