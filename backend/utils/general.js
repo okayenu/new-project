@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add tests for catalog intelligence ranking correctness across synthetic personas
+ * Task: Profile query performance for checkout orchestration feed under peak load and op
  */
 'use strict';
 
