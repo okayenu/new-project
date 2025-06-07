@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement review-matching engine for shopping assistant that ranks review releva
+ * Task: Add API for demographic-aware review feed in community experiences with tunable 
  */
 'use strict';
 
