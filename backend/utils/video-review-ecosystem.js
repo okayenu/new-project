@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Design demographic preference profile model for video review ecosystem with expl
+ * Task: Create moderation dashboard widgets for video review ecosystem: flagged reviews,
  */
 'use strict';
 
