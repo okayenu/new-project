@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile query performance for checkout orchestration feed under peak load and op
+ * Task: Implement anonymization pipeline for community experiences analytics exports to 
  */
 'use strict';
 
