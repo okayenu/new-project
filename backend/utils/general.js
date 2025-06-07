@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add API for demographic-aware review feed in community experiences with tunable 
+ * Task: Implement transparency panel for search and discovery showing why reviews were p
  */
 'use strict';
 
