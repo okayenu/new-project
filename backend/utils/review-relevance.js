@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Build review submission flow upgrades for review relevance: structured fields, m
+ * Task: Design demographic preference profile model for review relevance with explicit u
  */
 'use strict';
 
