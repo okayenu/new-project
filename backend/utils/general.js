@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add tests for shopping assistant ranking correctness across synthetic personas a
+ * Task: Profile query performance for personalization feed under peak load and optimize 
  */
 'use strict';
 
