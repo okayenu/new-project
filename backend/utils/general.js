@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write abuse prevention rules for review relevance demographic fields (spoof dete
+ * Task: Add tests for shopping assistant ranking correctness across synthetic personas a
  */
 'use strict';
 
