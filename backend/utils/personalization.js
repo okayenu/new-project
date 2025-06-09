@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Create moderation dashboard widgets for personalization: flagged reviews, disput
+ * Task: Build review submission flow upgrades for personalization: structured fields, me
  */
 'use strict';
 
