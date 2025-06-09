@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Build review submission flow upgrades for search and discovery: structured field
+ * Task: Design demographic preference profile model for search and discovery with explic
  */
 'use strict';
 
