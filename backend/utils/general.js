@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement review-matching engine for 3D product rendering that ranks review rele
+ * Task: Create bias-audit toolkit for shopping assistant ranking outputs, including fair
  */
 'use strict';
 
