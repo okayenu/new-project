@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Design demographic preference profile model for delivery visibility with explici
+ * Task: Create moderation dashboard widgets for delivery visibility: flagged reviews, di
  */
 'use strict';
 
