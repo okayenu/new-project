@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write abuse prevention rules for search and discovery demographic fields (spoof 
+ * Task: Add tests for video review ecosystem ranking correctness across synthetic person
  */
 'use strict';
 
