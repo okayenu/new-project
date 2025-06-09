@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add tests for video review ecosystem ranking correctness across synthetic person
+ * Task: Profile query performance for catalog intelligence feed under peak load and opti
  */
 'use strict';
 
