@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement anonymization pipeline for personalization analytics exports to protec
+ * Task: Document ethical guardrails and fail-safe defaults for recommendation quality pe
  */
 'use strict';
 
