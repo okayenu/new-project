@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write abuse prevention rules for search and discovery demographic fields (spoof 
+ * Task: Add tests for 3D product rendering ranking correctness across synthetic personas
  */
 'use strict';
 
