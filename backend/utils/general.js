@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add tests for 3D product rendering ranking correctness across synthetic personas
+ * Task: Profile query performance for shopping assistant feed under peak load and optimi
  */
 'use strict';
 
