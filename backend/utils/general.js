@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement transparency panel for community experiences showing why reviews were 
+ * Task: Write abuse prevention rules for search and discovery demographic fields (spoof 
  */
 'use strict';
 
