@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add API for demographic-aware review feed in checkout orchestration with tunable
+ * Task: Implement transparency panel for community experiences showing why reviews were 
  */
 'use strict';
 
