@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Create moderation dashboard widgets for shopping assistant: flagged reviews, dis
+ * Task: Build review submission flow upgrades for shopping assistant: structured fields,
  */
 'use strict';
 
