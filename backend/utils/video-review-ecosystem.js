@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Create moderation dashboard widgets for video review ecosystem: flagged reviews,
+ * Task: Build review submission flow upgrades for video review ecosystem: structured fie
  */
 'use strict';
 
