@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add API for demographic-aware review feed in personalization with tunable strict
+ * Task: Add tests for delivery visibility ranking correctness across synthetic personas 
  */
 'use strict';
 
