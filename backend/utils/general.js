@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write abuse prevention rules for community experiences demographic fields (spoof
+ * Task: Profile query performance for 3D product rendering feed under peak load and opti
  */
 'use strict';
 
