@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement review-matching engine for merchant operations that ranks review relev
+ * Task: Create bias-audit toolkit for review relevance ranking outputs, including fairne
  */
 'use strict';
 
