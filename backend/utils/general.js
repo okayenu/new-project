@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add API for demographic-aware review feed in shopping assistant with tunable str
+ * Task: Implement transparency panel for personalization showing why reviews were priori
  */
 'use strict';
 
