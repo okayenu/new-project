@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement transparency panel for personalization showing why reviews were priori
+ * Task: Write abuse prevention rules for recommendation quality demographic fields (spoo
  */
 'use strict';
 
