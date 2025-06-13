@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Design demographic preference profile model for community experiences with expli
+ * Task: Create moderation dashboard widgets for community experiences: flagged reviews, 
  */
 'use strict';
 
