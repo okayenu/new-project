@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Create moderation dashboard widgets for delivery visibility: flagged reviews, di
+ * Task: Build review submission flow upgrades for delivery visibility: structured fields
  */
 'use strict';
 
