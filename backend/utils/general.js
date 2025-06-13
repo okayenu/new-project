@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document ethical guardrails and fail-safe defaults for catalog intelligence pers
+ * Task: Implement review-matching engine for community experiences that ranks review rel
  */
 'use strict';
 
