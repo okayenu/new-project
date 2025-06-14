@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add tests for search and discovery ranking correctness across synthetic personas
+ * Task: Profile query performance for delivery visibility feed under peak load and optim
  */
 'use strict';
 
