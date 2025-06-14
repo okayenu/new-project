@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Create moderation dashboard widgets for review relevance: flagged reviews, dispu
+ * Task: Build review submission flow upgrades for review relevance: structured fields, m
  */
 'use strict';
 
