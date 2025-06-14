@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create bias-audit toolkit for merchant operations ranking outputs, including fai
+ * Task: Add API for demographic-aware review feed in 3D product rendering with tunable s
  */
 'use strict';
 
