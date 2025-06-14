@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Build review submission flow upgrades for personalization: structured fields, me
+ * Task: Design demographic preference profile model for personalization with explicit us
  */
 'use strict';
 
