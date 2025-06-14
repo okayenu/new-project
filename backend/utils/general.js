@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write abuse prevention rules for checkout orchestration demographic fields (spoo
+ * Task: Add tests for search and discovery ranking correctness across synthetic personas
  */
 'use strict';
 
