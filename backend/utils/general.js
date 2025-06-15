@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add API for demographic-aware review feed in delivery visibility with tunable st
+ * Task: Implement transparency panel for video review ecosystem showing why reviews were
  */
 'use strict';
 
