@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write abuse prevention rules for catalog intelligence demographic fields (spoof 
+ * Task: Add tests for community experiences ranking correctness across synthetic persona
  */
 'use strict';
 
