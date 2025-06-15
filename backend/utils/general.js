@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write abuse prevention rules for personalization demographic fields (spoof detec
+ * Task: Add tests for merchant operations ranking correctness across synthetic personas 
  */
 'use strict';
 
