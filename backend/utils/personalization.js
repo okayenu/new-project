@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Design demographic preference profile model for personalization with explicit us
+ * Task: Create moderation dashboard widgets for personalization: flagged reviews, disput
  */
 'use strict';
 
