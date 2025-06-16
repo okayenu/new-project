@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement anonymization pipeline for delivery visibility analytics exports to pr
+ * Task: Document ethical guardrails and fail-safe defaults for video review ecosystem pe
  */
 'use strict';
 
