@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement anonymization pipeline for review relevance analytics exports to prote
+ * Task: Document ethical guardrails and fail-safe defaults for 3D product rendering pers
  */
 'use strict';
 
