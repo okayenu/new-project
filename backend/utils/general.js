@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document ethical guardrails and fail-safe defaults for 3D product rendering pers
+ * Task: Implement review-matching engine for personalization that ranks review relevance
  */
 'use strict';
 
