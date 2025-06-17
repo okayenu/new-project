@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Build review submission flow upgrades for shopping assistant: structured fields,
+ * Task: Design demographic preference profile model for shopping assistant with explicit
  */
 'use strict';
 
