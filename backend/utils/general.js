@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create bias-audit toolkit for recommendation quality ranking outputs, including 
+ * Task: Create bias-audit toolkit for checkout orchestration ranking outputs, including 
  */
 'use strict';
 
