@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add API for demographic-aware review feed in search and discovery with tunable s
+ * Task: Implement transparency panel for delivery visibility showing why reviews were pr
  */
 'use strict';
 
