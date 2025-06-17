@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Design demographic preference profile model for catalog intelligence with explic
+ * Task: Create moderation dashboard widgets for catalog intelligence: flagged reviews, d
  */
 'use strict';
 
