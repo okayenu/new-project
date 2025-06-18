@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Create moderation dashboard widgets for recommendation quality: flagged reviews,
+ * Task: Build review submission flow upgrades for recommendation quality: structured fie
  */
 'use strict';
 
