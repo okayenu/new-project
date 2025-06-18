@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile query performance for recommendation quality feed under peak load and op
+ * Task: Implement anonymization pipeline for merchant operations analytics exports to pr
  */
 'use strict';
 
