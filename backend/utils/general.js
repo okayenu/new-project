@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write abuse prevention rules for 3D product rendering demographic fields (spoof 
+ * Task: Add tests for personalization ranking correctness across synthetic personas and 
  */
 'use strict';
 
