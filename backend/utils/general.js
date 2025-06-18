@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add API for demographic-aware review feed in merchant operations with tunable st
+ * Task: Implement transparency panel for review relevance showing why reviews were prior
  */
 'use strict';
 
