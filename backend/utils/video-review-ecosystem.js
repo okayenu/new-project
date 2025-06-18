@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Build review submission flow upgrades for video review ecosystem: structured fie
+ * Task: Design demographic preference profile model for video review ecosystem with expl
  */
 'use strict';
 
