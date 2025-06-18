@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Design demographic preference profile model for shopping assistant with explicit
+ * Task: Create moderation dashboard widgets for shopping assistant: flagged reviews, dis
  */
 'use strict';
 
