@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Build review submission flow upgrades for delivery visibility: structured fields
+ * Task: Design demographic preference profile model for delivery visibility with explici
  */
 'use strict';
 
