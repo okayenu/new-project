@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement transparency panel for search and discovery showing why reviews were p
+ * Task: Write abuse prevention rules for delivery visibility demographic fields (spoof d
  */
 'use strict';
 
