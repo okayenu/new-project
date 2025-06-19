@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create bias-audit toolkit for personalization ranking outputs, including fairnes
+ * Task: Add API for demographic-aware review feed in merchant operations with tunable st
  */
 'use strict';
 
