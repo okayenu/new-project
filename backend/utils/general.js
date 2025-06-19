@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add API for demographic-aware review feed in merchant operations with tunable st
+ * Task: Add API for demographic-aware review feed in community experiences with tunable 
  */
 'use strict';
 
