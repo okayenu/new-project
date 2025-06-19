@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement review-matching engine for shopping assistant that ranks review releva
+ * Task: Create bias-audit toolkit for personalization ranking outputs, including fairnes
  */
 'use strict';
 
