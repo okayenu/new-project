@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement transparency panel for merchant operations showing why reviews were pr
+ * Task: Write abuse prevention rules for review relevance demographic fields (spoof dete
  */
 'use strict';
 
