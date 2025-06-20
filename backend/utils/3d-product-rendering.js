@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Design demographic preference profile model for 3D product rendering with explic
+ * Task: Create moderation dashboard widgets for 3D product rendering: flagged reviews, d
  */
 'use strict';
 
