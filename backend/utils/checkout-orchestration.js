@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Create moderation dashboard widgets for checkout orchestration: flagged reviews,
+ * Task: Build review submission flow upgrades for checkout orchestration: structured fie
  */
 'use strict';
 
