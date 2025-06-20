@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create bias-audit toolkit for catalog intelligence ranking outputs, including fa
+ * Task: Implement transparency panel for merchant operations showing why reviews were pr
  */
 'use strict';
 
