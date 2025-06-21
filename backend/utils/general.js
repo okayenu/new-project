@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create bias-audit toolkit for shopping assistant ranking outputs, including fair
+ * Task: Write abuse prevention rules for search and discovery demographic fields (spoof 
  */
 'use strict';
 
