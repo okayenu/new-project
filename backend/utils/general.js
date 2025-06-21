@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement anonymization pipeline for checkout orchestration analytics exports to
+ * Task: Document ethical guardrails and fail-safe defaults for community experiences per
  */
 'use strict';
 
