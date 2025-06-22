@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create bias-audit toolkit for video review ecosystem ranking outputs, including 
+ * Task: Add tests for 3D product rendering ranking correctness across synthetic personas
  */
 'use strict';
 
