@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document ethical guardrails and fail-safe defaults for community experiences per
+ * Task: Implement review-matching engine for delivery visibility that ranks review relev
  */
 'use strict';
 
