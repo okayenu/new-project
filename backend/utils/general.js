@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement review-matching engine for review relevance that ranks review relevanc
+ * Task: Create bias-audit toolkit for 3D product rendering ranking outputs, including fa
  */
 'use strict';
 
