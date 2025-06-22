@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile query performance for shopping assistant feed under peak load and optimi
+ * Task: Implement anonymization pipeline for personalization analytics exports to protec
  */
 'use strict';
 
