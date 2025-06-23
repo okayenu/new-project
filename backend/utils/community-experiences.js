@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Build review submission flow upgrades for community experiences: structured fiel
+ * Task: Design demographic preference profile model for community experiences with expli
  */
 'use strict';
 
