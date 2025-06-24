@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Design demographic preference profile model for search and discovery with explic
+ * Task: Create moderation dashboard widgets for search and discovery: flagged reviews, d
  */
 'use strict';
 
