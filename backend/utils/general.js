@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add tests for delivery visibility ranking correctness across synthetic personas 
+ * Task: Profile query performance for video review ecosystem feed under peak load and op
  */
 'use strict';
 
