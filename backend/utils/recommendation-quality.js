@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Build review submission flow upgrades for recommendation quality: structured fie
+ * Task: Design demographic preference profile model for recommendation quality with expl
  */
 'use strict';
 
