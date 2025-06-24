@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile query performance for video review ecosystem feed under peak load and op
+ * Task: Profile query performance for 3D product rendering feed under peak load and opti
  */
 'use strict';
 
