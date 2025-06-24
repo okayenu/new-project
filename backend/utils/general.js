@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement anonymization pipeline for shopping assistant analytics exports to pro
+ * Task: Document ethical guardrails and fail-safe defaults for personalization personali
  */
 'use strict';
 
