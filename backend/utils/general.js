@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement transparency panel for checkout orchestration showing why reviews were
+ * Task: Write abuse prevention rules for community experiences demographic fields (spoof
  */
 'use strict';
 
