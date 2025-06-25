@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement anonymization pipeline for video review ecosystem analytics exports to
+ * Task: Document ethical guardrails and fail-safe defaults for catalog intelligence pers
  */
 'use strict';
 
