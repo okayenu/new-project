@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Build review submission flow upgrades for checkout orchestration: structured fie
+ * Task: Design demographic preference profile model for checkout orchestration with expl
  */
 'use strict';
 
