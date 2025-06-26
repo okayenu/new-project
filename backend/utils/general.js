@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement transparency panel for shopping assistant showing why reviews were pri
+ * Task: Write abuse prevention rules for personalization demographic fields (spoof detec
  */
 'use strict';
 
