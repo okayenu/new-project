@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add tests for merchant operations ranking correctness across synthetic personas 
+ * Task: Profile query performance for review relevance feed under peak load and optimize
  */
 'use strict';
 
