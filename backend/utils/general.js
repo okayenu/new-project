@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile query performance for delivery visibility feed under peak load and optim
+ * Task: Document ethical guardrails and fail-safe defaults for shopping assistant person
  */
 'use strict';
 
