@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add API for demographic-aware review feed in 3D product rendering with tunable s
+ * Task: Implement transparency panel for shopping assistant showing why reviews were pri
  */
 'use strict';
 
