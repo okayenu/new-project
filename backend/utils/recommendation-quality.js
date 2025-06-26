@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Design demographic preference profile model for recommendation quality with expl
+ * Task: Create moderation dashboard widgets for recommendation quality: flagged reviews,
  */
 'use strict';
 
