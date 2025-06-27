@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement transparency panel for video review ecosystem showing why reviews were
+ * Task: Write abuse prevention rules for catalog intelligence demographic fields (spoof 
  */
 'use strict';
 
