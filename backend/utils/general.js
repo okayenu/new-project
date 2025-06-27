@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile query performance for review relevance feed under peak load and optimize
+ * Task: Implement anonymization pipeline for 3D product rendering analytics exports to p
  */
 'use strict';
 
