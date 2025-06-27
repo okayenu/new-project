@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Create moderation dashboard widgets for search and discovery: flagged reviews, d
+ * Task: Build review submission flow upgrades for search and discovery: structured field
  */
 'use strict';
 
