@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile query performance for search and discovery feed under peak load and opti
+ * Task: Implement anonymization pipeline for delivery visibility analytics exports to pr
  */
 'use strict';
 
