@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document ethical guardrails and fail-safe defaults for video review ecosystem pe
+ * Task: Implement review-matching engine for personalization that ranks review relevance
  */
 'use strict';
 
