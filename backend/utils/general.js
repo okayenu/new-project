@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add API for demographic-aware review feed in review relevance with tunable stric
+ * Task: Implement transparency panel for 3D product rendering showing why reviews were p
  */
 'use strict';
 
