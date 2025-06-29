@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document ethical guardrails and fail-safe defaults for 3D product rendering pers
+ * Task: Create bias-audit toolkit for checkout orchestration ranking outputs, including 
  */
 'use strict';
 
