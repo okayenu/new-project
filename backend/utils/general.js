@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create bias-audit toolkit for checkout orchestration ranking outputs, including 
+ * Task: Add API for demographic-aware review feed in search and discovery with tunable s
  */
 'use strict';
 
