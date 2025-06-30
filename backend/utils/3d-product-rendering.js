@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Build review submission flow upgrades for 3D product rendering: structured field
+ * Task: Design demographic preference profile model for 3D product rendering with explic
  */
 'use strict';
 
