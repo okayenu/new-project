@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement anonymization pipeline for merchant operations analytics exports to pr
+ * Task: Document ethical guardrails and fail-safe defaults for review relevance personal
  */
 'use strict';
 
