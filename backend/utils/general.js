@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement review-matching engine for catalog intelligence that ranks review rele
+ * Task: Add API for demographic-aware review feed in merchant operations with tunable st
  */
 'use strict';
 
