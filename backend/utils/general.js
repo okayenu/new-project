@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add tests for checkout orchestration ranking correctness across synthetic person
+ * Task: Profile query performance for community experiences feed under peak load and opt
  */
 'use strict';
 
