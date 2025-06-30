@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement anonymization pipeline for search and discovery analytics exports to p
+ * Task: Document ethical guardrails and fail-safe defaults for delivery visibility perso
  */
 'use strict';
 
