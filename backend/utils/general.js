@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write abuse prevention rules for delivery visibility demographic fields (spoof d
+ * Task: Add tests for catalog intelligence ranking correctness across synthetic personas
  */
 'use strict';
 
