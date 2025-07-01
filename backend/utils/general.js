@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document ethical guardrails and fail-safe defaults for review relevance personal
+ * Task: Add API for demographic-aware review feed in community experiences with tunable 
  */
 'use strict';
 
