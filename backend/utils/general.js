@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile query performance for personalization feed under peak load and optimize 
+ * Task: Implement anonymization pipeline for recommendation quality analytics exports to
  */
 'use strict';
 
