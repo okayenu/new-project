@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add API for demographic-aware review feed in recommendation quality with tunable
+ * Task: Write abuse prevention rules for search and discovery demographic fields (spoof 
  */
 'use strict';
 
