@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document ethical guardrails and fail-safe defaults for merchant operations perso
+ * Task: Implement review-matching engine for 3D product rendering that ranks review rele
  */
 'use strict';
 
