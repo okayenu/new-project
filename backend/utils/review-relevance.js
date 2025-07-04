@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Design demographic preference profile model for review relevance with explicit u
+ * Task: Create moderation dashboard widgets for review relevance: flagged reviews, dispu
  */
 'use strict';
 
