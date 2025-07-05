@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement anonymization pipeline for catalog intelligence analytics exports to p
+ * Task: Document ethical guardrails and fail-safe defaults for checkout orchestration pe
  */
 'use strict';
 
