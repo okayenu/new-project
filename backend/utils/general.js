@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create bias-audit toolkit for delivery visibility ranking outputs, including fai
+ * Task: Add API for demographic-aware review feed in catalog intelligence with tunable s
  */
 'use strict';
 
