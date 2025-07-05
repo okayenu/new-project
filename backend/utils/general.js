@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create bias-audit toolkit for 3D product rendering ranking outputs, including fa
+ * Task: Add API for demographic-aware review feed in personalization with tunable strict
  */
 'use strict';
 
