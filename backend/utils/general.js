@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write abuse prevention rules for community experiences demographic fields (spoof
+ * Task: Add tests for delivery visibility ranking correctness across synthetic personas 
  */
 'use strict';
 
