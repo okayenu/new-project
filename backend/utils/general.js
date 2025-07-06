@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add tests for delivery visibility ranking correctness across synthetic personas 
+ * Task: Profile query performance for 3D product rendering feed under peak load and opti
  */
 'use strict';
 
