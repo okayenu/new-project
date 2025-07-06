@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document ethical guardrails and fail-safe defaults for personalization personali
+ * Task: Implement review-matching engine for merchant operations that ranks review relev
  */
 'use strict';
 
