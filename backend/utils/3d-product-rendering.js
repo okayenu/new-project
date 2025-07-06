@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Create moderation dashboard widgets for 3D product rendering: flagged reviews, d
+ * Task: Build review submission flow upgrades for 3D product rendering: structured field
  */
 'use strict';
 
