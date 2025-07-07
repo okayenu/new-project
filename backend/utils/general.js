@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write abuse prevention rules for recommendation quality demographic fields (spoo
+ * Task: Document operational runbook for catalog intelligence model updates and index re
  */
 'use strict';
 
