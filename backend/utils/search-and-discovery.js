@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Create moderation dashboard widgets for search and discovery: flagged reviews, d
+ * Task: Implement reverse-image preprocessing for search and discovery: resizing, normal
  */
 'use strict';
 
