@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Build review submission flow upgrades for video review ecosystem: structured fie
+ * Task: Create anti-abuse controls for video review ecosystem: rate limits, file-type en
  */
 'use strict';
 
