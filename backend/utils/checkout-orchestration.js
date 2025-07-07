@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Create moderation dashboard widgets for checkout orchestration: flagged reviews,
+ * Task: Define prompt-to-style parser for checkout orchestration with tokenizer rules, i
  */
 'use strict';
 
