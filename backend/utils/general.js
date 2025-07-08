@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for recommendation quality false-positive handling using adversarial
+ * Task: Optimize memory/CPU path for merchant operations image processing jobs and queue
  */
 'use strict';
 
