@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create nearest-neighbor search pipeline for 3D product rendering results and re-
+ * Task: Write tests for recommendation quality false-positive handling using adversarial
  */
 'use strict';
 
