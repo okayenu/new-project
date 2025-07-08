@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Build review submission flow upgrades for personalization: structured fields, me
+ * Task: Define prompt-to-style parser for personalization with tokenizer rules, intent e
  */
 'use strict';
 
