@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Design demographic preference profile model for merchant operations with explici
+ * Task: Implement reverse-image preprocessing for merchant operations: resizing, normali
  */
 'use strict';
 
