@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Build review submission flow upgrades for catalog intelligence: structured field
+ * Task: Define prompt-to-style parser for catalog intelligence with tokenizer rules, int
  */
 'use strict';
 
