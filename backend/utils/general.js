@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize memory/CPU path for merchant operations image processing jobs and queue
+ * Task: Build shuffle candidate engine for checkout orchestration that balances novelty,
  */
 'use strict';
 
