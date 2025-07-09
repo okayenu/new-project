@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Design demographic preference profile model for community experiences with expli
+ * Task: Implement reverse-image preprocessing for community experiences: resizing, norma
  */
 'use strict';
 
