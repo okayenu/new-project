@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build shuffle candidate engine for checkout orchestration that balances novelty,
+ * Task: Create nearest-neighbor search pipeline for delivery visibility results and re-r
  */
 'use strict';
 
