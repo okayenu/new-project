@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Design demographic preference profile model for recommendation quality with expl
+ * Task: Implement reverse-image preprocessing for recommendation quality: resizing, norm
  */
 'use strict';
 
