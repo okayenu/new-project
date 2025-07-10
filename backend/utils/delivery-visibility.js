@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Create moderation dashboard widgets for delivery visibility: flagged reviews, di
+ * Task: Create anti-abuse controls for delivery visibility: rate limits, file-type enfor
  */
 'use strict';
 
