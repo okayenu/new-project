@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document operational runbook for video review ecosystem model updates and index 
+ * Task: Build shuffle candidate engine for personalization that balances novelty, releva
  */
 'use strict';
 
