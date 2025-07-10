@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize memory/CPU path for community experiences image processing jobs and que
+ * Task: Document operational runbook for video review ecosystem model updates and index 
  */
 'use strict';
 
