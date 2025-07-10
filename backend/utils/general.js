@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create nearest-neighbor search pipeline for review relevance results and re-rank
+ * Task: Write tests for personalization false-positive handling using adversarial image 
  */
 'use strict';
 
