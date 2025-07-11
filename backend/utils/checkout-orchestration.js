@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Define prompt-to-style parser for checkout orchestration with tokenizer rules, i
+ * Task: Implement reverse-image preprocessing for checkout orchestration: resizing, norm
  */
 'use strict';
 
