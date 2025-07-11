@@ -1,6 +1,6 @@
 /**
  * Analytics event instrumentation: community-experiences
- * Task: Instrument analytics events for community experiences interactions (view/click/s
+ * Task: Instrument analytics for community experiences interactions: upload success, shu
  */
 'use strict';
 
