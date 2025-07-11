@@ -1,6 +1,6 @@
 /**
  * Analytics event instrumentation: merchant-operations
- * Task: Instrument analytics events for merchant operations interactions (view/click/sub
+ * Task: Instrument analytics for merchant operations interactions: upload success, shuff
  */
 'use strict';
 
