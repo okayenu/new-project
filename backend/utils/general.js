@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize memory/CPU path for recommendation quality image processing jobs and qu
+ * Task: Create nearest-neighbor search pipeline for search and discovery results and re-
  */
 'use strict';
 
