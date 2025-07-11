@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Create moderation dashboard widgets for review relevance: flagged reviews, dispu
+ * Task: Create anti-abuse controls for review relevance: rate limits, file-type enforcem
  */
 'use strict';
 
