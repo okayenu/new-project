@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Build review submission flow upgrades for 3D product rendering: structured field
+ * Task: Define prompt-to-style parser for 3D product rendering with tokenizer rules, int
  */
 'use strict';
 
