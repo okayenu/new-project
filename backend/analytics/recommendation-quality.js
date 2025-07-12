@@ -1,6 +1,6 @@
 /**
  * Analytics event instrumentation: recommendation-quality
- * Task: Instrument analytics events for recommendation quality interactions (view/click/
+ * Task: Instrument analytics for recommendation quality interactions: upload success, sh
  */
 'use strict';
 
