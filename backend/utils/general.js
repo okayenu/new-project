@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize memory/CPU path for catalog intelligence image processing jobs and queu
+ * Task: Document operational runbook for search and discovery model updates and index re
  */
 'use strict';
 
