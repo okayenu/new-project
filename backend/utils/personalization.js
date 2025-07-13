@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Define prompt-to-style parser for personalization with tokenizer rules, intent e
+ * Task: Implement reverse-image preprocessing for personalization: resizing, normalizati
  */
 'use strict';
 
