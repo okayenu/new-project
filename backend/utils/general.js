@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for video review ecosystem false-positive handling using adversarial
+ * Task: Optimize memory/CPU path for catalog intelligence image processing jobs and queu
  */
 'use strict';
 
