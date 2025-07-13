@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Create anti-abuse controls for delivery visibility: rate limits, file-type enfor
+ * Task: Define prompt-to-style parser for delivery visibility with tokenizer rules, inte
  */
 'use strict';
 
