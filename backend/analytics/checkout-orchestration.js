@@ -1,6 +1,6 @@
 /**
  * Analytics event instrumentation: checkout-orchestration
- * Task: Instrument analytics events for checkout orchestration interactions (view/click/
+ * Task: Instrument analytics for checkout orchestration interactions: upload success, sh
  */
 'use strict';
 
