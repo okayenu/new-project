@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build shuffle candidate engine for shopping assistant that balances novelty, rel
+ * Task: Create nearest-neighbor search pipeline for community experiences results and re
  */
 'use strict';
 
