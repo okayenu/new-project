@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Define prompt-to-style parser for catalog intelligence with tokenizer rules, int
+ * Task: Implement reverse-image preprocessing for catalog intelligence: resizing, normal
  */
 'use strict';
 
