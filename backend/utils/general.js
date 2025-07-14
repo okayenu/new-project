@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build shuffle candidate engine for video review ecosystem that balances novelty,
+ * Task: Create nearest-neighbor search pipeline for community experiences results and re
  */
 'use strict';
 
