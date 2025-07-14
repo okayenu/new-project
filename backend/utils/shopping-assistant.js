@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Build review submission flow upgrades for shopping assistant: structured fields,
+ * Task: Implement reverse-image preprocessing for shopping assistant: resizing, normaliz
  */
 'use strict';
 
