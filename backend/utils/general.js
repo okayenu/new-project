@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create nearest-neighbor search pipeline for community experiences results and re
+ * Task: Write tests for 3D product rendering false-positive handling using adversarial i
  */
 'use strict';
 
