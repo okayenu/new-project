@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build shuffle candidate engine for 3D product rendering that balances novelty, r
+ * Task: Write tests for delivery visibility false-positive handling using adversarial im
  */
 'use strict';
 
