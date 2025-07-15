@@ -1,6 +1,6 @@
 /**
  * Analytics event instrumentation: catalog-intelligence
- * Task: Instrument analytics events for catalog intelligence interactions (view/click/su
+ * Task: Instrument analytics for catalog intelligence interactions: upload success, shuf
  */
 'use strict';
 
