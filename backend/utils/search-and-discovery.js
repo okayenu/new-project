@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Create anti-abuse controls for search and discovery: rate limits, file-type enfo
+ * Task: Define prompt-to-style parser for search and discovery with tokenizer rules, int
  */
 'use strict';
 
