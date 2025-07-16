@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Implement reverse-image preprocessing for personalization: resizing, normalizati
+ * Task: Create anti-abuse controls for personalization: rate limits, file-type enforceme
  */
 'use strict';
 
