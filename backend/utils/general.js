@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for review relevance false-positive handling using adversarial image
+ * Task: Optimize memory/CPU path for 3D product rendering image processing jobs and queu
  */
 'use strict';
 
