@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Create anti-abuse controls for merchant operations: rate limits, file-type enfor
+ * Task: Define prompt-to-style parser for merchant operations with tokenizer rules, inte
  */
 'use strict';
 
