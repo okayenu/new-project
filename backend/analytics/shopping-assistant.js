@@ -1,6 +1,6 @@
 /**
  * Analytics event instrumentation: shopping-assistant
- * Task: Instrument analytics events for shopping assistant interactions (view/click/subm
+ * Task: Instrument analytics for shopping assistant interactions: upload success, shuffl
  */
 'use strict';
 
