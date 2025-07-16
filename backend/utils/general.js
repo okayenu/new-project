@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document operational runbook for recommendation quality model updates and index 
+ * Task: Build shuffle candidate engine for review relevance that balances novelty, relev
  */
 'use strict';
 
