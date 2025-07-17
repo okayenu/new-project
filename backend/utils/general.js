@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build shuffle candidate engine for review relevance that balances novelty, relev
+ * Task: Create nearest-neighbor search pipeline for personalization results and re-rank 
  */
 'use strict';
 
