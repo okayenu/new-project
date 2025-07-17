@@ -1,6 +1,6 @@
 /**
  * Analytics event instrumentation: video-review-ecosystem
- * Task: Instrument analytics events for video review ecosystem interactions (view/click/
+ * Task: Instrument analytics for video review ecosystem interactions: upload success, sh
  */
 'use strict';
 
