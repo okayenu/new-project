@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Define prompt-to-style parser for review relevance with tokenizer rules, intent 
+ * Task: Implement reverse-image preprocessing for review relevance: resizing, normalizat
  */
 'use strict';
 
