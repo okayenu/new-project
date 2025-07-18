@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Implement reverse-image preprocessing for shopping assistant: resizing, normaliz
+ * Task: Create anti-abuse controls for shopping assistant: rate limits, file-type enforc
  */
 'use strict';
 
