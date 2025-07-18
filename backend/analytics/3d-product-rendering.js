@@ -1,6 +1,6 @@
 /**
  * Analytics event instrumentation: 3d-product-rendering
- * Task: Instrument analytics events for 3D product rendering interactions (view/click/su
+ * Task: Instrument analytics for 3D product rendering interactions: upload success, shuf
  */
 'use strict';
 
