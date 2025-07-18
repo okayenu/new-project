@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for search and discovery false-positive handling using adversarial i
+ * Task: Optimize memory/CPU path for delivery visibility image processing jobs and queue
  */
 'use strict';
 
