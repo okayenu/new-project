@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create nearest-neighbor search pipeline for shopping assistant results and re-ra
+ * Task: Document operational runbook for catalog intelligence model updates and index re
  */
 'use strict';
 
