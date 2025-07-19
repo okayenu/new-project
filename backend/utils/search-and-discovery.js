@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Define prompt-to-style parser for search and discovery with tokenizer rules, int
+ * Task: Implement reverse-image preprocessing for search and discovery: resizing, normal
  */
 'use strict';
 
