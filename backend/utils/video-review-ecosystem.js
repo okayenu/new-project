@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Implement reverse-image preprocessing for video review ecosystem: resizing, norm
+ * Task: Create anti-abuse controls for video review ecosystem: rate limits, file-type en
  */
 'use strict';
 
