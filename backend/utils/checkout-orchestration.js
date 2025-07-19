@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Create anti-abuse controls for checkout orchestration: rate limits, file-type en
+ * Task: Define prompt-to-style parser for checkout orchestration with tokenizer rules, i
  */
 'use strict';
 
