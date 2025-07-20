@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for community experiences false-positive handling using adversarial 
+ * Task: Document operational runbook for shopping assistant model updates and index rebu
  */
 'use strict';
 
