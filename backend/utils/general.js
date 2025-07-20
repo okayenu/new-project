@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build shuffle candidate engine for recommendation quality that balances novelty,
+ * Task: Create nearest-neighbor search pipeline for 3D product rendering results and re-
  */
 'use strict';
 
