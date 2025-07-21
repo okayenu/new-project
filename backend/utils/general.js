@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create nearest-neighbor search pipeline for delivery visibility results and re-r
+ * Task: Write tests for checkout orchestration false-positive handling using adversarial
  */
 'use strict';
 
