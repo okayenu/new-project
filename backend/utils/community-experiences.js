@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Define prompt-to-style parser for community experiences with tokenizer rules, in
+ * Task: Implement reverse-image preprocessing for community experiences: resizing, norma
  */
 'use strict';
 
