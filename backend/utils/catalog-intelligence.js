@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Create anti-abuse controls for catalog intelligence: rate limits, file-type enfo
+ * Task: Define prompt-to-style parser for catalog intelligence with tokenizer rules, int
  */
 'use strict';
 
