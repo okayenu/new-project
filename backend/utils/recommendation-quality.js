@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Define prompt-to-style parser for recommendation quality with tokenizer rules, i
+ * Task: Implement reverse-image preprocessing for recommendation quality: resizing, norm
  */
 'use strict';
 
