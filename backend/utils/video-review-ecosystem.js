@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Create anti-abuse controls for video review ecosystem: rate limits, file-type en
+ * Task: Define prompt-to-style parser for video review ecosystem with tokenizer rules, i
  */
 'use strict';
 
