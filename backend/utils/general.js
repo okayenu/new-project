@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for personalization false-positive handling using adversarial image 
+ * Task: Optimize memory/CPU path for recommendation quality image processing jobs and qu
  */
 'use strict';
 
