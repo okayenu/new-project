@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize memory/CPU path for checkout orchestration image processing jobs and qu
+ * Task: Document operational runbook for delivery visibility model updates and index reb
  */
 'use strict';
 
