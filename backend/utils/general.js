@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for catalog intelligence false-positive handling using adversarial i
+ * Task: Optimize memory/CPU path for checkout orchestration image processing jobs and qu
  */
 'use strict';
 
