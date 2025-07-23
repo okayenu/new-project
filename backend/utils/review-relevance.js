@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Implement reverse-image preprocessing for review relevance: resizing, normalizat
+ * Task: Create anti-abuse controls for review relevance: rate limits, file-type enforcem
  */
 'use strict';
 
