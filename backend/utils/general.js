@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document operational runbook for delivery visibility model updates and index reb
+ * Task: Build shuffle candidate engine for catalog intelligence that balances novelty, r
  */
 'use strict';
 
