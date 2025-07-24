@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for shopping assistant false-positive handling using adversarial ima
+ * Task: Optimize memory/CPU path for personalization image processing jobs and queue bac
  */
 'use strict';
 
