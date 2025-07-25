@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize memory/CPU path for personalization image processing jobs and queue bac
+ * Task: Document operational runbook for review relevance model updates and index rebuil
  */
 'use strict';
 
