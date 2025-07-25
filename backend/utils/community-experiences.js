@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Implement reverse-image preprocessing for community experiences: resizing, norma
+ * Task: Create anti-abuse controls for community experiences: rate limits, file-type enf
  */
 'use strict';
 
