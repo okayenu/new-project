@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Implement reverse-image preprocessing for 3D product rendering: resizing, normal
+ * Task: Define prompt-to-style parser for 3D product rendering with tokenizer rules, int
  */
 'use strict';
 
