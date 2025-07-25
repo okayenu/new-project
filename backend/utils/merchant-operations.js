@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Implement reverse-image preprocessing for merchant operations: resizing, normali
+ * Task: Create anti-abuse controls for merchant operations: rate limits, file-type enfor
  */
 'use strict';
 
