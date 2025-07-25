@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document operational runbook for review relevance model updates and index rebuil
+ * Task: Create nearest-neighbor search pipeline for community experiences results and re
  */
 'use strict';
 
