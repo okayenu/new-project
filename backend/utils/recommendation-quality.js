@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Implement reverse-image preprocessing for recommendation quality: resizing, norm
+ * Task: Create anti-abuse controls for recommendation quality: rate limits, file-type en
  */
 'use strict';
 
