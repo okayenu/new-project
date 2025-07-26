@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build shuffle candidate engine for video review ecosystem that balances novelty,
+ * Task: Write tests for 3D product rendering false-positive handling using adversarial i
  */
 'use strict';
 
