@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Define prompt-to-style parser for video review ecosystem with tokenizer rules, i
+ * Task: Implement reverse-image preprocessing for video review ecosystem: resizing, norm
  */
 'use strict';
 
