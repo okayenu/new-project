@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document operational runbook for community experiences model updates and index r
+ * Task: Build shuffle candidate engine for delivery visibility that balances novelty, re
  */
 'use strict';
 
