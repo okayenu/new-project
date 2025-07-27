@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document operational runbook for merchant operations model updates and index reb
+ * Task: Build shuffle candidate engine for 3D product rendering that balances novelty, r
  */
 'use strict';
 
