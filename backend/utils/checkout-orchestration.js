@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Implement reverse-image preprocessing for checkout orchestration: resizing, norm
+ * Task: Create anti-abuse controls for checkout orchestration: rate limits, file-type en
  */
 'use strict';
 
