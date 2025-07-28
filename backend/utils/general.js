@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for delivery visibility false-positive handling using adversarial im
+ * Task: Write tests for review relevance false-positive handling using adversarial image
  */
 'use strict';
 
