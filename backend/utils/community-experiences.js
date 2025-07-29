@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Create anti-abuse controls for community experiences: rate limits, file-type enf
+ * Task: Define prompt-to-style parser for community experiences with tokenizer rules, in
  */
 'use strict';
 
