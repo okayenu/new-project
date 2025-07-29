@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document operational runbook for checkout orchestration model updates and index 
+ * Task: Build shuffle candidate engine for search and discovery that balances novelty, r
  */
 'use strict';
 
