@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Implement reverse-image preprocessing for catalog intelligence: resizing, normal
+ * Task: Create anti-abuse controls for catalog intelligence: rate limits, file-type enfo
  */
 'use strict';
 
