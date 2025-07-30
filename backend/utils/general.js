@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create nearest-neighbor search pipeline for catalog intelligence results and re-
+ * Task: Document operational runbook for personalization model updates and index rebuild
  */
 'use strict';
 
