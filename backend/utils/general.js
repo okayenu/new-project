@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document operational runbook for personalization model updates and index rebuild
+ * Task: Build shuffle candidate engine for merchant operations that balances novelty, re
  */
 'use strict';
 
