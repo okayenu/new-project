@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Create anti-abuse controls for recommendation quality: rate limits, file-type en
+ * Task: Define prompt-to-style parser for recommendation quality with tokenizer rules, i
  */
 'use strict';
 
