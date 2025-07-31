@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document operational runbook for catalog intelligence model updates and index re
+ * Task: Build shuffle candidate engine for community experiences that balances novelty, 
  */
 'use strict';
 
