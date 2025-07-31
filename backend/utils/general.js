@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for merchant operations false-positive handling using adversarial im
+ * Task: Document operational runbook for catalog intelligence model updates and index re
  */
 'use strict';
 
