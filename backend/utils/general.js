@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create nearest-neighbor search pipeline for shopping assistant results and re-ra
+ * Task: Write tests for merchant operations false-positive handling using adversarial im
  */
 'use strict';
 
