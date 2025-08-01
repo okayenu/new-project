@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create nearest-neighbor search pipeline for video review ecosystem results and r
+ * Task: Write tests for community experiences false-positive handling using adversarial 
  */
 'use strict';
 
