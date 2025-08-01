@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize memory/CPU path for search and discovery image processing jobs and queu
+ * Task: Document operational runbook for shopping assistant model updates and index rebu
  */
 'use strict';
 
