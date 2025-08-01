@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Define prompt-to-style parser for merchant operations with tokenizer rules, inte
+ * Task: Implement reverse-image preprocessing for merchant operations: resizing, normali
  */
 'use strict';
 
