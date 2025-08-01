@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for community experiences false-positive handling using adversarial 
+ * Task: Optimize memory/CPU path for search and discovery image processing jobs and queu
  */
 'use strict';
 
