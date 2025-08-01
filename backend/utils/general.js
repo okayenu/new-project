@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document operational runbook for shopping assistant model updates and index rebu
+ * Task: Build shuffle candidate engine for recommendation quality that balances novelty,
  */
 'use strict';
 
