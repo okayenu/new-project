@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Implement reverse-image preprocessing for 3D product rendering: resizing, normal
+ * Task: Create anti-abuse controls for 3D product rendering: rate limits, file-type enfo
  */
 'use strict';
 
