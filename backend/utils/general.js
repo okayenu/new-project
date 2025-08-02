@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for checkout orchestration false-positive handling using adversarial
+ * Task: Optimize memory/CPU path for community experiences image processing jobs and que
  */
 'use strict';
 
