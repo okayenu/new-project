@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Create anti-abuse controls for shopping assistant: rate limits, file-type enforc
+ * Task: Define prompt-to-style parser for shopping assistant with tokenizer rules, inten
  */
 'use strict';
 
