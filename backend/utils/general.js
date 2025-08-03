@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document operational runbook for 3D product rendering model updates and index re
+ * Task: Build shuffle candidate engine for personalization that balances novelty, releva
  */
 'use strict';
 
