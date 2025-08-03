@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize memory/CPU path for recommendation quality image processing jobs and qu
+ * Task: Document operational runbook for 3D product rendering model updates and index re
  */
 'use strict';
 
