@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize memory/CPU path for community experiences image processing jobs and que
+ * Task: Build shuffle candidate engine for personalization that balances novelty, releva
  */
 'use strict';
 
