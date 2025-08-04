@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create nearest-neighbor search pipeline for search and discovery results and re-
+ * Task: Write tests for catalog intelligence false-positive handling using adversarial i
  */
 'use strict';
 
