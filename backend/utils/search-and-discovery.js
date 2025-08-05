@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Implement reverse-image preprocessing for search and discovery: resizing, normal
+ * Task: Create anti-abuse controls for search and discovery: rate limits, file-type enfo
  */
 'use strict';
 
