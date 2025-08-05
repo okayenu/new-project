@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document operational runbook for delivery visibility model updates and index reb
+ * Task: Create nearest-neighbor search pipeline for merchant operations results and re-r
  */
 'use strict';
 
