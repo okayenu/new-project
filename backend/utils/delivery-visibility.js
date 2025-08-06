@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Implement reverse-image preprocessing for delivery visibility: resizing, normali
+ * Task: Define prompt-to-style parser for delivery visibility with tokenizer rules, inte
  */
 'use strict';
 
