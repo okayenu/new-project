@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Create anti-abuse controls for 3D product rendering: rate limits, file-type enfo
+ * Task: Define prompt-to-style parser for 3D product rendering with tokenizer rules, int
  */
 'use strict';
 
