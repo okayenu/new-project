@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize memory/CPU path for shopping assistant image processing jobs and queue 
+ * Task: Document operational runbook for merchant operations model updates and index reb
  */
 'use strict';
 
