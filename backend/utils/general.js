@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for 3D product rendering false-positive handling using adversarial i
+ * Task: Optimize memory/CPU path for shopping assistant image processing jobs and queue 
  */
 'use strict';
 
