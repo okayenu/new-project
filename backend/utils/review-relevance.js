@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Create anti-abuse controls for review relevance: rate limits, file-type enforcem
+ * Task: Define prompt-to-style parser for review relevance with tokenizer rules, intent 
  */
 'use strict';
 
