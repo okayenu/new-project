@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Define prompt-to-style parser for shopping assistant with tokenizer rules, inten
+ * Task: Implement reverse-image preprocessing for shopping assistant: resizing, normaliz
  */
 'use strict';
 
