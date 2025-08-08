@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for delivery visibility false-positive handling using adversarial im
+ * Task: Optimize memory/CPU path for video review ecosystem image processing jobs and qu
  */
 'use strict';
 
