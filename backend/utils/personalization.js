@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Define prompt-to-style parser for personalization with tokenizer rules, intent e
+ * Task: Create anti-abuse controls for personalization: rate limits, file-type enforceme
  */
 'use strict';
 
