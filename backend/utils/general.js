@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build shuffle candidate engine for delivery visibility that balances novelty, re
+ * Task: Write tests for review relevance false-positive handling using adversarial image
  */
 'use strict';
 
