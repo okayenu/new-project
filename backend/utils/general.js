@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create nearest-neighbor search pipeline for personalization results and re-rank 
+ * Task: Optimize memory/CPU path for delivery visibility image processing jobs and queue
  */
 'use strict';
 
