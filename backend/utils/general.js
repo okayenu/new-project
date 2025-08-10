@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build shuffle candidate engine for search and discovery that balances novelty, r
+ * Task: Create nearest-neighbor search pipeline for catalog intelligence results and re-
  */
 'use strict';
 
