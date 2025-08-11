@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for search and discovery false-positive handling using adversarial i
+ * Task: Create merchant upload validation for shopping assistant assets (polycount, text
  */
 'use strict';
 
