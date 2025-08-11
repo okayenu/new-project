@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Define prompt-to-style parser for review relevance with tokenizer rules, intent 
+ * Task: Implement product 3D viewer component for review relevance with orbit controls, 
  */
 'use strict';
 
