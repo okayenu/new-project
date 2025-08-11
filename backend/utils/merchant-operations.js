@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Define prompt-to-style parser for merchant operations with tokenizer rules, inte
+ * Task: Set up rendering module for merchant operations with scene lifecycle management 
  */
 'use strict';
 
