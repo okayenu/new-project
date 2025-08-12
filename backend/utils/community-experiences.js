@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Define prompt-to-style parser for community experiences with tokenizer rules, in
+ * Task: Set up rendering module for community experiences with scene lifecycle managemen
  */
 'use strict';
 
