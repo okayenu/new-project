@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Define prompt-to-style parser for search and discovery with tokenizer rules, int
+ * Task: Implement product 3D viewer component for search and discovery with orbit contro
  */
 'use strict';
 
