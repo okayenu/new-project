@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Design 3D asset contract for checkout orchestration (GLTF variants, texture rule
+ * Task: Add lighting presets and material tuning for delivery visibility assets to ensur
  */
 'use strict';
 
