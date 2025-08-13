@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Create anti-abuse controls for recommendation quality: rate limits, file-type en
+ * Task: Set up rendering module for recommendation quality with scene lifecycle manageme
  */
 'use strict';
 
