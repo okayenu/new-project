@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create merchant upload validation for 3D product rendering assets (polycount, te
+ * Task: Design 3D asset contract for catalog intelligence (GLTF variants, texture rules,
  */
 'use strict';
 
