@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile rendering performance for merchant operations on low-end devices and opt
+ * Task: Create merchant upload validation for 3D product rendering assets (polycount, te
  */
 'use strict';
 
