@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Create anti-abuse controls for checkout orchestration: rate limits, file-type en
+ * Task: Set up rendering module for checkout orchestration with scene lifecycle manageme
  */
 'use strict';
 
