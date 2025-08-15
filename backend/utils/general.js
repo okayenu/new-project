@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for personalization viewer state transitions (asset swap, error reco
+ * Task: Profile rendering performance for recommendation quality on low-end devices and 
  */
 'use strict';
 
