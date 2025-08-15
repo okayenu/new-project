@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build compatibility fallback for 3D product rendering when WebGL is unavailable 
+ * Task: Write tests for personalization viewer state transitions (asset swap, error reco
  */
 'use strict';
 
