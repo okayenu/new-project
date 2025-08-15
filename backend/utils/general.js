@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Design 3D asset contract for catalog intelligence (GLTF variants, texture rules,
+ * Task: Add lighting presets and material tuning for merchant operations assets to ensur
  */
 'use strict';
 
