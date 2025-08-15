@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Create anti-abuse controls for personalization: rate limits, file-type enforceme
+ * Task: Set up rendering module for personalization with scene lifecycle management and 
  */
 'use strict';
 
