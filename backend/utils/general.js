@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create merchant upload validation for review relevance assets (polycount, textur
+ * Task: Add lighting presets and material tuning for community experiences assets to ens
  */
 'use strict';
 
