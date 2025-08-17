@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for shopping assistant viewer state transitions (asset swap, error r
+ * Task: Profile rendering performance for personalization on low-end devices and optimiz
  */
 'use strict';
 
