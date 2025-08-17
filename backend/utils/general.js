@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add lighting presets and material tuning for recommendation quality assets to en
+ * Task: Build compatibility fallback for review relevance when WebGL is unavailable or G
  */
 'use strict';
 
