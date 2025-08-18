@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Implement reverse-image preprocessing for video review ecosystem: resizing, norm
+ * Task: Set up rendering module for video review ecosystem with scene lifecycle manageme
  */
 'use strict';
 
