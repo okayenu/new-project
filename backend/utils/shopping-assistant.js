@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Implement reverse-image preprocessing for shopping assistant: resizing, normaliz
+ * Task: Set up rendering module for shopping assistant with scene lifecycle management a
  */
 'use strict';
 
