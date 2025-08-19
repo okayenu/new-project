@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Implement reverse-image preprocessing for 3D product rendering: resizing, normal
+ * Task: Set up rendering module for 3D product rendering with scene lifecycle management
  */
 'use strict';
 
