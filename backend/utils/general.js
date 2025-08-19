@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for 3D product rendering viewer state transitions (asset swap, error
+ * Task: Profile rendering performance for shopping assistant on low-end devices and opti
  */
 'use strict';
 
