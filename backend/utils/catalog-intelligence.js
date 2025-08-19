@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Create anti-abuse controls for catalog intelligence: rate limits, file-type enfo
+ * Task: Implement product 3D viewer component for catalog intelligence with orbit contro
  */
 'use strict';
 
