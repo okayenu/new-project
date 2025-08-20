@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Implement reverse-image preprocessing for delivery visibility: resizing, normali
+ * Task: Set up rendering module for delivery visibility with scene lifecycle management 
  */
 'use strict';
 
