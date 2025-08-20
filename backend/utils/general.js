@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add lighting presets and material tuning for personalization assets to ensure co
+ * Task: Write tests for delivery visibility viewer state transitions (asset swap, error 
  */
 'use strict';
 
