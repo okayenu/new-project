@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add lighting presets and material tuning for catalog intelligence assets to ensu
+ * Task: Write tests for review relevance viewer state transitions (asset swap, error rec
  */
 'use strict';
 
