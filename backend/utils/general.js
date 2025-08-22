@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add lighting presets and material tuning for shopping assistant assets to ensure
+ * Task: Profile rendering performance for delivery visibility on low-end devices and opt
  */
 'use strict';
 
