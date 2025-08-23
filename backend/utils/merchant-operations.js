@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Implement product 3D viewer component for merchant operations with orbit control
+ * Task: Set up rendering module for merchant operations with scene lifecycle management 
  */
 'use strict';
 
