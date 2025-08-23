@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Design 3D asset contract for community experiences (GLTF variants, texture rules
+ * Task: Add lighting presets and material tuning for video review ecosystem assets to en
  */
 'use strict';
 
