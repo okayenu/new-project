@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create merchant upload validation for shopping assistant assets (polycount, text
+ * Task: Document 3D authoring guidelines for personalization contributors and QA accepta
  */
 'use strict';
 
