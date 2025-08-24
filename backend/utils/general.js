@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for community experiences viewer state transitions (asset swap, erro
+ * Task: Profile rendering performance for search and discovery on low-end devices and op
  */
 'use strict';
 
