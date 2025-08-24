@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add lighting presets and material tuning for delivery visibility assets to ensur
+ * Task: Build compatibility fallback for catalog intelligence when WebGL is unavailable 
  */
 'use strict';
 
