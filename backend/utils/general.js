@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create merchant upload validation for video review ecosystem assets (polycount, 
+ * Task: Document 3D authoring guidelines for catalog intelligence contributors and QA ac
  */
 'use strict';
 
