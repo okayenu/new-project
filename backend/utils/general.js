@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile rendering performance for search and discovery on low-end devices and op
+ * Task: Document 3D authoring guidelines for shopping assistant contributors and QA acce
  */
 'use strict';
 
