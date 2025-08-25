@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Implement product 3D viewer component for recommendation quality with orbit cont
+ * Task: Set up rendering module for recommendation quality with scene lifecycle manageme
  */
 'use strict';
 
