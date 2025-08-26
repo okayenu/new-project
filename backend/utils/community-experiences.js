@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Set up rendering module for community experiences with scene lifecycle managemen
+ * Task: Implement product 3D viewer component for community experiences with orbit contr
  */
 'use strict';
 
