@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create merchant upload validation for 3D product rendering assets (polycount, te
+ * Task: Document 3D authoring guidelines for shopping assistant contributors and QA acce
  */
 'use strict';
 
