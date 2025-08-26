@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build compatibility fallback for video review ecosystem when WebGL is unavailabl
+ * Task: Write tests for checkout orchestration viewer state transitions (asset swap, err
  */
 'use strict';
 
