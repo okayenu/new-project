@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Implement product 3D viewer component for checkout orchestration with orbit cont
+ * Task: Set up rendering module for checkout orchestration with scene lifecycle manageme
  */
 'use strict';
 
