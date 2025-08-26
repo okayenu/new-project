@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile rendering performance for community experiences on low-end devices and o
+ * Task: Create merchant upload validation for delivery visibility assets (polycount, tex
  */
 'use strict';
 
