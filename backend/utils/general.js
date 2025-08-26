@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add lighting presets and material tuning for search and discovery assets to ensu
+ * Task: Build compatibility fallback for video review ecosystem when WebGL is unavailabl
  */
 'use strict';
 
