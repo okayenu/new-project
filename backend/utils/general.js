@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Design 3D asset contract for personalization (GLTF variants, texture rules, LOD 
+ * Task: Design 3D asset contract for catalog intelligence (GLTF variants, texture rules,
  */
 'use strict';
 
