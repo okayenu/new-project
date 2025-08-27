@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Implement product 3D viewer component for personalization with orbit controls, z
+ * Task: Set up rendering module for personalization with scene lifecycle management and 
  */
 'use strict';
 
