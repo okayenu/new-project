@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add lighting presets and material tuning for merchant operations assets to ensur
+ * Task: Build compatibility fallback for 3D product rendering when WebGL is unavailable 
  */
 'use strict';
 
