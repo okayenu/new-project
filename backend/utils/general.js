@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document 3D authoring guidelines for video review ecosystem contributors and QA 
+ * Task: Add lighting presets and material tuning for merchant operations assets to ensur
  */
 'use strict';
 
