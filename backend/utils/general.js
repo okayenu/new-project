@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document 3D authoring guidelines for delivery visibility contributors and QA acc
+ * Task: Design 3D asset contract for video review ecosystem (GLTF variants, texture rule
  */
 'use strict';
 
