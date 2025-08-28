@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build compatibility fallback for delivery visibility when WebGL is unavailable o
+ * Task: Write tests for catalog intelligence viewer state transitions (asset swap, error
  */
 'use strict';
 
