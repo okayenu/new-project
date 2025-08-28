@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add lighting presets and material tuning for community experiences assets to ens
+ * Task: Build compatibility fallback for delivery visibility when WebGL is unavailable o
  */
 'use strict';
 
