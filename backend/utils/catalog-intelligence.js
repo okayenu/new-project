@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Implement product 3D viewer component for catalog intelligence with orbit contro
+ * Task: Set up rendering module for catalog intelligence with scene lifecycle management
  */
 'use strict';
 
