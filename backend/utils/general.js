@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for video review ecosystem viewer state transitions (asset swap, err
+ * Task: Profile rendering performance for catalog intelligence on low-end devices and op
  */
 'use strict';
 
