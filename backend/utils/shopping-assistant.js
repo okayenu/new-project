@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Implement product 3D viewer component for shopping assistant with orbit controls
+ * Task: Set up rendering module for shopping assistant with scene lifecycle management a
  */
 'use strict';
 
