@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Design 3D asset contract for delivery visibility (GLTF variants, texture rules, 
+ * Task: Build compatibility fallback for merchant operations when WebGL is unavailable o
  */
 'use strict';
 
