@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create merchant upload validation for checkout orchestration assets (polycount, 
+ * Task: Document 3D authoring guidelines for community experiences contributors and QA a
  */
 'use strict';
 
