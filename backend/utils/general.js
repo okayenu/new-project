@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for delivery visibility viewer state transitions (asset swap, error 
+ * Task: Profile rendering performance for video review ecosystem on low-end devices and 
  */
 'use strict';
 
