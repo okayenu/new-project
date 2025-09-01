@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add lighting presets and material tuning for catalog intelligence assets to ensu
+ * Task: Build compatibility fallback for community experiences when WebGL is unavailable
  */
 'use strict';
 
