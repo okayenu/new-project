@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build compatibility fallback for community experiences when WebGL is unavailable
+ * Task: Write tests for delivery visibility viewer state transitions (asset swap, error 
  */
 'use strict';
 
