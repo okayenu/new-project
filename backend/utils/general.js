@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for review relevance viewer state transitions (asset swap, error rec
+ * Task: Profile rendering performance for 3D product rendering on low-end devices and op
  */
 'use strict';
 
