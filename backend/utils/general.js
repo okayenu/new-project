@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for delivery visibility viewer state transitions (asset swap, error 
+ * Task: Write tests for review relevance viewer state transitions (asset swap, error rec
  */
 'use strict';
 
