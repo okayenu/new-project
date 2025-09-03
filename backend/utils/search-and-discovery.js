@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Implement product 3D viewer component for search and discovery with orbit contro
+ * Task: Set up rendering module for search and discovery with scene lifecycle management
  */
 'use strict';
 
