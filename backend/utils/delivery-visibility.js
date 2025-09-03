@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Set up rendering module for delivery visibility with scene lifecycle management 
+ * Task: Implement product 3D viewer component for delivery visibility with orbit control
  */
 'use strict';
 
