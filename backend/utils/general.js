@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document 3D authoring guidelines for checkout orchestration contributors and QA 
+ * Task: Design 3D asset contract for community experiences (GLTF variants, texture rules
  */
 'use strict';
 
