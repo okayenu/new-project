@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Set up rendering module for review relevance with scene lifecycle management and
+ * Task: Implement product 3D viewer component for review relevance with orbit controls, 
  */
 'use strict';
 
