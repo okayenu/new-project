@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build compatibility fallback for checkout orchestration when WebGL is unavailabl
+ * Task: Create merchant upload validation for shopping assistant assets (polycount, text
  */
 'use strict';
 
