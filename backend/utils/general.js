@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document 3D authoring guidelines for catalog intelligence contributors and QA ac
+ * Task: Design 3D asset contract for checkout orchestration (GLTF variants, texture rule
  */
 'use strict';
 
