@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build compatibility fallback for personalization when WebGL is unavailable or GP
+ * Task: Write tests for merchant operations viewer state transitions (asset swap, error 
  */
 'use strict';
 
