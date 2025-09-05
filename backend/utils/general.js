@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add lighting presets and material tuning for 3D product rendering assets to ensu
+ * Task: Build compatibility fallback for personalization when WebGL is unavailable or GP
  */
 'use strict';
 
