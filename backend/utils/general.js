@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile rendering performance for review relevance on low-end devices and optimi
+ * Task: Create merchant upload validation for video review ecosystem assets (polycount, 
  */
 'use strict';
 
