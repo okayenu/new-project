@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for merchant operations viewer state transitions (asset swap, error 
+ * Task: Profile rendering performance for review relevance on low-end devices and optimi
  */
 'use strict';
 
