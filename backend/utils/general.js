@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for community experiences viewer state transitions (asset swap, erro
+ * Task: Document 3D authoring guidelines for shopping assistant contributors and QA acce
  */
 'use strict';
 
