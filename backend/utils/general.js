@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for checkout orchestration viewer state transitions (asset swap, err
+ * Task: Profile rendering performance for community experiences on low-end devices and o
  */
 'use strict';
 
