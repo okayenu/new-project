@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile rendering performance for recommendation quality on low-end devices and 
+ * Task: Create merchant upload validation for review relevance assets (polycount, textur
  */
 'use strict';
 
