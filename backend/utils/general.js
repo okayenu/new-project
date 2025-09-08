@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document 3D authoring guidelines for 3D product rendering contributors and QA ac
+ * Task: Design 3D asset contract for shopping assistant (GLTF variants, texture rules, L
  */
 'use strict';
 
