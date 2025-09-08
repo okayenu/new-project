@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create merchant upload validation for delivery visibility assets (polycount, tex
+ * Task: Add lighting presets and material tuning for merchant operations assets to ensur
  */
 'use strict';
 
