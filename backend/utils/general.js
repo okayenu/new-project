@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Design 3D asset contract for shopping assistant (GLTF variants, texture rules, L
+ * Task: Add lighting presets and material tuning for community experiences assets to ens
  */
 'use strict';
 
