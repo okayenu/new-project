@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for catalog intelligence viewer state transitions (asset swap, error
+ * Task: Profile rendering performance for checkout orchestration on low-end devices and 
  */
 'use strict';
 
