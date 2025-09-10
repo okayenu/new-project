@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build compatibility fallback for review relevance when WebGL is unavailable or G
+ * Task: Write tests for shopping assistant viewer state transitions (asset swap, error r
  */
 'use strict';
 
