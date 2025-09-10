@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document 3D authoring guidelines for delivery visibility contributors and QA acc
+ * Task: Add lighting presets and material tuning for recommendation quality assets to en
  */
 'use strict';
 
