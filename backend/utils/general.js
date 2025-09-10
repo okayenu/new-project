@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile rendering performance for checkout orchestration on low-end devices and 
+ * Task: Create merchant upload validation for search and discovery assets (polycount, te
  */
 'use strict';
 
