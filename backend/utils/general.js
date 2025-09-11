@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile rendering performance for catalog intelligence on low-end devices and op
+ * Task: Create merchant upload validation for community experiences assets (polycount, t
  */
 'use strict';
 
