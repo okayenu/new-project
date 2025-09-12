@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Implement product 3D viewer component for video review ecosystem with orbit cont
+ * Task: Set up rendering module for video review ecosystem with scene lifecycle manageme
  */
 'use strict';
 
