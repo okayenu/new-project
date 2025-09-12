@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create merchant upload validation for recommendation quality assets (polycount, 
+ * Task: Document 3D authoring guidelines for merchant operations contributors and QA acc
  */
 'use strict';
 
