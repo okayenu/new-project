@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile rendering performance for shopping assistant on low-end devices and opti
+ * Task: Create merchant upload validation for recommendation quality assets (polycount, 
  */
 'use strict';
 
