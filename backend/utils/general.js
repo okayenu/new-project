@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add lighting presets and material tuning for checkout orchestration assets to en
+ * Task: Build compatibility fallback for merchant operations when WebGL is unavailable o
  */
 'use strict';
 
