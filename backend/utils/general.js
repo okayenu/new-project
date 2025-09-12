@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document 3D authoring guidelines for search and discovery contributors and QA ac
+ * Task: Design 3D asset contract for delivery visibility (GLTF variants, texture rules, 
  */
 'use strict';
 
