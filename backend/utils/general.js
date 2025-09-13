@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add lighting presets and material tuning for personalization assets to ensure co
+ * Task: Build compatibility fallback for merchant operations when WebGL is unavailable o
  */
 'use strict';
 
