@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build compatibility fallback for merchant operations when WebGL is unavailable o
+ * Task: Write tests for delivery visibility viewer state transitions (asset swap, error 
  */
 'use strict';
 
