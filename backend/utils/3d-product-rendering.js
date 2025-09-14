@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Set up rendering module for 3D product rendering with scene lifecycle management
+ * Task: Implement product 3D viewer component for 3D product rendering with orbit contro
  */
 'use strict';
 
