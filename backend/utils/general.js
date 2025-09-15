@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build compatibility fallback for recommendation quality when WebGL is unavailabl
+ * Task: Write tests for review relevance viewer state transitions (asset swap, error rec
  */
 'use strict';
 
