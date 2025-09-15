@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile rendering performance for delivery visibility on low-end devices and opt
+ * Task: Create merchant upload validation for catalog intelligence assets (polycount, te
  */
 'use strict';
 
