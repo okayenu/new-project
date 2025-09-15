@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile rendering performance for 3D product rendering on low-end devices and op
+ * Task: Profile rendering performance for delivery visibility on low-end devices and opt
  */
 'use strict';
 
