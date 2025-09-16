@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add lighting presets and material tuning for video review ecosystem assets to en
+ * Task: Build compatibility fallback for checkout orchestration when WebGL is unavailabl
  */
 'use strict';
 
