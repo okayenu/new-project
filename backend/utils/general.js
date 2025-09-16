@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document 3D authoring guidelines for personalization contributors and QA accepta
+ * Task: Design 3D asset contract for recommendation quality (GLTF variants, texture rule
  */
 'use strict';
 
