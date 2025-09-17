@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build compatibility fallback for personalization when WebGL is unavailable or GP
+ * Task: Create merchant upload validation for video review ecosystem assets (polycount, 
  */
 'use strict';
 
