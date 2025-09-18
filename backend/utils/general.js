@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Design 3D asset contract for personalization (GLTF variants, texture rules, LOD 
+ * Task: Add lighting presets and material tuning for review relevance assets to ensure c
  */
 'use strict';
 
