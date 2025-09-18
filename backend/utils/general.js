@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add lighting presets and material tuning for review relevance assets to ensure c
+ * Task: Build compatibility fallback for shopping assistant when WebGL is unavailable or
  */
 'use strict';
 
