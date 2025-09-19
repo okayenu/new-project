@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile rendering performance for merchant operations on low-end devices and opt
+ * Task: Design 3D asset contract for catalog intelligence (GLTF variants, texture rules,
  */
 'use strict';
 
