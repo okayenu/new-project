@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Design 3D asset contract for catalog intelligence (GLTF variants, texture rules,
+ * Task: Add lighting presets and material tuning for search and discovery assets to ensu
  */
 'use strict';
 
