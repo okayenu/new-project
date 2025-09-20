@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Implement product 3D viewer component for shopping assistant with orbit controls
+ * Task: Add UI one-click affordances for shopping assistant with confirmation microcopy 
  */
 'use strict';
 
