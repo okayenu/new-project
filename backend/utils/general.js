@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement checkout eligibility service for personalization (saved address, payme
+ * Task: Integrate payment provider fast-path API for merchant operations and map provide
  */
 'use strict';
 
