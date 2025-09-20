@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Design 3D asset contract for catalog intelligence (GLTF variants, texture rules,
+ * Task: Implement checkout eligibility service for personalization (saved address, payme
  */
 'use strict';
 
