@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Integrate payment provider fast-path API for merchant operations and map provide
+ * Task: Build latency budget dashboard for review relevance checkout path and enforce p9
  */
 'use strict';
 
