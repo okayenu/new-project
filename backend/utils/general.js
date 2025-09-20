@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for personalization race conditions (inventory contention, duplicate
+ * Task: Optimize backend calls for recommendation quality by parallelizing non-dependent
  */
 'use strict';
 
