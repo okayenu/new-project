@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Implement product 3D viewer component for merchant operations with orbit control
+ * Task: Instrument conversion funnel analytics for merchant operations: exposed, clicked
  */
 'use strict';
 
