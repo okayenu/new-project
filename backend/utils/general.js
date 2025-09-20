@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create merchant upload validation for delivery visibility assets (polycount, tex
+ * Task: Document 3D authoring guidelines for video review ecosystem contributors and QA 
  */
 'use strict';
 
