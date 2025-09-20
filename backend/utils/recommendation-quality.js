@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Set up rendering module for recommendation quality with scene lifecycle manageme
+ * Task: Create atomic order-creation flow for recommendation quality with idempotency ke
  */
 'use strict';
 
