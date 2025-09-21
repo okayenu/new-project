@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Set up rendering module for checkout orchestration with scene lifecycle manageme
+ * Task: Create atomic order-creation flow for checkout orchestration with idempotency ke
  */
 'use strict';
 
