@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Add UI one-click affordances for shopping assistant with confirmation microcopy 
+ * Task: Design one-click checkout architecture for shopping assistant with tokenized pay
  */
 'use strict';
 
