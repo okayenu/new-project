@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Implement product 3D viewer component for video review ecosystem with orbit cont
+ * Task: Add UI one-click affordances for video review ecosystem with confirmation microc
  */
 'use strict';
 
