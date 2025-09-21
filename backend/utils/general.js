@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize backend calls for recommendation quality by parallelizing non-dependent
+ * Task: Document compliance and audit trails for 3D product rendering payment-token life
  */
 'use strict';
 
