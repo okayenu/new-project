@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build latency budget dashboard for search and discovery checkout path and enforc
+ * Task: Implement risk checks for delivery visibility one-click orders (velocity limits,
  */
 'use strict';
 
