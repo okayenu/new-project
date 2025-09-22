@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document compliance and audit trails for delivery visibility payment-token lifec
+ * Task: Implement checkout eligibility service for catalog intelligence (saved address, 
  */
 'use strict';
 
