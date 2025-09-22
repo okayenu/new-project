@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement risk checks for review relevance one-click orders (velocity limits, de
+ * Task: Write tests for shopping assistant race conditions (inventory contention, duplic
  */
 'use strict';
 
