@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Implement product 3D viewer component for community experiences with orbit contr
+ * Task: Instrument conversion funnel analytics for community experiences: exposed, click
  */
 'use strict';
 
