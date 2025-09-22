@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Implement product 3D viewer component for 3D product rendering with orbit contro
+ * Task: Add UI one-click affordances for 3D product rendering with confirmation microcop
  */
 'use strict';
 
