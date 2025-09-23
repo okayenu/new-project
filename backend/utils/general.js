@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document compliance and audit trails for review relevance payment-token lifecycl
+ * Task: Implement checkout eligibility service for shopping assistant (saved address, pa
  */
 'use strict';
 
