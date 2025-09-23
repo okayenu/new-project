@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize backend calls for personalization by parallelizing non-dependent operat
+ * Task: Document compliance and audit trails for review relevance payment-token lifecycl
  */
 'use strict';
 
