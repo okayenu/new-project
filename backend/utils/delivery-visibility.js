@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Implement product 3D viewer component for delivery visibility with orbit control
+ * Task: Add UI one-click affordances for delivery visibility with confirmation microcopy
  */
 'use strict';
 
