@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Implement product 3D viewer component for personalization with orbit controls, z
+ * Task: Create atomic order-creation flow for personalization with idempotency keys and 
  */
 'use strict';
 
