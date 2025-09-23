@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement checkout eligibility service for shopping assistant (saved address, pa
+ * Task: Build latency budget dashboard for community experiences checkout path and enfor
  */
 'use strict';
 
