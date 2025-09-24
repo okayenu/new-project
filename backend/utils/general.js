@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement checkout eligibility service for video review ecosystem (saved address
+ * Task: Implement risk checks for merchant operations one-click orders (velocity limits,
  */
 'use strict';
 
