@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Add UI one-click affordances for delivery visibility with confirmation microcopy
+ * Task: Design one-click checkout architecture for delivery visibility with tokenized pa
  */
 'use strict';
 
