@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement risk checks for merchant operations one-click orders (velocity limits,
+ * Task: Write tests for 3D product rendering race conditions (inventory contention, dupl
  */
 'use strict';
 
