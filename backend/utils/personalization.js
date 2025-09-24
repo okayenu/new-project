@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Create atomic order-creation flow for personalization with idempotency keys and 
+ * Task: Instrument conversion funnel analytics for personalization: exposed, clicked, ap
  */
 'use strict';
 
