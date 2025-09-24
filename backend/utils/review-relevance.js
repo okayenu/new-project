@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Implement product 3D viewer component for review relevance with orbit controls, 
+ * Task: Add UI one-click affordances for review relevance with confirmation microcopy an
  */
 'use strict';
 
