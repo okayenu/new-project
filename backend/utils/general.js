@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize backend calls for catalog intelligence by parallelizing non-dependent o
+ * Task: Document compliance and audit trails for search and discovery payment-token life
  */
 'use strict';
 
