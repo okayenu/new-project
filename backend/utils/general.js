@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement checkout eligibility service for 3D product rendering (saved address, 
+ * Task: Integrate payment provider fast-path API for personalization and map provider er
  */
 'use strict';
 
