@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Add UI one-click affordances for search and discovery with confirmation microcop
+ * Task: Design one-click checkout architecture for search and discovery with tokenized p
  */
 'use strict';
 
