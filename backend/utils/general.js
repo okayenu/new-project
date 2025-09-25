@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document compliance and audit trails for community experiences payment-token lif
+ * Task: Implement checkout eligibility service for delivery visibility (saved address, p
  */
 'use strict';
 
