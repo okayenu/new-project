@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Design one-click checkout architecture for shopping assistant with tokenized pay
+ * Task: Create atomic order-creation flow for shopping assistant with idempotency keys a
  */
 'use strict';
 
