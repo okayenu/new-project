@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document compliance and audit trails for merchant operations payment-token lifec
+ * Task: Implement checkout eligibility service for 3D product rendering (saved address, 
  */
 'use strict';
 
