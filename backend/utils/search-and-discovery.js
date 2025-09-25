@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Implement product 3D viewer component for search and discovery with orbit contro
+ * Task: Add UI one-click affordances for search and discovery with confirmation microcop
  */
 'use strict';
 
