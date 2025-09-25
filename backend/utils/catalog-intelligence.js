@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Implement product 3D viewer component for catalog intelligence with orbit contro
+ * Task: Instrument conversion funnel analytics for catalog intelligence: exposed, clicke
  */
 'use strict';
 
