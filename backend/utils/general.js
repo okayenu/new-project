@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Integrate payment provider fast-path API for catalog intelligence and map provid
+ * Task: Write tests for review relevance race conditions (inventory contention, duplicat
  */
 'use strict';
 
