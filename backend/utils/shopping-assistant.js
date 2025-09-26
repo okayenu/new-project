@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Create atomic order-creation flow for shopping assistant with idempotency keys a
+ * Task: Instrument conversion funnel analytics for shopping assistant: exposed, clicked,
  */
 'use strict';
 
