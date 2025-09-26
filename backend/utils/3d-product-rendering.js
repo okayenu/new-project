@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Design one-click checkout architecture for 3D product rendering with tokenized p
+ * Task: Create atomic order-creation flow for 3D product rendering with idempotency keys
  */
 'use strict';
 
