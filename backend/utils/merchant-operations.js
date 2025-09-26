@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Instrument conversion funnel analytics for merchant operations: exposed, clicked
+ * Task: Design one-click checkout architecture for merchant operations with tokenized pa
  */
 'use strict';
 
