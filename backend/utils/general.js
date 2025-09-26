@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for review relevance race conditions (inventory contention, duplicat
+ * Task: Optimize backend calls for 3D product rendering by parallelizing non-dependent o
  */
 'use strict';
 
