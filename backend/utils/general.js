@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build latency budget dashboard for personalization checkout path and enforce p95
+ * Task: Optimize backend calls for delivery visibility by parallelizing non-dependent op
  */
 'use strict';
 
