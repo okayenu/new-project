@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Design one-click checkout architecture for delivery visibility with tokenized pa
+ * Task: Create atomic order-creation flow for delivery visibility with idempotency keys 
  */
 'use strict';
 
