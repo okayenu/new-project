@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize backend calls for delivery visibility by parallelizing non-dependent op
+ * Task: Document compliance and audit trails for checkout orchestration payment-token li
  */
 'use strict';
 
