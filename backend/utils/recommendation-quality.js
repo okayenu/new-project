@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Instrument conversion funnel analytics for recommendation quality: exposed, clic
+ * Task: Design one-click checkout architecture for recommendation quality with tokenized
  */
 'use strict';
 
