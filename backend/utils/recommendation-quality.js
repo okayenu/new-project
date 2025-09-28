@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Design one-click checkout architecture for recommendation quality with tokenized
+ * Task: Add UI one-click affordances for recommendation quality with confirmation microc
  */
 'use strict';
 
