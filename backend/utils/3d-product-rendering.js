@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Create atomic order-creation flow for 3D product rendering with idempotency keys
+ * Task: Instrument conversion funnel analytics for 3D product rendering: exposed, clicke
  */
 'use strict';
 
