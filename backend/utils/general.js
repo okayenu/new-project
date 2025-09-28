@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement risk checks for checkout orchestration one-click orders (velocity limi
+ * Task: Document compliance and audit trails for personalization payment-token lifecycle
  */
 'use strict';
 
