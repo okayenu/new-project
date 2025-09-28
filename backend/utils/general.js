@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document compliance and audit trails for personalization payment-token lifecycle
+ * Task: Implement checkout eligibility service for merchant operations (saved address, p
  */
 'use strict';
 
