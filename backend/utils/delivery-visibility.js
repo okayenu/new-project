@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Create atomic order-creation flow for delivery visibility with idempotency keys 
+ * Task: Instrument conversion funnel analytics for delivery visibility: exposed, clicked
  */
 'use strict';
 
