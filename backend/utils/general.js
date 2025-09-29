@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for merchant operations race conditions (inventory contention, dupli
+ * Task: Document compliance and audit trails for catalog intelligence payment-token life
  */
 'use strict';
 
