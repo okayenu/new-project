@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build latency budget dashboard for video review ecosystem checkout path and enfo
+ * Task: Implement risk checks for catalog intelligence one-click orders (velocity limits
  */
 'use strict';
 
