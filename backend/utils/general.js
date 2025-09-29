@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for community experiences race conditions (inventory contention, dup
+ * Task: Optimize backend calls for search and discovery by parallelizing non-dependent o
  */
 'use strict';
 
