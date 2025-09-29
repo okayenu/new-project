@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement risk checks for catalog intelligence one-click orders (velocity limits
+ * Task: Write tests for community experiences race conditions (inventory contention, dup
  */
 'use strict';
 
