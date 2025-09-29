@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement checkout eligibility service for community experiences (saved address,
+ * Task: Integrate payment provider fast-path API for delivery visibility and map provide
  */
 'use strict';
 
