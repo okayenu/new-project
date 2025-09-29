@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Design one-click checkout architecture for checkout orchestration with tokenized
+ * Task: Add UI one-click affordances for checkout orchestration with confirmation microc
  */
 'use strict';
 
