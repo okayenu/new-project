@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement risk checks for personalization one-click orders (velocity limits, dev
+ * Task: Write tests for merchant operations race conditions (inventory contention, dupli
  */
 'use strict';
 
