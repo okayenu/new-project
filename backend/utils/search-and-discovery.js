@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Design one-click checkout architecture for search and discovery with tokenized p
+ * Task: Create atomic order-creation flow for search and discovery with idempotency keys
  */
 'use strict';
 
