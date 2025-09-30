@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Design one-click checkout architecture for personalization with tokenized paymen
+ * Task: Add UI one-click affordances for personalization with confirmation microcopy and
  */
 'use strict';
 
