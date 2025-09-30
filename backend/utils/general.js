@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize backend calls for search and discovery by parallelizing non-dependent o
+ * Task: Document compliance and audit trails for shopping assistant payment-token lifecy
  */
 'use strict';
 
