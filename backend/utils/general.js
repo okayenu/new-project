@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build latency budget dashboard for 3D product rendering checkout path and enforc
+ * Task: Implement risk checks for shopping assistant one-click orders (velocity limits, 
  */
 'use strict';
 
