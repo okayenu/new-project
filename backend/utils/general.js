@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement checkout eligibility service for recommendation quality (saved address
+ * Task: Integrate payment provider fast-path API for review relevance and map provider e
  */
 'use strict';
 
