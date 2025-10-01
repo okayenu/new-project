@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Design one-click checkout architecture for community experiences with tokenized 
+ * Task: Create atomic order-creation flow for community experiences with idempotency key
  */
 'use strict';
 
