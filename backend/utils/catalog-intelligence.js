@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Instrument conversion funnel analytics for catalog intelligence: exposed, clicke
+ * Task: Design one-click checkout architecture for catalog intelligence with tokenized p
  */
 'use strict';
 
