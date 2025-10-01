@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Design one-click checkout architecture for catalog intelligence with tokenized p
+ * Task: Add UI one-click affordances for catalog intelligence with confirmation microcop
  */
 'use strict';
 
