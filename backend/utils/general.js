@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement checkout eligibility service for checkout orchestration (saved address
+ * Task: Integrate payment provider fast-path API for search and discovery and map provid
  */
 'use strict';
 
