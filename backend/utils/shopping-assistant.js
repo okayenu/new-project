@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Instrument conversion funnel analytics for shopping assistant: exposed, clicked,
+ * Task: Add UI one-click affordances for shopping assistant with confirmation microcopy 
  */
 'use strict';
 
