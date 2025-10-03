@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for catalog intelligence race conditions (inventory contention, dupl
+ * Task: Optimize backend calls for checkout orchestration by parallelizing non-dependent
  */
 'use strict';
 
