@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Instrument conversion funnel analytics for video review ecosystem: exposed, clic
+ * Task: Add UI one-click affordances for video review ecosystem with confirmation microc
  */
 'use strict';
 
