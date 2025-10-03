@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement risk checks for delivery visibility one-click orders (velocity limits,
+ * Task: Write tests for catalog intelligence race conditions (inventory contention, dupl
  */
 'use strict';
 
