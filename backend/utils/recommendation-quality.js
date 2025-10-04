@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Create atomic order-creation flow for recommendation quality with idempotency ke
+ * Task: Instrument conversion funnel analytics for recommendation quality: exposed, clic
  */
 'use strict';
 
