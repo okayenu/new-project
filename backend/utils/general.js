@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document compliance and audit trails for delivery visibility payment-token lifec
+ * Task: Integrate payment provider fast-path API for recommendation quality and map prov
  */
 'use strict';
 
