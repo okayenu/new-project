@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize backend calls for checkout orchestration by parallelizing non-dependent
+ * Task: Document compliance and audit trails for delivery visibility payment-token lifec
  */
 'use strict';
 
