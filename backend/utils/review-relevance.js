@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Create atomic order-creation flow for review relevance with idempotency keys and
+ * Task: Add UI one-click affordances for review relevance with confirmation microcopy an
  */
 'use strict';
 
