@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Add UI one-click affordances for review relevance with confirmation microcopy an
+ * Task: Design one-click checkout architecture for review relevance with tokenized payme
  */
 'use strict';
 
