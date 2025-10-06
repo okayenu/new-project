@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Add UI one-click affordances for personalization with confirmation microcopy and
+ * Task: Instrument conversion funnel analytics for personalization: exposed, clicked, ap
  */
 'use strict';
 
