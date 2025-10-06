@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Integrate payment provider fast-path API for checkout orchestration and map prov
+ * Task: Implement risk checks for merchant operations one-click orders (velocity limits,
  */
 'use strict';
 
