@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement checkout eligibility service for 3D product rendering (saved address, 
+ * Task: Write tests for delivery visibility race conditions (inventory contention, dupli
  */
 'use strict';
 
