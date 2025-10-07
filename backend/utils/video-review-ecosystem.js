@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Design one-click checkout architecture for video review ecosystem with tokenized
+ * Task: Create atomic order-creation flow for video review ecosystem with idempotency ke
  */
 'use strict';
 
