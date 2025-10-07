@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for delivery visibility race conditions (inventory contention, dupli
+ * Task: Optimize backend calls for video review ecosystem by parallelizing non-dependent
  */
 'use strict';
 
