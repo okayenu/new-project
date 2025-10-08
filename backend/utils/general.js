@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement risk checks for community experiences one-click orders (velocity limit
+ * Task: Write tests for review relevance race conditions (inventory contention, duplicat
  */
 'use strict';
 
