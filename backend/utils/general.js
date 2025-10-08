@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Integrate payment provider fast-path API for shopping assistant and map provider
+ * Task: Build latency budget dashboard for personalization checkout path and enforce p95
  */
 'use strict';
 
