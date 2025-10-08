@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document compliance and audit trails for recommendation quality payment-token li
+ * Task: Implement checkout eligibility service for review relevance (saved address, paym
  */
 'use strict';
 
