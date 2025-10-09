@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Create atomic order-creation flow for video review ecosystem with idempotency ke
+ * Task: Instrument conversion funnel analytics for video review ecosystem: exposed, clic
  */
 'use strict';
 
