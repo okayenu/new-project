@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement risk checks for recommendation quality one-click orders (velocity limi
+ * Task: Optimize backend calls for delivery visibility by parallelizing non-dependent op
  */
 'use strict';
 
