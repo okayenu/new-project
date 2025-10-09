@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Instrument conversion funnel analytics for community experiences: exposed, click
+ * Task: Design one-click checkout architecture for community experiences with tokenized 
  */
 'use strict';
 
