@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement checkout eligibility service for search and discovery (saved address, 
+ * Task: Integrate payment provider fast-path API for video review ecosystem and map prov
  */
 'use strict';
 
