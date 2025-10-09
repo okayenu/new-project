@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document compliance and audit trails for checkout orchestration payment-token li
+ * Task: Implement checkout eligibility service for search and discovery (saved address, 
  */
 'use strict';
 
