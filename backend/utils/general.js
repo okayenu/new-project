@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build latency budget dashboard for personalization checkout path and enforce p95
+ * Task: Implement risk checks for recommendation quality one-click orders (velocity limi
  */
 'use strict';
 
