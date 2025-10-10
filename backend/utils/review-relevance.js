@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Design one-click checkout architecture for review relevance with tokenized payme
+ * Task: Create atomic order-creation flow for review relevance with idempotency keys and
  */
 'use strict';
 
