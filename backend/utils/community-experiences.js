@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Design one-click checkout architecture for community experiences with tokenized 
+ * Task: Add UI one-click affordances for community experiences with confirmation microco
  */
 'use strict';
 
