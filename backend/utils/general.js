@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Integrate payment provider fast-path API for 3D product rendering and map provid
+ * Task: Build latency budget dashboard for shopping assistant checkout path and enforce 
  */
 'use strict';
 
