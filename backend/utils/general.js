@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement risk checks for personalization one-click orders (velocity limits, dev
+ * Task: Document compliance and audit trails for catalog intelligence payment-token life
  */
 'use strict';
 
