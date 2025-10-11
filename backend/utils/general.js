@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document compliance and audit trails for catalog intelligence payment-token life
+ * Task: Implement checkout eligibility service for community experiences (saved address,
  */
 'use strict';
 
