@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Instrument conversion funnel analytics for checkout orchestration: exposed, clic
+ * Task: Design one-click checkout architecture for checkout orchestration with tokenized
  */
 'use strict';
 
