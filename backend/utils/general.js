@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build latency budget dashboard for shopping assistant checkout path and enforce 
+ * Task: Implement risk checks for personalization one-click orders (velocity limits, dev
  */
 'use strict';
 
