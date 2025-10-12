@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document compliance and audit trails for shopping assistant payment-token lifecy
+ * Task: Implement checkout eligibility service for recommendation quality (saved address
  */
 'use strict';
 
