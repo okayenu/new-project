@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for recommendation quality race conditions (inventory contention, du
+ * Task: Optimize backend calls for merchant operations by parallelizing non-dependent op
  */
 'use strict';
 
