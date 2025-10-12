@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Instrument conversion funnel analytics for personalization: exposed, clicked, ap
+ * Task: Design one-click checkout architecture for personalization with tokenized paymen
  */
 'use strict';
 
