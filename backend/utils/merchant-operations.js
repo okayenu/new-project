@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Design one-click checkout architecture for merchant operations with tokenized pa
+ * Task: Create atomic order-creation flow for merchant operations with idempotency keys 
  */
 'use strict';
 
