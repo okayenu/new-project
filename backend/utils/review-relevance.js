@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Create atomic order-creation flow for review relevance with idempotency keys and
+ * Task: Instrument conversion funnel analytics for review relevance: exposed, clicked, a
  */
 'use strict';
 
