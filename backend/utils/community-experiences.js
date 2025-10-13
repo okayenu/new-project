@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Add UI one-click affordances for community experiences with confirmation microco
+ * Task: Create atomic order-creation flow for community experiences with idempotency key
  */
 'use strict';
 
