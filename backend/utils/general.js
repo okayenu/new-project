@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize backend calls for merchant operations by parallelizing non-dependent op
+ * Task: Implement checkout eligibility service for checkout orchestration (saved address
  */
 'use strict';
 
