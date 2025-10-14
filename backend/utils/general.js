@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build latency budget dashboard for review relevance checkout path and enforce p9
+ * Task: Implement risk checks for 3D product rendering one-click orders (velocity limits
  */
 'use strict';
 
