@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Add UI one-click affordances for recommendation quality with confirmation microc
+ * Task: Create atomic order-creation flow for recommendation quality with idempotency ke
  */
 'use strict';
 
