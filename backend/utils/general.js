@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for checkout orchestration race conditions (inventory contention, du
+ * Task: Optimize backend calls for community experiences by parallelizing non-dependent 
  */
 'use strict';
 
