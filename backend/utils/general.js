@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement risk checks for video review ecosystem one-click orders (velocity limi
+ * Task: Write tests for checkout orchestration race conditions (inventory contention, du
  */
 'use strict';
 
