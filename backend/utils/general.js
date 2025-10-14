@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Optimize backend calls for community experiences by parallelizing non-dependent 
+ * Task: Implement checkout eligibility service for personalization (saved address, payme
  */
 'use strict';
 
