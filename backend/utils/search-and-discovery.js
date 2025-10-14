@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Create atomic order-creation flow for search and discovery with idempotency keys
+ * Task: Instrument conversion funnel analytics for search and discovery: exposed, clicke
  */
 'use strict';
 
