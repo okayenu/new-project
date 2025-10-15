@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Create atomic order-creation flow for merchant operations with idempotency keys 
+ * Task: Instrument conversion funnel analytics for merchant operations: exposed, clicked
  */
 'use strict';
 
