@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Add UI one-click affordances for checkout orchestration with confirmation microc
+ * Task: Create atomic order-creation flow for checkout orchestration with idempotency ke
  */
 'use strict';
 
