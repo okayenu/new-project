@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Create atomic order-creation flow for community experiences with idempotency key
+ * Task: Instrument conversion funnel analytics for community experiences: exposed, click
  */
 'use strict';
 
