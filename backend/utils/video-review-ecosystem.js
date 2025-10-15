@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Add UI one-click affordances for video review ecosystem with confirmation microc
+ * Task: Design one-click checkout architecture for video review ecosystem with tokenized
  */
 'use strict';
 
