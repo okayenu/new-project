@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Add UI one-click affordances for 3D product rendering with confirmation microcop
+ * Task: Design one-click checkout architecture for 3D product rendering with tokenized p
  */
 'use strict';
 
