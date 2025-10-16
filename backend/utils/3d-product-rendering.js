@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Instrument conversion funnel analytics for 3D product rendering: exposed, clicke
+ * Task: Add UI one-click affordances for 3D product rendering with confirmation microcop
  */
 'use strict';
 
