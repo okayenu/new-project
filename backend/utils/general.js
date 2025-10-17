@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document compliance and audit trails for search and discovery payment-token life
+ * Task: Implement checkout eligibility service for video review ecosystem (saved address
  */
 'use strict';
 
