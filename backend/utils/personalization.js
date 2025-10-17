@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Add UI one-click affordances for personalization with confirmation microcopy and
+ * Task: Create atomic order-creation flow for personalization with idempotency keys and 
  */
 'use strict';
 
