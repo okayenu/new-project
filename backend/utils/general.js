@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement checkout eligibility service for shopping assistant (saved address, pa
+ * Task: Integrate payment provider fast-path API for recommendation quality and map prov
  */
 'use strict';
 
