@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Create atomic order-creation flow for checkout orchestration with idempotency ke
+ * Task: Instrument conversion funnel analytics for checkout orchestration: exposed, clic
  */
 'use strict';
 
