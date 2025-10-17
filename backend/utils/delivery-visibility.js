@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Instrument conversion funnel analytics for delivery visibility: exposed, clicked
+ * Task: Add UI one-click affordances for delivery visibility with confirmation microcopy
  */
 'use strict';
 
