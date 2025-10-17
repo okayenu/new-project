@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement checkout eligibility service for video review ecosystem (saved address
+ * Task: Integrate payment provider fast-path API for checkout orchestration and map prov
  */
 'use strict';
 
