@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Add UI one-click affordances for catalog intelligence with confirmation microcop
+ * Task: Create atomic order-creation flow for catalog intelligence with idempotency keys
  */
 'use strict';
 
