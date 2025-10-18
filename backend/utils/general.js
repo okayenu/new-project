@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement risk checks for search and discovery one-click orders (velocity limits
+ * Task: Implement risk checks for merchant operations one-click orders (velocity limits,
  */
 'use strict';
 
