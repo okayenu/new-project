@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Integrate payment provider fast-path API for checkout orchestration and map prov
+ * Task: Build latency budget dashboard for community experiences checkout path and enfor
  */
 'use strict';
 
