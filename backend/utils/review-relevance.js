@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Instrument conversion funnel analytics for review relevance: exposed, clicked, a
+ * Task: Add UI one-click affordances for review relevance with confirmation microcopy an
  */
 'use strict';
 
