@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Instrument conversion funnel analytics for search and discovery: exposed, clicke
+ * Task: Add UI one-click affordances for search and discovery with confirmation microcop
  */
 'use strict';
 
