@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Create atomic order-creation flow for catalog intelligence with idempotency keys
+ * Task: Instrument conversion funnel analytics for catalog intelligence: exposed, clicke
  */
 'use strict';
 
