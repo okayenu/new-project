@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Integrate payment provider fast-path API for personalization and map provider er
+ * Task: Write tests for delivery visibility race conditions (inventory contention, dupli
  */
 'use strict';
 
