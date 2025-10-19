@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Add UI one-click affordances for shopping assistant with confirmation microcopy 
+ * Task: Create atomic order-creation flow for shopping assistant with idempotency keys a
  */
 'use strict';
 
