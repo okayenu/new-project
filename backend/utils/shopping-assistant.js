@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Create atomic order-creation flow for shopping assistant with idempotency keys a
+ * Task: Add observability for shopping assistant: lag metrics, stale update detection, a
  */
 'use strict';
 
