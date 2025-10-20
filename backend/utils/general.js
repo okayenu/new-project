@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build latency budget dashboard for checkout orchestration checkout path and enfo
+ * Task: Implement notification triggers for review relevance milestones (out for deliver
  */
 'use strict';
 
