@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile real-time throughput for 3D product rendering and tune queue partitions/
+ * Task: Create incident replay tool for personalization to reconstruct package history f
  */
 'use strict';
 
