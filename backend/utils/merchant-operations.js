@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Instrument conversion funnel analytics for merchant operations: exposed, clicked
+ * Task: Define real-time tracking event schema for merchant operations with source integ
  */
 'use strict';
 
