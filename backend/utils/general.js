@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement notification triggers for review relevance milestones (out for deliver
+ * Task: Profile real-time throughput for 3D product rendering and tune queue partitions/
  */
 'use strict';
 
