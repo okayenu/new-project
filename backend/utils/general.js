@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create incident replay tool for personalization to reconstruct package history f
+ * Task: Document support playbook for recommendation quality tracking discrepancies and 
  */
 'use strict';
 
