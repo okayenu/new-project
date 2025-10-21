@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Instrument conversion funnel analytics for personalization: exposed, clicked, ap
+ * Task: Develop tracking timeline UI for personalization with live refresh, ETA confiden
  */
 'use strict';
 
