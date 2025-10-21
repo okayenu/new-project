@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement location update ingestion for search and discovery using websocket/SSE
+ * Task: Build delivery-state machine for delivery visibility (packed, dispatched, in-tra
  */
 'use strict';
 
