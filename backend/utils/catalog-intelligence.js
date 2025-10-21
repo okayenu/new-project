@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Instrument conversion funnel analytics for catalog intelligence: exposed, clicke
+ * Task: Develop tracking timeline UI for catalog intelligence with live refresh, ETA con
  */
 'use strict';
 
