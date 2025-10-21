@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Instrument conversion funnel analytics for community experiences: exposed, click
+ * Task: Define real-time tracking event schema for community experiences with source int
  */
 'use strict';
 
