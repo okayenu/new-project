@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Instrument conversion funnel analytics for checkout orchestration: exposed, clic
+ * Task: Add map visualization module for checkout orchestration with throttled updates a
  */
 'use strict';
 
