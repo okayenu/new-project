@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Instrument conversion funnel analytics for recommendation quality: exposed, clic
+ * Task: Add map visualization module for recommendation quality with throttled updates a
  */
 'use strict';
 
