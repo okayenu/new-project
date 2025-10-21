@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Create atomic order-creation flow for video review ecosystem with idempotency ke
+ * Task: Add observability for video review ecosystem: lag metrics, stale update detectio
  */
 'use strict';
 
