@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Develop tracking timeline UI for personalization with live refresh, ETA confiden
+ * Task: Add map visualization module for personalization with throttled updates and priv
  */
 'use strict';
 
