@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create incident replay tool for shopping assistant to reconstruct package histor
+ * Task: Document support playbook for personalization tracking discrepancies and carrier
  */
 'use strict';
 
