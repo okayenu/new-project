@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document support playbook for personalization tracking discrepancies and carrier
+ * Task: Implement location update ingestion for merchant operations using websocket/SSE 
  */
 'use strict';
 
