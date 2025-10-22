@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement location update ingestion for merchant operations using websocket/SSE 
+ * Task: Build delivery-state machine for review relevance (packed, dispatched, in-transi
  */
 'use strict';
 
