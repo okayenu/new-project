@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Add map visualization module for recommendation quality with throttled updates a
+ * Task: Define real-time tracking event schema for recommendation quality with source in
  */
 'use strict';
 
