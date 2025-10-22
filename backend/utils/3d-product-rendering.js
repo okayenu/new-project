@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Design one-click checkout architecture for 3D product rendering with tokenized p
+ * Task: Add observability for 3D product rendering: lag metrics, stale update detection,
  */
 'use strict';
 
