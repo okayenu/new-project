@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document support playbook for catalog intelligence tracking discrepancies and ca
+ * Task: Implement location update ingestion for community experiences using websocket/SS
  */
 'use strict';
 
