@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Design one-click checkout architecture for delivery visibility with tokenized pa
+ * Task: Integrate carrier adapters for delivery visibility with normalized status mappin
  */
 'use strict';
 
