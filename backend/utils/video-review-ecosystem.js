@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Integrate carrier adapters for video review ecosystem with normalized status map
+ * Task: Develop tracking timeline UI for video review ecosystem with live refresh, ETA c
  */
 'use strict';
 
