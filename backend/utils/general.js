@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build delivery-state machine for review relevance (packed, dispatched, in-transi
+ * Task: Write tests for recommendation quality out-of-order events and duplicate message
  */
 'use strict';
 
