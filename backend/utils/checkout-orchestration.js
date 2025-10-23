@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Add map visualization module for checkout orchestration with throttled updates a
+ * Task: Define real-time tracking event schema for checkout orchestration with source in
  */
 'use strict';
 
