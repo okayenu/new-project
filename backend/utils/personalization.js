@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Add map visualization module for personalization with throttled updates and priv
+ * Task: Define real-time tracking event schema for personalization with source integrity
  */
 'use strict';
 
