@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Integrate carrier adapters for 3D product rendering with normalized status mappi
+ * Task: Develop tracking timeline UI for 3D product rendering with live refresh, ETA con
  */
 'use strict';
 
