@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for personalization out-of-order events and duplicate message handli
+ * Task: Implement notification triggers for recommendation quality milestones (out for d
  */
 'use strict';
 
