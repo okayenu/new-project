@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Design one-click checkout architecture for review relevance with tokenized payme
+ * Task: Integrate carrier adapters for review relevance with normalized status mapping a
  */
 'use strict';
 
