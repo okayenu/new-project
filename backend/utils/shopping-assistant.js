@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Develop tracking timeline UI for shopping assistant with live refresh, ETA confi
+ * Task: Add map visualization module for shopping assistant with throttled updates and p
  */
 'use strict';
 
