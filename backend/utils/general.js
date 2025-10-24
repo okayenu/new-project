@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile real-time throughput for merchant operations and tune queue partitions/b
+ * Task: Create incident replay tool for 3D product rendering to reconstruct package hist
  */
 'use strict';
 
