@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for checkout orchestration out-of-order events and duplicate message
+ * Task: Implement notification triggers for community experiences milestones (out for de
  */
 'use strict';
 
