@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Integrate carrier adapters for review relevance with normalized status mapping a
+ * Task: Add observability for review relevance: lag metrics, stale update detection, and
  */
 'use strict';
 
