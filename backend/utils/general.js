@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement notification triggers for recommendation quality milestones (out for d
+ * Task: Profile real-time throughput for merchant operations and tune queue partitions/b
  */
 'use strict';
 
