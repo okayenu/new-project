@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Develop tracking timeline UI for video review ecosystem with live refresh, ETA c
+ * Task: Add map visualization module for video review ecosystem with throttled updates a
  */
 'use strict';
 
