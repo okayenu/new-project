@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Design one-click checkout architecture for search and discovery with tokenized p
+ * Task: Integrate carrier adapters for search and discovery with normalized status mappi
  */
 'use strict';
 
