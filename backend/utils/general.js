@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create incident replay tool for 3D product rendering to reconstruct package hist
+ * Task: Implement location update ingestion for checkout orchestration using websocket/S
  */
 'use strict';
 
