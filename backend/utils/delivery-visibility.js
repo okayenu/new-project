@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Integrate carrier adapters for delivery visibility with normalized status mappin
+ * Task: Develop tracking timeline UI for delivery visibility with live refresh, ETA conf
  */
 'use strict';
 
