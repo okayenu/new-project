@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Develop tracking timeline UI for 3D product rendering with live refresh, ETA con
+ * Task: Add map visualization module for 3D product rendering with throttled updates and
  */
 'use strict';
 
