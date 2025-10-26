@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement notification triggers for personalization milestones (out for delivery
+ * Task: Profile real-time throughput for recommendation quality and tune queue partition
  */
 'use strict';
 
