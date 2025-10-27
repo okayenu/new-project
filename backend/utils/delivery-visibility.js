@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Develop tracking timeline UI for delivery visibility with live refresh, ETA conf
+ * Task: Add map visualization module for delivery visibility with throttled updates and 
  */
 'use strict';
 
