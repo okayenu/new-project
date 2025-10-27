@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Integrate carrier adapters for community experiences with normalized status mapp
+ * Task: Add observability for community experiences: lag metrics, stale update detection
  */
 'use strict';
 
