@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for video review ecosystem out-of-order events and duplicate message
+ * Task: Implement notification triggers for catalog intelligence milestones (out for del
  */
 'use strict';
 
