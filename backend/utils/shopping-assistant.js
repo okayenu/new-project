@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Add map visualization module for shopping assistant with throttled updates and p
+ * Task: Define real-time tracking event schema for shopping assistant with source integr
  */
 'use strict';
 
