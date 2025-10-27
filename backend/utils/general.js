@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build delivery-state machine for checkout orchestration (packed, dispatched, in-
+ * Task: Write tests for video review ecosystem out-of-order events and duplicate message
  */
 'use strict';
 
