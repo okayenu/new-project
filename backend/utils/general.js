@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document support playbook for 3D product rendering tracking discrepancies and ca
+ * Task: Build delivery-state machine for checkout orchestration (packed, dispatched, in-
  */
 'use strict';
 
