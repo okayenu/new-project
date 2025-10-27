@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Define real-time tracking event schema for community experiences with source int
+ * Task: Integrate carrier adapters for community experiences with normalized status mapp
  */
 'use strict';
 
