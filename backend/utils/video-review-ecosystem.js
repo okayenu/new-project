@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Add map visualization module for video review ecosystem with throttled updates a
+ * Task: Define real-time tracking event schema for video review ecosystem with source in
  */
 'use strict';
 
