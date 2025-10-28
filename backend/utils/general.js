@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement location update ingestion for catalog intelligence using websocket/SSE
+ * Task: Write tests for 3D product rendering out-of-order events and duplicate message h
  */
 'use strict';
 
