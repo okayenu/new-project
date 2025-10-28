@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Integrate carrier adapters for recommendation quality with normalized status map
+ * Task: Add observability for recommendation quality: lag metrics, stale update detectio
  */
 'use strict';
 
