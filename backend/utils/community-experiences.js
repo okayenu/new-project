@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Add observability for community experiences: lag metrics, stale update detection
+ * Task: Develop tracking timeline UI for community experiences with live refresh, ETA co
  */
 'use strict';
 
