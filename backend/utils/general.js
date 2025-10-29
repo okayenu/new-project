@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement notification triggers for video review ecosystem milestones (out for d
+ * Task: Profile real-time throughput for catalog intelligence and tune queue partitions/
  */
 'use strict';
 
