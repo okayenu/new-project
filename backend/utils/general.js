@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document support playbook for review relevance tracking discrepancies and carrie
+ * Task: Implement location update ingestion for shopping assistant using websocket/SSE b
  */
 'use strict';
 
