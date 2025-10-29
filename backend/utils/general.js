@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for delivery visibility out-of-order events and duplicate message ha
+ * Task: Implement notification triggers for video review ecosystem milestones (out for d
  */
 'use strict';
 
