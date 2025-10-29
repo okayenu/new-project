@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Develop tracking timeline UI for search and discovery with live refresh, ETA con
+ * Task: Add map visualization module for search and discovery with throttled updates and
  */
 'use strict';
 
