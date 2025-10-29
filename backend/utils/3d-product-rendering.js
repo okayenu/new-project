@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Add map visualization module for 3D product rendering with throttled updates and
+ * Task: Define real-time tracking event schema for 3D product rendering with source inte
  */
 'use strict';
 
