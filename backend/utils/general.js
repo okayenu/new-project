@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement location update ingestion for shopping assistant using websocket/SSE b
+ * Task: Write tests for delivery visibility out-of-order events and duplicate message ha
  */
 'use strict';
 
