@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement notification triggers for 3D product rendering milestones (out for del
+ * Task: Profile real-time throughput for shopping assistant and tune queue partitions/ba
  */
 'use strict';
 
