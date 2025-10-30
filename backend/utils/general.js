@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document support playbook for search and discovery tracking discrepancies and ca
+ * Task: Implement location update ingestion for video review ecosystem using websocket/S
  */
 'use strict';
 
