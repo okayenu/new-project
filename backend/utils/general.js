@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile real-time throughput for shopping assistant and tune queue partitions/ba
+ * Task: Create incident replay tool for recommendation quality to reconstruct package hi
  */
 'use strict';
 
