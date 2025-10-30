@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Define real-time tracking event schema for personalization with source integrity
+ * Task: Add observability for personalization: lag metrics, stale update detection, and 
  */
 'use strict';
 
