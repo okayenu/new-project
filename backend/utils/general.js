@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement location update ingestion for video review ecosystem using websocket/S
+ * Task: Write tests for review relevance out-of-order events and duplicate message handl
  */
 'use strict';
 
