@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Add map visualization module for review relevance with throttled updates and pri
+ * Task: Define real-time tracking event schema for review relevance with source integrit
  */
 'use strict';
 
