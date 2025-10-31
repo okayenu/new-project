@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement location update ingestion for 3D product rendering using websocket/SSE
+ * Task: Build delivery-state machine for shopping assistant (packed, dispatched, in-tran
  */
 'use strict';
 
