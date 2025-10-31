@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document support playbook for merchant operations tracking discrepancies and car
+ * Task: Implement location update ingestion for 3D product rendering using websocket/SSE
  */
 'use strict';
 
