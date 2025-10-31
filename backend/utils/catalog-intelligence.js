@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Define real-time tracking event schema for catalog intelligence with source inte
+ * Task: Add observability for catalog intelligence: lag metrics, stale update detection,
  */
 'use strict';
 
