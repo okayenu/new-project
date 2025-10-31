@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build delivery-state machine for shopping assistant (packed, dispatched, in-tran
+ * Task: Write tests for search and discovery out-of-order events and duplicate message h
  */
 'use strict';
 
