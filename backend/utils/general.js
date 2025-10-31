@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement notification triggers for delivery visibility milestones (out for deli
+ * Task: Profile real-time throughput for video review ecosystem and tune queue partition
  */
 'use strict';
 
