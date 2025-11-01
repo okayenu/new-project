@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Add observability for personalization: lag metrics, stale update detection, and 
+ * Task: Develop tracking timeline UI for personalization with live refresh, ETA confiden
  */
 'use strict';
 
