@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Define real-time tracking event schema for shopping assistant with source integr
+ * Task: Add observability for shopping assistant: lag metrics, stale update detection, a
  */
 'use strict';
 
