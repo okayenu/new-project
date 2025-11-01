@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Add observability for catalog intelligence: lag metrics, stale update detection,
+ * Task: Integrate carrier adapters for catalog intelligence with normalized status mappi
  */
 'use strict';
 
