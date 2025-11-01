@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Add observability for shopping assistant: lag metrics, stale update detection, a
+ * Task: Integrate carrier adapters for shopping assistant with normalized status mapping
  */
 'use strict';
 
