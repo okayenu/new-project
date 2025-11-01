@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Add map visualization module for merchant operations with throttled updates and 
+ * Task: Define real-time tracking event schema for merchant operations with source integ
  */
 'use strict';
 
