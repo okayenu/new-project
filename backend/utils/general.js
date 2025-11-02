@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile real-time throughput for delivery visibility and tune queue partitions/b
+ * Task: Create incident replay tool for catalog intelligence to reconstruct package hist
  */
 'use strict';
 
