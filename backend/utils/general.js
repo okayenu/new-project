@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document support playbook for checkout orchestration tracking discrepancies and 
+ * Task: Implement location update ingestion for search and discovery using websocket/SSE
  */
 'use strict';
 
