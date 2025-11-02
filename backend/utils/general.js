@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build delivery-state machine for 3D product rendering (packed, dispatched, in-tr
+ * Task: Profile real-time throughput for delivery visibility and tune queue partitions/b
  */
 'use strict';
 
