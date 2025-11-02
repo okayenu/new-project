@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Develop tracking timeline UI for community experiences with live refresh, ETA co
+ * Task: Define real-time tracking event schema for community experiences with source int
  */
 'use strict';
 
