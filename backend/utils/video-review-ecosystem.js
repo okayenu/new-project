@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Define real-time tracking event schema for video review ecosystem with source in
+ * Task: Add observability for video review ecosystem: lag metrics, stale update detectio
  */
 'use strict';
 
