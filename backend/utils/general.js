@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for community experiences out-of-order events and duplicate message 
+ * Task: Implement notification triggers for search and discovery milestones (out for del
  */
 'use strict';
 
