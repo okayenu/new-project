@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Integrate carrier adapters for catalog intelligence with normalized status mappi
+ * Task: Develop tracking timeline UI for catalog intelligence with live refresh, ETA con
  */
 'use strict';
 
