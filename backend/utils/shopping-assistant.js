@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Integrate carrier adapters for shopping assistant with normalized status mapping
+ * Task: Develop tracking timeline UI for shopping assistant with live refresh, ETA confi
  */
 'use strict';
 
