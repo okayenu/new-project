@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Define real-time tracking event schema for 3D product rendering with source inte
+ * Task: Add observability for 3D product rendering: lag metrics, stale update detection,
  */
 'use strict';
 
