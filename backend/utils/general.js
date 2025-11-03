@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build delivery-state machine for delivery visibility (packed, dispatched, in-tra
+ * Task: Write tests for community experiences out-of-order events and duplicate message 
  */
 'use strict';
 
