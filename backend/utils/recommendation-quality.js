@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Add observability for recommendation quality: lag metrics, stale update detectio
+ * Task: Define real-time tracking event schema for recommendation quality with source in
  */
 'use strict';
 
