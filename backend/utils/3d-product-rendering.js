@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Add observability for 3D product rendering: lag metrics, stale update detection,
+ * Task: Integrate carrier adapters for 3D product rendering with normalized status mappi
  */
 'use strict';
 
