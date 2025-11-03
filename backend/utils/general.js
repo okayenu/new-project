@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement notification triggers for search and discovery milestones (out for del
+ * Task: Profile real-time throughput for delivery visibility and tune queue partitions/b
  */
 'use strict';
 
