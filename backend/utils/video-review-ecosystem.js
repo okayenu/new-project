@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Integrate carrier adapters for video review ecosystem with normalized status map
+ * Task: Add observability for video review ecosystem: lag metrics, stale update detectio
  */
 'use strict';
 
