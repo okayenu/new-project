@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Add observability for checkout orchestration: lag metrics, stale update detectio
+ * Task: Add map visualization module for checkout orchestration with throttled updates a
  */
 'use strict';
 
