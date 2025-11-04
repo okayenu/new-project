@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for recommendation quality out-of-order events and duplicate message
+ * Task: Implement notification triggers for merchant operations milestones (out for deli
  */
 'use strict';
 
