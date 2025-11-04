@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Add observability for video review ecosystem: lag metrics, stale update detectio
+ * Task: Develop tracking timeline UI for video review ecosystem with live refresh, ETA c
  */
 'use strict';
 
