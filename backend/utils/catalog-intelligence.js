@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Develop tracking timeline UI for catalog intelligence with live refresh, ETA con
+ * Task: Add map visualization module for catalog intelligence with throttled updates and
  */
 'use strict';
 
