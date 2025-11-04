@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build delivery-state machine for search and discovery (packed, dispatched, in-tr
+ * Task: Write tests for checkout orchestration out-of-order events and duplicate message
  */
 'use strict';
 
