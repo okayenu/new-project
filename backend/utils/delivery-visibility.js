@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Define real-time tracking event schema for delivery visibility with source integ
+ * Task: Integrate carrier adapters for delivery visibility with normalized status mappin
  */
 'use strict';
 
