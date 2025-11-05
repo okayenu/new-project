@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document support playbook for shopping assistant tracking discrepancies and carr
+ * Task: Implement location update ingestion for recommendation quality using websocket/S
  */
 'use strict';
 
