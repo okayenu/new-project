@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement notification triggers for community experiences milestones (out for de
+ * Task: Document support playbook for shopping assistant tracking discrepancies and carr
  */
 'use strict';
 
