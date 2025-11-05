@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Define real-time tracking event schema for review relevance with source integrit
+ * Task: Integrate carrier adapters for review relevance with normalized status mapping a
  */
 'use strict';
 
