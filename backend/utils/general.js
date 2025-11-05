@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build delivery-state machine for merchant operations (packed, dispatched, in-tra
+ * Task: Write tests for personalization out-of-order events and duplicate message handli
  */
 'use strict';
 
