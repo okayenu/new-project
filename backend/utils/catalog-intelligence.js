@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Add map visualization module for catalog intelligence with throttled updates and
+ * Task: Define real-time tracking event schema for catalog intelligence with source inte
  */
 'use strict';
 
