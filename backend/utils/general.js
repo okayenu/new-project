@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create incident replay tool for 3D product rendering to reconstruct package hist
+ * Task: Document support playbook for shopping assistant tracking discrepancies and carr
  */
 'use strict';
 
