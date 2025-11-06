@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Integrate carrier adapters for search and discovery with normalized status mappi
+ * Task: Add observability for search and discovery: lag metrics, stale update detection,
  */
 'use strict';
 
