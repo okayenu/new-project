@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Define real-time tracking event schema for search and discovery with source inte
+ * Task: Integrate carrier adapters for search and discovery with normalized status mappi
  */
 'use strict';
 
