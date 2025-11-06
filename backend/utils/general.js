@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement notification triggers for checkout orchestration milestones (out for d
+ * Task: Profile real-time throughput for community experiences and tune queue partitions
  */
 'use strict';
 
