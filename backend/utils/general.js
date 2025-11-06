@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement location update ingestion for checkout orchestration using websocket/S
+ * Task: Build delivery-state machine for community experiences (packed, dispatched, in-t
  */
 'use strict';
 
