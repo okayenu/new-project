@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for catalog intelligence out-of-order events and duplicate message h
+ * Task: Implement notification triggers for checkout orchestration milestones (out for d
  */
 'use strict';
 
