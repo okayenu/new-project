@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Integrate carrier adapters for merchant operations with normalized status mappin
+ * Task: Add observability for merchant operations: lag metrics, stale update detection, 
  */
 'use strict';
 
