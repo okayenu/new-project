@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build delivery-state machine for recommendation quality (packed, dispatched, in-
+ * Task: Write tests for shopping assistant out-of-order events and duplicate message han
  */
 'use strict';
 
