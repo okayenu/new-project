@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Add observability for review relevance: lag metrics, stale update detection, and
+ * Task: Develop tracking timeline UI for review relevance with live refresh, ETA confide
  */
 'use strict';
 
