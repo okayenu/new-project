@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Define real-time tracking event schema for merchant operations with source integ
+ * Task: Integrate carrier adapters for merchant operations with normalized status mappin
  */
 'use strict';
 
