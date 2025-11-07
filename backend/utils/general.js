@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement location update ingestion for personalization using websocket/SSE brid
+ * Task: Build delivery-state machine for recommendation quality (packed, dispatched, in-
  */
 'use strict';
 
