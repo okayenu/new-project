@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for shopping assistant out-of-order events and duplicate message han
+ * Task: Implement notification triggers for personalization milestones (out for delivery
  */
 'use strict';
 
