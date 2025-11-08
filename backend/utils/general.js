@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Document support playbook for 3D product rendering tracking discrepancies and ca
+ * Task: Implement location update ingestion for personalization using websocket/SSE brid
  */
 'use strict';
 
