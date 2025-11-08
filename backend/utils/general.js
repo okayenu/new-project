@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Profile real-time throughput for recommendation quality and tune queue partition
+ * Task: Create incident replay tool for review relevance to reconstruct package history 
  */
 'use strict';
 
