@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement notification triggers for catalog intelligence milestones (out for del
+ * Task: Profile real-time throughput for checkout orchestration and tune queue partition
  */
 'use strict';
 
