@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Add observability for search and discovery: lag metrics, stale update detection,
+ * Task: Develop tracking timeline UI for search and discovery with live refresh, ETA con
  */
 'use strict';
 
