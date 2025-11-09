@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement notification triggers for shopping assistant milestones (out for deliv
+ * Task: Profile real-time throughput for personalization and tune queue partitions/backo
  */
 'use strict';
 
