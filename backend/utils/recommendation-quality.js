@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Define real-time tracking event schema for recommendation quality with source in
+ * Task: Integrate carrier adapters for recommendation quality with normalized status map
  */
 'use strict';
 
