@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Develop tracking timeline UI for review relevance with live refresh, ETA confide
+ * Task: Add map visualization module for review relevance with throttled updates and pri
  */
 'use strict';
 
