@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Add observability for merchant operations: lag metrics, stale update detection, 
+ * Task: Develop tracking timeline UI for merchant operations with live refresh, ETA conf
  */
 'use strict';
 
