@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for 3D product rendering out-of-order events and duplicate message h
+ * Task: Implement notification triggers for shopping assistant milestones (out for deliv
  */
 'use strict';
 
