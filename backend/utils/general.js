@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement location update ingestion for shopping assistant using websocket/SSE b
+ * Task: Build delivery-state machine for personalization (packed, dispatched, in-transit
  */
 'use strict';
 
