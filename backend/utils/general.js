@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build delivery-state machine for personalization (packed, dispatched, in-transit
+ * Task: Write tests for delivery visibility out-of-order events and duplicate message ha
  */
 'use strict';
 
