@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Define real-time tracking event schema for checkout orchestration with source in
+ * Task: Add observability for checkout orchestration: lag metrics, stale update detectio
  */
 'use strict';
 
