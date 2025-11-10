@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Add map visualization module for delivery visibility with throttled updates and 
+ * Task: Define real-time tracking event schema for delivery visibility with source integ
  */
 'use strict';
 
