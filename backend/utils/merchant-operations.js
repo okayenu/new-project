@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Develop tracking timeline UI for merchant operations with live refresh, ETA conf
+ * Task: Add map visualization module for merchant operations with throttled updates and 
  */
 'use strict';
 
