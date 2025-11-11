@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build delivery-state machine for catalog intelligence (packed, dispatched, in-tr
+ * Task: Write tests for review relevance out-of-order events and duplicate message handl
  */
 'use strict';
 
