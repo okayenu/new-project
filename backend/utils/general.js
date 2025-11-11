@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for review relevance out-of-order events and duplicate message handl
+ * Task: Implement notification triggers for 3D product rendering milestones (out for del
  */
 'use strict';
 
