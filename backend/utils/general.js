@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement location update ingestion for video review ecosystem using websocket/S
+ * Task: Build delivery-state machine for catalog intelligence (packed, dispatched, in-tr
  */
 'use strict';
 
