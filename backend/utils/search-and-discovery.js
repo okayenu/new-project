@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Add map visualization module for search and discovery with throttled updates and
+ * Task: Define real-time tracking event schema for search and discovery with source inte
  */
 'use strict';
 
