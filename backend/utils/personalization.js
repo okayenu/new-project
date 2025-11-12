@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Add observability for personalization: lag metrics, stale update detection, and 
+ * Task: Integrate carrier adapters for personalization with normalized status mapping an
  */
 'use strict';
 
