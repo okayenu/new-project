@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for search and discovery out-of-order events and duplicate message h
+ * Task: Implement notification triggers for delivery visibility milestones (out for deli
  */
 'use strict';
 
