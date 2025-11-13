@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement location update ingestion for delivery visibility using websocket/SSE 
+ * Task: Build delivery-state machine for video review ecosystem (packed, dispatched, in-
  */
 'use strict';
 
