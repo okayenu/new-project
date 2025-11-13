@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Implement location update ingestion for review relevance using websocket/SSE bri
+ * Task: Build delivery-state machine for 3D product rendering (packed, dispatched, in-tr
  */
 'use strict';
 
