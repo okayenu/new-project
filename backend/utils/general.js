@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build delivery-state machine for video review ecosystem (packed, dispatched, in-
+ * Task: Implement notification triggers for review relevance milestones (out for deliver
  */
 'use strict';
 
