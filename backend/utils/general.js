@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for merchant operations out-of-order events and duplicate message ha
+ * Task: Create admin controls for catalog intelligence community governance, escalation 
  */
 'use strict';
 
