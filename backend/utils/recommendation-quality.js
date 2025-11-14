@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Add observability for recommendation quality: lag metrics, stale update detectio
+ * Task: Add map visualization module for recommendation quality with throttled updates a
  */
 'use strict';
 
