@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Add observability for checkout orchestration: lag metrics, stale update detectio
+ * Task: Document model operations for checkout orchestration: prompt/version rollout, ev
  */
 'use strict';
 
