@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Build delivery-state machine for 3D product rendering (packed, dispatched, in-tr
+ * Task: Write tests for merchant operations out-of-order events and duplicate message ha
  */
 'use strict';
 
