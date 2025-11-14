@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Define real-time tracking event schema for search and discovery with source inte
+ * Task: Implement prompt orchestration layer for search and discovery with retrieval hoo
  */
 'use strict';
 
