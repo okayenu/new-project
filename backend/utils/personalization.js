@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Integrate carrier adapters for personalization with normalized status mapping an
+ * Task: Develop tracking timeline UI for personalization with live refresh, ETA confiden
  */
 'use strict';
 
