@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Document model operations for checkout orchestration: prompt/version rollout, ev
+ * Task: Develop shared-list and group recommendation features for checkout orchestration
  */
 'use strict';
 
