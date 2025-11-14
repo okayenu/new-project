@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Integrate carrier adapters for catalog intelligence with normalized status mappi
+ * Task: Implement group chat service for catalog intelligence with moderation filters, r
  */
 'use strict';
 
