@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Define real-time tracking event schema for merchant operations with source integ
+ * Task: Implement prompt orchestration layer for merchant operations with retrieval hook
  */
 'use strict';
 
