@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add AI-to-social bridge for community experiences so assistant can suggest relev
+ * Task: Create admin controls for shopping assistant community governance, escalation wo
  */
 'use strict';
 
