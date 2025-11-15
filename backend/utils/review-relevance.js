@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Define real-time tracking event schema for review relevance with source integrit
+ * Task: Build recommendation dialogue actions for review relevance: refine intent, compa
  */
 'use strict';
 
