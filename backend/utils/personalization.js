@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Develop tracking timeline UI for personalization with live refresh, ETA confiden
+ * Task: Document model operations for personalization: prompt/version rollout, evaluatio
  */
 'use strict';
 
