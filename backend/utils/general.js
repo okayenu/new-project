@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create admin controls for shopping assistant community governance, escalation wo
+ * Task: Create social-interest graph schema for 3D product rendering linking users, tags
  */
 'use strict';
 
