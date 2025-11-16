@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Document model operations for catalog intelligence: prompt/version rollout, eval
+ * Task: Develop shared-list and group recommendation features for catalog intelligence w
  */
 'use strict';
 
