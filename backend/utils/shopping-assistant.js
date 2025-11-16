@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Integrate carrier adapters for shopping assistant with normalized status mapping
+ * Task: Implement group chat service for shopping assistant with moderation filters, rat
  */
 'use strict';
 
