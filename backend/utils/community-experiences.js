@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Develop tracking timeline UI for community experiences with live refresh, ETA co
+ * Task: Implement prompt orchestration layer for community experiences with retrieval ho
  */
 'use strict';
 
