@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Define real-time tracking event schema for video review ecosystem with source in
+ * Task: Implement group chat service for video review ecosystem with moderation filters,
  */
 'use strict';
 
