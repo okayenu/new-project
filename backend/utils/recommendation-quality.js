@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Add map visualization module for recommendation quality with throttled updates a
+ * Task: Implement prompt orchestration layer for recommendation quality with retrieval h
  */
 'use strict';
 
