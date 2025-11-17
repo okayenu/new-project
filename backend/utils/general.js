@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create social-interest graph schema for delivery visibility linking users, tags,
+ * Task: Add AI-to-social bridge for checkout orchestration so assistant can suggest rele
  */
 'use strict';
 
