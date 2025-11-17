@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add AI-to-social bridge for personalization so assistant can suggest relevant co
+ * Task: Write tests for recommendation quality safety policy enforcement, prompt injecti
  */
 'use strict';
 
