@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Document model operations for shopping assistant: prompt/version rollout, evalua
+ * Task: Develop shared-list and group recommendation features for shopping assistant wit
  */
 'use strict';
 
