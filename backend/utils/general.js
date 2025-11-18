@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create social-interest graph schema for search and discovery linking users, tags
+ * Task: Add AI-to-social bridge for catalog intelligence so assistant can suggest releva
  */
 'use strict';
 
