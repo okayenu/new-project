@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create admin controls for 3D product rendering community governance, escalation 
+ * Task: Create social-interest graph schema for search and discovery linking users, tags
  */
 'use strict';
 
