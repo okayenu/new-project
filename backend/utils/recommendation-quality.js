@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Implement prompt orchestration layer for recommendation quality with retrieval h
+ * Task: Build recommendation dialogue actions for recommendation quality: refine intent,
  */
 'use strict';
 
