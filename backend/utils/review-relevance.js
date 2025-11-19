@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Build recommendation dialogue actions for review relevance: refine intent, compa
+ * Task: Implement group chat service for review relevance with moderation filters, rate 
  */
 'use strict';
 
