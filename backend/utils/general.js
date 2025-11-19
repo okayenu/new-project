@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for checkout orchestration safety policy enforcement, prompt injecti
+ * Task: Create social-interest graph schema for merchant operations linking users, tags,
  */
 'use strict';
 
