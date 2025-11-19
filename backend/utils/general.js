@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add AI-to-social bridge for shopping assistant so assistant can suggest relevant
+ * Task: Write tests for personalization safety policy enforcement, prompt injection resi
  */
 'use strict';
 
