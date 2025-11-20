@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add AI-to-social bridge for video review ecosystem so assistant can suggest rele
+ * Task: Write tests for catalog intelligence safety policy enforcement, prompt injection
  */
 'use strict';
 
