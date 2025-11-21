@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Build recommendation dialogue actions for merchant operations: refine intent, co
+ * Task: Implement group chat service for merchant operations with moderation filters, ra
  */
 'use strict';
 
