@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Develop shared-list and group recommendation features for delivery visibility wi
+ * Task: Document model operations for delivery visibility: prompt/version rollout, evalu
  */
 'use strict';
 
