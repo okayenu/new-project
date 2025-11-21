@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Implement group chat service for review relevance with moderation filters, rate 
+ * Task: Develop shared-list and group recommendation features for review relevance with 
  */
 'use strict';
 
