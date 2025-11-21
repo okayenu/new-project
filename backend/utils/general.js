@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create social-interest graph schema for recommendation quality linking users, ta
+ * Task: Add AI-to-social bridge for 3D product rendering so assistant can suggest releva
  */
 'use strict';
 
