@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Develop shared-list and group recommendation features for search and discovery w
+ * Task: Document model operations for search and discovery: prompt/version rollout, eval
  */
 'use strict';
 
