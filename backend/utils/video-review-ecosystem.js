@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Develop shared-list and group recommendation features for video review ecosystem
+ * Task: Implement prompt orchestration layer for video review ecosystem with retrieval h
  */
 'use strict';
 
