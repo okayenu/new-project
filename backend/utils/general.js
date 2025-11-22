@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for video review ecosystem safety policy enforcement, prompt injecti
+ * Task: Create admin controls for community experiences community governance, escalation
  */
 'use strict';
 
