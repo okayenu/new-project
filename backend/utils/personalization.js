@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Implement prompt orchestration layer for personalization with retrieval hooks in
+ * Task: Build recommendation dialogue actions for personalization: refine intent, compar
  */
 'use strict';
 
