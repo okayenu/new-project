@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Build recommendation dialogue actions for community experiences: refine intent, 
+ * Task: Implement group chat service for community experiences with moderation filters, 
  */
 'use strict';
 
