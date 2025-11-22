@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create admin controls for merchant operations community governance, escalation w
+ * Task: Add AI-to-social bridge for delivery visibility so assistant can suggest relevan
  */
 'use strict';
 
