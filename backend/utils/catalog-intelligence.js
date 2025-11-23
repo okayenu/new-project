@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Develop shared-list and group recommendation features for catalog intelligence w
+ * Task: Build recommendation dialogue actions for catalog intelligence: refine intent, c
  */
 'use strict';
 
