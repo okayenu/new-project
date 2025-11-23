@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Develop shared-list and group recommendation features for 3D product rendering w
+ * Task: Implement prompt orchestration layer for 3D product rendering with retrieval hoo
  */
 'use strict';
 
