@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Implement group chat service for merchant operations with moderation filters, ra
+ * Task: Develop shared-list and group recommendation features for merchant operations wi
  */
 'use strict';
 
