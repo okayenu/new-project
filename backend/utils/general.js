@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create admin controls for community experiences community governance, escalation
+ * Task: Create social-interest graph schema for checkout orchestration linking users, ta
  */
 'use strict';
 
