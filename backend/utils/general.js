@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add AI-to-social bridge for review relevance so assistant can suggest relevant c
+ * Task: Write tests for 3D product rendering safety policy enforcement, prompt injection
  */
 'use strict';
 
