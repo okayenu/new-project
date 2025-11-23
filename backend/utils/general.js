@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for 3D product rendering safety policy enforcement, prompt injection
+ * Task: Create admin controls for recommendation quality community governance, escalatio
  */
 'use strict';
 
