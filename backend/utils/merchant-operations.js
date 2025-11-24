@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Document model operations for merchant operations: prompt/version rollout, evalu
+ * Task: Develop shared-list and group recommendation features for merchant operations wi
  */
 'use strict';
 
