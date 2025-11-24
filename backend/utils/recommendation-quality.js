@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Build recommendation dialogue actions for recommendation quality: refine intent,
+ * Task: Implement group chat service for recommendation quality with moderation filters,
  */
 'use strict';
 
