@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Document model operations for delivery visibility: prompt/version rollout, evalu
+ * Task: Implement prompt orchestration layer for delivery visibility with retrieval hook
  */
 'use strict';
 
