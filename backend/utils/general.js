@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add AI-to-social bridge for search and discovery so assistant can suggest releva
+ * Task: Write tests for delivery visibility safety policy enforcement, prompt injection 
  */
 'use strict';
 
