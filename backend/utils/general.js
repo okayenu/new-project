@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create admin controls for recommendation quality community governance, escalatio
+ * Task: Create social-interest graph schema for personalization linking users, tags, gro
  */
 'use strict';
 
