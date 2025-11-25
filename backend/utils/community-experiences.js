@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Document model operations for community experiences: prompt/version rollout, eva
+ * Task: Develop shared-list and group recommendation features for community experiences 
  */
 'use strict';
 
