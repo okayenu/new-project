@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Implement group chat service for recommendation quality with moderation filters,
+ * Task: Document model operations for recommendation quality: prompt/version rollout, ev
  */
 'use strict';
 
