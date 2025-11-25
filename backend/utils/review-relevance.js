@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Document model operations for review relevance: prompt/version rollout, evaluati
+ * Task: Implement prompt orchestration layer for review relevance with retrieval hooks i
  */
 'use strict';
 
