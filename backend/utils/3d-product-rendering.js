@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Implement prompt orchestration layer for 3D product rendering with retrieval hoo
+ * Task: Build recommendation dialogue actions for 3D product rendering: refine intent, c
  */
 'use strict';
 
