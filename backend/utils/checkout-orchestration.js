@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Build recommendation dialogue actions for checkout orchestration: refine intent,
+ * Task: Implement group chat service for checkout orchestration with moderation filters,
  */
 'use strict';
 
