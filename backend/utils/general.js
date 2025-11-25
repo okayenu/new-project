@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for review relevance safety policy enforcement, prompt injection res
+ * Task: Create admin controls for personalization community governance, escalation workf
  */
 'use strict';
 
