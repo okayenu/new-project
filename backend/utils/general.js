@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create admin controls for checkout orchestration community governance, escalatio
+ * Task: Create social-interest graph schema for catalog intelligence linking users, tags
  */
 'use strict';
 
