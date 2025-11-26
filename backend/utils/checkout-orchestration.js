@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Implement group chat service for checkout orchestration with moderation filters,
+ * Task: Document model operations for checkout orchestration: prompt/version rollout, ev
  */
 'use strict';
 
