@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Build recommendation dialogue actions for personalization: refine intent, compar
+ * Task: Implement group chat service for personalization with moderation filters, rate l
  */
 'use strict';
 
