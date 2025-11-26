@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Document model operations for recommendation quality: prompt/version rollout, ev
+ * Task: Develop shared-list and group recommendation features for recommendation quality
  */
 'use strict';
 
