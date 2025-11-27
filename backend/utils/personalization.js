@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Implement group chat service for personalization with moderation filters, rate l
+ * Task: Document model operations for personalization: prompt/version rollout, evaluatio
  */
 'use strict';
 
