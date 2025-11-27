@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Build recommendation dialogue actions for catalog intelligence: refine intent, c
+ * Task: Implement group chat service for catalog intelligence with moderation filters, r
  */
 'use strict';
 
