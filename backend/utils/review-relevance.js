@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Implement prompt orchestration layer for review relevance with retrieval hooks i
+ * Task: Build recommendation dialogue actions for review relevance: refine intent, compa
  */
 'use strict';
 
