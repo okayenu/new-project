@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Implement prompt orchestration layer for delivery visibility with retrieval hook
+ * Task: Build recommendation dialogue actions for delivery visibility: refine intent, co
  */
 'use strict';
 
