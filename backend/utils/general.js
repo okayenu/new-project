@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create social-interest graph schema for video review ecosystem linking users, ta
+ * Task: Add AI-to-social bridge for community experiences so assistant can suggest relev
  */
 'use strict';
 
