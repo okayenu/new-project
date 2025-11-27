@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Develop shared-list and group recommendation features for merchant operations wi
+ * Task: Implement prompt orchestration layer for merchant operations with retrieval hook
  */
 'use strict';
 
