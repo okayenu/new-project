@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Implement prompt orchestration layer for search and discovery with retrieval hoo
+ * Task: Build recommendation dialogue actions for search and discovery: refine intent, c
  */
 'use strict';
 
