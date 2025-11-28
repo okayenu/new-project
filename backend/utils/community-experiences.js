@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Develop shared-list and group recommendation features for community experiences 
+ * Task: Implement prompt orchestration layer for community experiences with retrieval ho
  */
 'use strict';
 
