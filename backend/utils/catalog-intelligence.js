@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Implement group chat service for catalog intelligence with moderation filters, r
+ * Task: Document model operations for catalog intelligence: prompt/version rollout, eval
  */
 'use strict';
 
