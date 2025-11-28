@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Document model operations for personalization: prompt/version rollout, evaluatio
+ * Task: Develop shared-list and group recommendation features for personalization with c
  */
 'use strict';
 
