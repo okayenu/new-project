@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Build recommendation dialogue actions for video review ecosystem: refine intent,
+ * Task: Implement group chat service for video review ecosystem with moderation filters,
  */
 'use strict';
 
