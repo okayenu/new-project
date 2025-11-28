@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create admin controls for video review ecosystem community governance, escalatio
+ * Task: Create social-interest graph schema for delivery visibility linking users, tags,
  */
 'use strict';
 
