@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Develop shared-list and group recommendation features for recommendation quality
+ * Task: Implement prompt orchestration layer for recommendation quality with retrieval h
  */
 'use strict';
 
