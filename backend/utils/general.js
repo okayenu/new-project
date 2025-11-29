@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for community experiences safety policy enforcement, prompt injectio
+ * Task: Create social-interest graph schema for review relevance linking users, tags, gr
  */
 'use strict';
 
