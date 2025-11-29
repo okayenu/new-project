@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Build recommendation dialogue actions for 3D product rendering: refine intent, c
+ * Task: Implement group chat service for 3D product rendering with moderation filters, r
  */
 'use strict';
 
