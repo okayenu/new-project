@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add AI-to-social bridge for checkout orchestration so assistant can suggest rele
+ * Task: Write tests for community experiences safety policy enforcement, prompt injectio
  */
 'use strict';
 
