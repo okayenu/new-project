@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Implement prompt orchestration layer for merchant operations with retrieval hook
+ * Task: Build recommendation dialogue actions for merchant operations: refine intent, co
  */
 'use strict';
 
