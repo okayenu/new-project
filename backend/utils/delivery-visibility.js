@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Build recommendation dialogue actions for delivery visibility: refine intent, co
+ * Task: Implement group chat service for delivery visibility with moderation filters, ra
  */
 'use strict';
 
