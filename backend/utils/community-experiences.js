@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Implement prompt orchestration layer for community experiences with retrieval ho
+ * Task: Build recommendation dialogue actions for community experiences: refine intent, 
  */
 'use strict';
 
