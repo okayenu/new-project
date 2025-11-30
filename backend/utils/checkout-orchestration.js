@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Develop shared-list and group recommendation features for checkout orchestration
+ * Task: Implement prompt orchestration layer for checkout orchestration with retrieval h
  */
 'use strict';
 
