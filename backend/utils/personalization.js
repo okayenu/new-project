@@ -1,6 +1,6 @@
 /**
  * Personalization
- * Task: Develop shared-list and group recommendation features for personalization with c
+ * Task: Implement prompt orchestration layer for personalization with retrieval hooks in
  */
 'use strict';
 
