@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create admin controls for delivery visibility community governance, escalation w
+ * Task: Create social-interest graph schema for merchant operations linking users, tags,
  */
 'use strict';
 
