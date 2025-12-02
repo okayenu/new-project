@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Build recommendation dialogue actions for search and discovery: refine intent, c
+ * Task: Implement group chat service for search and discovery with moderation filters, r
  */
 'use strict';
 
