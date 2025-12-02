@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Develop shared-list and group recommendation features for 3D product rendering w
+ * Task: Document model operations for 3D product rendering: prompt/version rollout, eval
  */
 'use strict';
 
