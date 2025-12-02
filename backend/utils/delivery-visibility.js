@@ -1,6 +1,6 @@
 /**
  * Delivery Visibility
- * Task: Implement group chat service for delivery visibility with moderation filters, ra
+ * Task: Develop shared-list and group recommendation features for delivery visibility wi
  */
 'use strict';
 
