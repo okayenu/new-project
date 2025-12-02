@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for catalog intelligence safety policy enforcement, prompt injection
+ * Task: Create admin controls for search and discovery community governance, escalation 
  */
 'use strict';
 
