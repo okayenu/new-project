@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Implement prompt orchestration layer for checkout orchestration with retrieval h
+ * Task: Build recommendation dialogue actions for checkout orchestration: refine intent,
  */
 'use strict';
 
