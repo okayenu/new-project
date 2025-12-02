@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create admin controls for review relevance community governance, escalation work
+ * Task: Create social-interest graph schema for community experiences linking users, tag
  */
 'use strict';
 
