@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Develop shared-list and group recommendation features for catalog intelligence w
+ * Task: Implement prompt orchestration layer for catalog intelligence with retrieval hoo
  */
 'use strict';
 
