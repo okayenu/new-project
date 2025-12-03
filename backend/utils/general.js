@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add AI-to-social bridge for 3D product rendering so assistant can suggest releva
+ * Task: Write tests for shopping assistant safety policy enforcement, prompt injection r
  */
 'use strict';
 
