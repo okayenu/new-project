@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for shopping assistant safety policy enforcement, prompt injection r
+ * Task: Create admin controls for merchant operations community governance, escalation w
  */
 'use strict';
 
