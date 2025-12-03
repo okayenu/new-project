@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create social-interest graph schema for community experiences linking users, tag
+ * Task: Create social-interest graph schema for recommendation quality linking users, ta
  */
 'use strict';
 
