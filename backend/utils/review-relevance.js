@@ -1,6 +1,6 @@
 /**
  * Review Relevance
- * Task: Develop shared-list and group recommendation features for review relevance with 
+ * Task: Document model operations for review relevance: prompt/version rollout, evaluati
  */
 'use strict';
 
