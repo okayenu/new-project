@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Implement group chat service for search and discovery with moderation filters, r
+ * Task: Develop shared-list and group recommendation features for search and discovery w
  */
 'use strict';
 
