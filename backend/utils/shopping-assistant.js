@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Develop shared-list and group recommendation features for shopping assistant wit
+ * Task: Implement prompt orchestration layer for shopping assistant with retrieval hooks
  */
 'use strict';
 
