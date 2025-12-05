@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create admin controls for community experiences community governance, escalation
+ * Task: Add AI-to-social bridge for review relevance so assistant can suggest relevant c
  */
 'use strict';
 
