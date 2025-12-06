@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create admin controls for recommendation quality community governance, escalatio
+ * Task: Add AI-to-social bridge for search and discovery so assistant can suggest releva
  */
 'use strict';
 
