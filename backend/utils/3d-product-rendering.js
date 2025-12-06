@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Document model operations for 3D product rendering: prompt/version rollout, eval
+ * Task: Implement prompt orchestration layer for 3D product rendering with retrieval hoo
  */
 'use strict';
 
