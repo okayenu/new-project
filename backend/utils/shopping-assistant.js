@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Implement prompt orchestration layer for shopping assistant with retrieval hooks
+ * Task: Build recommendation dialogue actions for shopping assistant: refine intent, com
  */
 'use strict';
 
