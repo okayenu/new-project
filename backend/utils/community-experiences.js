@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Implement group chat service for community experiences with moderation filters, 
+ * Task: Document model operations for community experiences: prompt/version rollout, eva
  */
 'use strict';
 
