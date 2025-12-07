@@ -1,6 +1,6 @@
 /**
  * Recommendation Quality
- * Task: Build recommendation dialogue actions for recommendation quality: refine intent,
+ * Task: Document model operations for recommendation quality: prompt/version rollout, ev
  */
 'use strict';
 
