@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Implement prompt orchestration layer for video review ecosystem with retrieval h
+ * Task: Build recommendation dialogue actions for video review ecosystem: refine intent,
  */
 'use strict';
 
