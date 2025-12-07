@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create social-interest graph schema for catalog intelligence linking users, tags
+ * Task: Write tests for review relevance safety policy enforcement, prompt injection res
  */
 'use strict';
 
