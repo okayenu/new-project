@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create admin controls for catalog intelligence community governance, escalation 
+ * Task: Create social-interest graph schema for video review ecosystem linking users, ta
  */
 'use strict';
 
