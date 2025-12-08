@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create social-interest graph schema for shopping assistant linking users, tags, 
+ * Task: Create admin controls for catalog intelligence community governance, escalation 
  */
 'use strict';
 
