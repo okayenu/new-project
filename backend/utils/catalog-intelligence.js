@@ -1,6 +1,6 @@
 /**
  * Catalog Intelligence
- * Task: Implement prompt orchestration layer for catalog intelligence with retrieval hoo
+ * Task: Implement group chat service for catalog intelligence with moderation filters, r
  */
 'use strict';
 
