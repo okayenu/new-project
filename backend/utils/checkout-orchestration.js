@@ -1,6 +1,6 @@
 /**
  * Checkout Orchestration
- * Task: Build recommendation dialogue actions for checkout orchestration: refine intent,
+ * Task: Document model operations for checkout orchestration: prompt/version rollout, ev
  */
 'use strict';
 
