@@ -1,6 +1,6 @@
 /**
  * Search And Discovery
- * Task: Document model operations for search and discovery: prompt/version rollout, eval
+ * Task: Implement prompt orchestration layer for search and discovery with retrieval hoo
  */
 'use strict';
 
