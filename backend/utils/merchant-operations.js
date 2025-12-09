@@ -1,6 +1,6 @@
 /**
  * Merchant Operations
- * Task: Document model operations for merchant operations: prompt/version rollout, evalu
+ * Task: Implement prompt orchestration layer for merchant operations with retrieval hook
  */
 'use strict';
 
