@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Build recommendation dialogue actions for shopping assistant: refine intent, com
+ * Task: Implement group chat service for shopping assistant with moderation filters, rat
  */
 'use strict';
 
