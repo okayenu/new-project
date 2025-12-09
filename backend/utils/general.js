@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create social-interest graph schema for video review ecosystem linking users, ta
+ * Task: Create admin controls for shopping assistant community governance, escalation wo
  */
 'use strict';
 
