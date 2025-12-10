@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add AI-to-social bridge for recommendation quality so assistant can suggest rele
+ * Task: Write tests for merchant operations safety policy enforcement, prompt injection 
  */
 'use strict';
 
