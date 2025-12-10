@@ -1,6 +1,6 @@
 /**
  * Community Experiences
- * Task: Document model operations for community experiences: prompt/version rollout, eva
+ * Task: Implement prompt orchestration layer for community experiences with retrieval ho
  */
 'use strict';
 
