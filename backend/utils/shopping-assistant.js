@@ -1,6 +1,6 @@
 /**
  * Shopping Assistant
- * Task: Implement group chat service for shopping assistant with moderation filters, rat
+ * Task: Document model operations for shopping assistant: prompt/version rollout, evalua
  */
 'use strict';
 
