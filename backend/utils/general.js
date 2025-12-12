@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Add AI-to-social bridge for catalog intelligence so assistant can suggest releva
+ * Task: Write tests for checkout orchestration safety policy enforcement, prompt injecti
  */
 'use strict';
 
