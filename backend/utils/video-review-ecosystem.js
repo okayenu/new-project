@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Implement group chat service for video review ecosystem with moderation filters,
+ * Task: Develop shared-list and group recommendation features for video review ecosystem
  */
 'use strict';
 
