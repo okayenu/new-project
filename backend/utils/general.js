@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for recommendation quality safety policy enforcement, prompt injecti
+ * Task: Create social-interest graph schema for search and discovery linking users, tags
  */
 'use strict';
 
