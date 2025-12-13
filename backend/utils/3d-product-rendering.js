@@ -1,6 +1,6 @@
 /**
  * 3d Product Rendering
- * Task: Implement group chat service for 3D product rendering with moderation filters, r
+ * Task: Develop shared-list and group recommendation features for 3D product rendering w
  */
 'use strict';
 
