@@ -1,6 +1,6 @@
 /**
  * Video Review Ecosystem
- * Task: Develop shared-list and group recommendation features for video review ecosystem
+ * Task: Document model operations for video review ecosystem: prompt/version rollout, ev
  */
 'use strict';
 
