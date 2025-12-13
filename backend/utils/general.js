@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Create social-interest graph schema for merchant operations linking users, tags,
+ * Task: Add AI-to-social bridge for shopping assistant so assistant can suggest relevant
  */
 'use strict';
 
