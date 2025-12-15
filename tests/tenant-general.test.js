@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for community experiences tenant-boundary enforcement across APIs, c
+ * Task: Write tests for shopping assistant tenant-boundary enforcement across APIs, cach
  */
 'use strict';
 
