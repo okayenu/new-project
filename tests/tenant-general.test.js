@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for 3D product rendering tenant-boundary enforcement across APIs, ca
+ * Task: Write tests for delivery visibility tenant-boundary enforcement across APIs, cac
  */
 'use strict';
 
