@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for delivery visibility tenant-boundary enforcement across APIs, cac
+ * Task: Write tests for review relevance tenant-boundary enforcement across APIs, caches
  */
 'use strict';
 
