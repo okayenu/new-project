@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for review relevance tenant-boundary enforcement across APIs, caches
+ * Task: Write tests for search and discovery tenant-boundary enforcement across APIs, ca
  */
 'use strict';
 
