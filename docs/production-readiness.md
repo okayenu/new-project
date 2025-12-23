@@ -830,3 +830,35 @@
 4. Notify stakeholders
 
 ---
+
+## Production Readiness: Shopping Assistant
+
+> Task: Document production readiness checklist for shopping assistant launch gates and operational SLO owne
+
+### Launch Gates
+
+- [ ] All unit tests passing (`npm test`)
+- [ ] Integration tests passing in staging environment
+- [ ] Load test completed (p95 < 200ms at 1000 RPS)
+- [ ] Security scan clean (`npm audit --production`)
+- [ ] Feature flag configured and tested
+- [ ] Rollback procedure documented and tested
+- [ ] On-call runbook updated
+- [ ] Alerts configured in monitoring dashboard
+
+### SLO Ownership
+
+| SLO | Target | Owner |
+|-----|--------|-------|
+| Availability | 99.9% | Platform Team |
+| Latency p95 | < 200ms | shopping-assistant Team |
+| Error rate | < 0.1% | shopping-assistant Team |
+
+### Rollback Steps
+
+1. Disable feature flag `enable_shopping_assistant`
+2. Redeploy previous release tag
+3. Verify health checks pass
+4. Notify stakeholders
+
+---
