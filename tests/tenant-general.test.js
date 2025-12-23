@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for search and discovery tenant-boundary enforcement across APIs, ca
+ * Task: Write tests for community experiences tenant-boundary enforcement across APIs, c
  */
 'use strict';
 
