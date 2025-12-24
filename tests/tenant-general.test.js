@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for community experiences tenant-boundary enforcement across APIs, c
+ * Task: Write tests for recommendation quality tenant-boundary enforcement across APIs, 
  */
 'use strict';
 
