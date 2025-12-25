@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for checkout orchestration tenant-boundary enforcement across APIs, 
+ * Task: Write tests for personalization tenant-boundary enforcement across APIs, caches,
  */
 'use strict';
 
