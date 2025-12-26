@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for personalization tenant-boundary enforcement across APIs, caches,
+ * Task: Write tests for catalog intelligence tenant-boundary enforcement across APIs, ca
  */
 'use strict';
 
