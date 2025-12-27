@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for catalog intelligence tenant-boundary enforcement across APIs, ca
+ * Task: Write tests for shopping assistant tenant-boundary enforcement across APIs, cach
  */
 'use strict';
 
