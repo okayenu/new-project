@@ -382,3 +382,35 @@
 4. Notify stakeholders
 
 ---
+
+## Production Readiness: Merchant Operations
+
+> Task: Document production readiness checklist for merchant operations launch gates and operational SLO own
+
+### Launch Gates
+
+- [ ] All unit tests passing (`npm test`)
+- [ ] Integration tests passing in staging environment
+- [ ] Load test completed (p95 < 200ms at 1000 RPS)
+- [ ] Security scan clean (`npm audit --production`)
+- [ ] Feature flag configured and tested
+- [ ] Rollback procedure documented and tested
+- [ ] On-call runbook updated
+- [ ] Alerts configured in monitoring dashboard
+
+### SLO Ownership
+
+| SLO | Target | Owner |
+|-----|--------|-------|
+| Availability | 99.9% | Platform Team |
+| Latency p95 | < 200ms | merchant-operations Team |
+| Error rate | < 0.1% | merchant-operations Team |
+
+### Rollback Steps
+
+1. Disable feature flag `enable_merchant_operations`
+2. Redeploy previous release tag
+3. Verify health checks pass
+4. Notify stakeholders
+
+---
