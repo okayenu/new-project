@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for search and discovery tenant-boundary enforcement across APIs, ca
+ * Task: Write tests for merchant operations tenant-boundary enforcement across APIs, cac
  */
 'use strict';
 
