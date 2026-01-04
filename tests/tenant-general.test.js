@@ -1,6 +1,6 @@
 /**
  * General
- * Task: Write tests for merchant operations tenant-boundary enforcement across APIs, cac
+ * Task: Write tests for community experiences tenant-boundary enforcement across APIs, c
  */
 'use strict';
 
